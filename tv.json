@@ -1,98 +1,14 @@
 {
     "success": true,
-    "timestamp": 1786187050,
+    "timestamp": 1786273650,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.03515982627868652,
+    "performance": 0.03572201728820801,
     "streams": [
         {
             "category": "American Football",
             "id": 26,
             "always_live": false,
             "streams": [
-                {
-                    "id": 26279,
-                    "name": "Firenze Red Lions vs. Alpine Rams",
-                    "tag": "AFLE",
-                    "source_tag": "AFLE+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/be7b0ce10b5ce50f7b39d814d073372c-thumbnail.jpg",
-                    "blurhash": "LaH9az{zkDJ%r=WCRjt6xFs:kCR*",
-                    "colors": [
-                        "#b20405",
-                        "#34364f"
-                    ],
-                    "uri_name": "afle\/2026-08-08\/fir-alp",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786210200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afle\/2026-08-08\/fir-alp?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26281,
-                    "name": "Panthers Wroclaw vs. Vienna Vikings",
-                    "tag": "AFLE",
-                    "source_tag": "AFLE+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d8b2b5cd13edfd37f53d3536c54ddd7b-thumbnail.jpg",
-                    "blurhash": "L8D9b~02-o^c_ND$Mx%NJI-mxu9b",
-                    "colors": [
-                        "#031579",
-                        "#5b388a"
-                    ],
-                    "uri_name": "afle\/2026-08-08\/pan-vie",
-                    "starts_at": 1786204800,
-                    "ends_at": 1786217400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afle\/2026-08-08\/pan-vie?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26275,
-                    "name": "Edmonton Elks vs. Montreal Alouettes",
-                    "tag": "Canadian Football",
-                    "source_tag": "CFL+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/772fdb9fb7f9738f190737c6b072009e-thumbnail.jpg",
-                    "blurhash": "L38|Fj3{4T@|soW:jto100{9_NKf",
-                    "colors": [
-                        "#0f4d2c",
-                        "#7a2b3b"
-                    ],
-                    "uri_name": "cfl\/2026-08-08\/edm-mtl",
-                    "starts_at": 1786215600,
-                    "ends_at": 1786228200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-08-08\/edm-mtl?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26277,
-                    "name": "Hamilton Tiger-Cats vs. BC Lions",
-                    "tag": "Canadian Football",
-                    "source_tag": "CFL+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2e1d13f348a1429df61ea4fb9280045b-thumbnail.jpg",
-                    "blurhash": "LHJ$NU*Ev|VssobGj@o002VaOtkE",
-                    "colors": [
-                        "#ffb81c",
-                        "#f05a22"
-                    ],
-                    "uri_name": "cfl\/2026-08-08\/ham-bc",
-                    "starts_at": 1786230000,
-                    "ends_at": 1786242600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-08-08\/ham-bc?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 26283,
                     "name": "Paris Lights vs. London Warriors",
@@ -133,7 +49,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/afle\/2026-08-09\/rhe-ber?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "4"
                 }
             ]
         },
@@ -142,69 +58,6 @@
             "id": 66,
             "always_live": false,
             "streams": [
-                {
-                    "id": 26296,
-                    "name": "Adelaide Crows vs. Richmond",
-                    "tag": "AFL",
-                    "source_tag": "Fox Footy",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d873fd99321ff48e1f3cbe875cdea0a2-thumbnail.jpg",
-                    "blurhash": "L8C~kw0D=qx[juj[jsay00~QNzwH",
-                    "colors": [
-                        "#002a6f",
-                        "#e6b843"
-                    ],
-                    "uri_name": "afl\/2026-08-08\/adel-rich",
-                    "starts_at": 1786181700,
-                    "ends_at": 1786192500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-08-08\/adel-rich?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "24"
-                },
-                {
-                    "id": 26297,
-                    "name": "GWS GIANTS vs. Gold Coast SUNS",
-                    "tag": "AFL",
-                    "source_tag": "Fox Footy",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/6fbd718a608c7e81c22415b7a680e570-thumbnail.jpg",
-                    "blurhash": "LaEwm.}BwcSzj[j@fQa|5RJmX8af",
-                    "colors": [
-                        "#f07947",
-                        "#173246"
-                    ],
-                    "uri_name": "afl\/2026-08-09\/gws-gcfc",
-                    "starts_at": 1786245000,
-                    "ends_at": 1786255800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-08-09\/gws-gcfc?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26298,
-                    "name": "West Coast Eagles vs. Collingwood",
-                    "tag": "AFL",
-                    "source_tag": "Fox Footy",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/1970fd83c265f847b093e36851dcba7f-thumbnail.jpg",
-                    "blurhash": "L26Hi$m}4.pHxVxWjsNK00c8^,Vr",
-                    "colors": [
-                        "#24275a",
-                        "#222222"
-                    ],
-                    "uri_name": "afl\/2026-08-09\/wce-coll",
-                    "starts_at": 1786255800,
-                    "ends_at": 1786266600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-08-09\/wce-coll?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 26299,
                     "name": "St Kilda vs. Carlton",
@@ -224,7 +77,7 @@
                     "category_name": "Australian Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-08-09\/stk-carl?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "84"
                 }
             ]
         },
@@ -234,49 +87,28 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 26475,
-                    "name": "Atlanta Braves vs. New York Yankees",
+                    "id": 26494,
+                    "name": "Cincinnati Reds vs. Washington Nationals",
                     "tag": "MLB",
-                    "source_tag": "YES",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/3f01dda0ff0c823dc792999d1dbef917-thumbnail.jpg",
-                    "blurhash": "LKAReu|HrrSgjtjtj[fQ9[J,ozn%",
+                    "source_tag": "Peacock",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/338909bf8ca4fcbab7303f6f317d5315-thumbnail.jpg",
+                    "blurhash": "L2Eui=|2HrF_wdo1j]WV00BT%~#S",
                     "colors": [
-                        "#b01c2e",
-                        "#0c2340"
+                        "#b0021b",
+                        "#ab0003"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/atl-nyy",
-                    "starts_at": 1786215900,
-                    "ends_at": 1786228500,
+                    "uri_name": "mlb\/2026-08-09\/cin-wsh",
+                    "starts_at": 1786292100,
+                    "ends_at": 1786304700,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/atl-nyy?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/cin-wsh?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26476,
-                    "name": "Los Angeles Angels vs. Miami Marlins",
-                    "tag": "MLB",
-                    "source_tag": "Marlins.TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/1d83c67beb6a9e3aa317188c92871151-thumbnail.jpg",
-                    "blurhash": "LMA+{r{1sTSNfQjZj[fk9sKOkCkC",
-                    "colors": [
-                        "#ba0021",
-                        "#008e97"
-                    ],
-                    "uri_name": "mlb\/2026-08-08\/laa-mia",
-                    "starts_at": 1786219800,
-                    "ends_at": 1786232400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/laa-mia?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26477,
+                    "id": 26495,
                     "name": "Athletics vs. Boston Red Sox",
                     "tag": "MLB",
                     "source_tag": "NESN",
@@ -286,39 +118,39 @@
                         "#004b3a",
                         "#a51c30"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/ath-bos",
-                    "starts_at": 1786219800,
-                    "ends_at": 1786232400,
+                    "uri_name": "mlb\/2026-08-09\/ath-bos",
+                    "starts_at": 1786296900,
+                    "ends_at": 1786309500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/ath-bos?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/ath-bos?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26478,
-                    "name": "Toronto Blue Jays vs. Philadelphia Phillies",
+                    "id": 26496,
+                    "name": "Atlanta Braves vs. New York Yankees",
                     "tag": "MLB",
-                    "source_tag": "NBC Sports Phil",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ef97c4b018f7358856936ab3682c1ee1-thumbnail.jpg",
-                    "blurhash": "LUC}3w7jnnr=o2a}fRjt5h#Qocba",
+                    "source_tag": "YES",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/3f01dda0ff0c823dc792999d1dbef917-thumbnail.jpg",
+                    "blurhash": "LKAReu|HrrSgjtjtj[fQ9[J,ozn%",
                     "colors": [
-                        "#1d4ed8",
-                        "#c8102e"
+                        "#b01c2e",
+                        "#0c2340"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/tor-phi",
-                    "starts_at": 1786226700,
-                    "ends_at": 1786239300,
+                    "uri_name": "mlb\/2026-08-09\/atl-nyy",
+                    "starts_at": 1786296900,
+                    "ends_at": 1786309500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/tor-phi?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/atl-nyy?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26479,
+                    "id": 26497,
                     "name": "New York Mets vs. Pittsburgh Pirates",
                     "tag": "MLB",
                     "source_tag": "MLB.TV",
@@ -328,39 +160,60 @@
                         "#003f87",
                         "#c9a227"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/nym-pit",
-                    "starts_at": 1786228800,
-                    "ends_at": 1786241400,
+                    "uri_name": "mlb\/2026-08-09\/nym-pit",
+                    "starts_at": 1786296900,
+                    "ends_at": 1786309500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/nym-pit?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/nym-pit?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
-                    "id": 26480,
-                    "name": "Cincinnati Reds vs. Washington Nationals",
+                    "id": 26498,
+                    "name": "Toronto Blue Jays vs. Philadelphia Phillies",
                     "tag": "MLB",
-                    "source_tag": "Nationals.TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/338909bf8ca4fcbab7303f6f317d5315-thumbnail.jpg",
-                    "blurhash": "L2Eui=|2HrF_wdo1j]WV00BT%~#S",
+                    "source_tag": "NBC Sports Phil",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ef97c4b018f7358856936ab3682c1ee1-thumbnail.jpg",
+                    "blurhash": "LUC}3w7jnnr=o2a}fRjt5h#Qocba",
                     "colors": [
-                        "#b0021b",
-                        "#ab0003"
+                        "#1d4ed8",
+                        "#c8102e"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/cin-wsh",
-                    "starts_at": 1786229100,
-                    "ends_at": 1786241700,
+                    "uri_name": "mlb\/2026-08-09\/tor-phi",
+                    "starts_at": 1786296900,
+                    "ends_at": 1786309500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/cin-wsh?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/tor-phi?gid=1099049730",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 26499,
+                    "name": "Los Angeles Angels vs. Miami Marlins",
+                    "tag": "MLB",
+                    "source_tag": "Marlins.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/1d83c67beb6a9e3aa317188c92871151-thumbnail.jpg",
+                    "blurhash": "LMA+{r{1sTSNfQjZj[fk9sKOkCkC",
+                    "colors": [
+                        "#ba0021",
+                        "#008e97"
+                    ],
+                    "uri_name": "mlb\/2026-08-09\/laa-mia",
+                    "starts_at": 1786297200,
+                    "ends_at": 1786309800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/laa-mia?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26481,
+                    "id": 26500,
                     "name": "Chicago Cubs vs. Kansas City Royals",
                     "tag": "MLB",
                     "source_tag": "Royals.TV",
@@ -370,18 +223,39 @@
                         "#1d428a",
                         "#0051a5"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/chc-kc",
-                    "starts_at": 1786230600,
-                    "ends_at": 1786243200,
+                    "uri_name": "mlb\/2026-08-09\/chc-kc",
+                    "starts_at": 1786299000,
+                    "ends_at": 1786311600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/chc-kc?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/chc-kc?gid=1099049730",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 26501,
+                    "name": "Cleveland Guardians vs. Chicago White Sox",
+                    "tag": "MLB",
+                    "source_tag": "CHSN",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7ebea8210dbfabd258b377d08738fde1-thumbnail.jpg",
+                    "blurhash": "LNCg$D{#rrS~jtjtfQj[5QKNkWen",
+                    "colors": [
+                        "#c41e3a",
+                        "#2b2b2b"
+                    ],
+                    "uri_name": "mlb\/2026-08-09\/cle-chw",
+                    "starts_at": 1786299000,
+                    "ends_at": 1786311600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/cle-chw?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26482,
+                    "id": 26502,
                     "name": "Minnesota Twins vs. Milwaukee Brewers",
                     "tag": "MLB",
                     "source_tag": "Brewers.TV",
@@ -391,60 +265,18 @@
                         "#003a8f",
                         "#1a2f5a"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/min-mil",
-                    "starts_at": 1786230600,
-                    "ends_at": 1786243200,
+                    "uri_name": "mlb\/2026-08-09\/min-mil",
+                    "starts_at": 1786299000,
+                    "ends_at": 1786311600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/min-mil?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/min-mil?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
-                    "id": 26483,
-                    "name": "Baltimore Orioles vs. Texas Rangers",
-                    "tag": "MLB",
-                    "source_tag": "MLB.TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/870776150d1718be64105f1f5faf04dc-thumbnail.jpg",
-                    "blurhash": "LQCz@t|;rsWYo0a}fRjs5kJVkVa}",
-                    "colors": [
-                        "#d04a02",
-                        "#003278"
-                    ],
-                    "uri_name": "mlb\/2026-08-08\/bal-tex",
-                    "starts_at": 1786230900,
-                    "ends_at": 1786243500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/bal-tex?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26484,
-                    "name": "Cleveland Guardians vs. Chicago White Sox",
-                    "tag": "MLB",
-                    "source_tag": "MLB.TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7ebea8210dbfabd258b377d08738fde1-thumbnail.jpg",
-                    "blurhash": "LNCg$D{#rrS~jtjtfQj[5QKNkWen",
-                    "colors": [
-                        "#c41e3a",
-                        "#2b2b2b"
-                    ],
-                    "uri_name": "mlb\/2026-08-08\/cle-chw",
-                    "starts_at": 1786230900,
-                    "ends_at": 1786243500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/cle-chw?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26485,
+                    "id": 26503,
                     "name": "Colorado Rockies vs. St. Louis Cardinals",
                     "tag": "MLB",
                     "source_tag": "Cardinals.TV",
@@ -454,60 +286,60 @@
                         "#3c3c3c",
                         "#b22234"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/col-stl",
-                    "starts_at": 1786230900,
-                    "ends_at": 1786243500,
+                    "uri_name": "mlb\/2026-08-09\/col-stl",
+                    "starts_at": 1786299300,
+                    "ends_at": 1786311900,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/col-stl?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/col-stl?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26486,
+                    "id": 26504,
+                    "name": "Baltimore Orioles vs. Texas Rangers",
+                    "tag": "MLB",
+                    "source_tag": "Rangers Sports Network",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/870776150d1718be64105f1f5faf04dc-thumbnail.jpg",
+                    "blurhash": "LQCz@t|;rsWYo0a}fRjs5kJVkVa}",
+                    "colors": [
+                        "#d04a02",
+                        "#003278"
+                    ],
+                    "uri_name": "mlb\/2026-08-09\/bal-tex",
+                    "starts_at": 1786300500,
+                    "ends_at": 1786313100,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/bal-tex?gid=1099049730",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 26505,
                     "name": "Detroit Tigers vs. San Francisco Giants",
                     "tag": "MLB",
-                    "source_tag": "MLB.TV",
+                    "source_tag": "NBC Sports BA",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a90ebfedf39f1455fcd48be2d2285515-thumbnail.jpg",
                     "blurhash": "LCDaMz1Q#8;yoKa}j[jZ0f|?b^OE",
                     "colors": [
                         "#102a44",
                         "#e05a1e"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/det-sf",
-                    "starts_at": 1786230900,
-                    "ends_at": 1786243500,
+                    "uri_name": "mlb\/2026-08-09\/det-sf",
+                    "starts_at": 1786305900,
+                    "ends_at": 1786318500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/det-sf?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/det-sf?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26487,
-                    "name": "Houston Astros vs. San Diego Padres",
-                    "tag": "MLB",
-                    "source_tag": "Padres.TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5af7f31b4803ffcaa036a4561851c248-thumbnail.jpg",
-                    "blurhash": "L67Kb,-tIU9Zjsjtj[az009Z%M=|",
-                    "colors": [
-                        "#002d62",
-                        "#4a3c31"
-                    ],
-                    "uri_name": "mlb\/2026-08-08\/hou-sd",
-                    "starts_at": 1786230900,
-                    "ends_at": 1786243500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/hou-sd?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26488,
+                    "id": 26506,
                     "name": "Los Angeles Dodgers vs. Arizona Diamondbacks",
                     "tag": "MLB",
                     "source_tag": "DBACKS.TV",
@@ -517,18 +349,18 @@
                         "#005a9c",
                         "#9a1e2c"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/lad-ari",
-                    "starts_at": 1786234200,
-                    "ends_at": 1786246800,
+                    "uri_name": "mlb\/2026-08-09\/lad-ari",
+                    "starts_at": 1786306200,
+                    "ends_at": 1786318800,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/lad-ari?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/lad-ari?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26489,
+                    "id": 26507,
                     "name": "Tampa Bay Rays vs. Seattle Mariners",
                     "tag": "MLB",
                     "source_tag": "Mariners.TV",
@@ -538,13 +370,34 @@
                         "#1a3e6e",
                         "#0a2f44"
                     ],
-                    "uri_name": "mlb\/2026-08-08\/tb-sea",
-                    "starts_at": 1786240200,
-                    "ends_at": 1786252800,
+                    "uri_name": "mlb\/2026-08-09\/tb-sea",
+                    "starts_at": 1786306200,
+                    "ends_at": 1786318800,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-08\/tb-sea?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/tb-sea?gid=1099049730",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 26508,
+                    "name": "Houston Astros vs. San Diego Padres",
+                    "tag": "MLB",
+                    "source_tag": "NBC",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5af7f31b4803ffcaa036a4561851c248-thumbnail.jpg",
+                    "blurhash": "L67Kb,-tIU9Zjsjtj[az009Z%M=|",
+                    "colors": [
+                        "#002d62",
+                        "#4a3c31"
+                    ],
+                    "uri_name": "mlb\/2026-08-09\/hou-sd",
+                    "starts_at": 1786321200,
+                    "ends_at": 1786333800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-09\/hou-sd?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -556,132 +409,88 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 26472,
-                    "name": "Las Vegas Aces vs. Minnesota Lynx",
+                    "id": 26490,
+                    "name": "Las Vegas Aces vs. New York Liberty",
                     "tag": "WNBA",
-                    "source_tag": "CBS",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/25bf4fccbac7a63a74d452688f716055-thumbnail.jpg",
-                    "blurhash": "LDAwh@~TkCflj[j[fQay00NHs9Rk",
+                    "source_tag": "ABC",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d04001ef09d9e83e7d59411891bfec16-thumbnail.jpg",
+                    "blurhash": "L6CtUn_RKOSxozjGfQbH00K##mkW",
                     "colors": [
                         "#a7a8aa",
-                        "#266092"
+                        "#86cebc"
                     ],
-                    "uri_name": "wnba\/2026-08-08\/lv-min",
-                    "starts_at": 1786208400,
-                    "ends_at": 1786219200,
+                    "uri_name": "wnba\/2026-08-09\/lv-ny",
+                    "starts_at": 1786293000,
+                    "ends_at": 1786303800,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-08\/lv-min?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-09\/lv-ny?gid=1099049730",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 26491,
+                    "name": "Phoenix Mercury vs. Washington Mystics",
+                    "tag": "WNBA",
+                    "source_tag": "MNMT",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ae01649281041d2c6c5a1039d937891a-thumbnail.jpg",
+                    "blurhash": "LAF44.3rru0zs:oLayWB00IAt5}s",
+                    "colors": [
+                        "#3c286e",
+                        "#e03a3e"
+                    ],
+                    "uri_name": "wnba\/2026-08-09\/phx-wsh",
+                    "starts_at": 1786302000,
+                    "ends_at": 1786312800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-09\/phx-wsh?gid=1099049730",
                     "substreams": [],
                     "viewers": "1"
                 },
                 {
-                    "id": 26473,
-                    "name": "Indiana Fever vs. Chicago Sky",
+                    "id": 26492,
+                    "name": "Dallas Wings vs. Minnesota Lynx",
                     "tag": "WNBA",
-                    "source_tag": "ABC",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a5055c45346f5d1c2ef575b32653bd46-thumbnail.jpg",
-                    "blurhash": "L49Q?v00Kk?tWFf5R+R.00*J,BD;",
+                    "source_tag": "NBC",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/8093f699d981843bb2724f1b7e340b04-thumbnail.jpg",
+                    "blurhash": "L25$DN001O-;R+offQWB00?d^2I:",
                     "colors": [
-                        "#002d62",
-                        "#5091cd"
+                        "#002b5c",
+                        "#266092"
                     ],
-                    "uri_name": "wnba\/2026-08-08\/ind-chi",
-                    "starts_at": 1786217400,
-                    "ends_at": 1786228200,
+                    "uri_name": "wnba\/2026-08-09\/dal-min",
+                    "starts_at": 1786303800,
+                    "ends_at": 1786314600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-08\/ind-chi?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-09\/dal-min?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 26474,
-                    "name": "Seattle Storm vs. Portland Fire",
+                    "id": 26493,
+                    "name": "Golden State Valkyries vs. Los Angeles Sparks",
                     "tag": "WNBA",
-                    "source_tag": "NBA TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg",
-                    "blurhash": "L8DJhh00x_+jbvaLfkf+00~ErqcW",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ccf38900dc276fd46fa5ce61b4855748-thumbnail.jpg",
+                    "blurhash": "LEC~AN-@X9-TbIadfQkC0Js%slEM",
                     "colors": [
-                        "#2c5235",
-                        "#cee5eb"
+                        "#b38fcf",
+                        "#552583"
                     ],
-                    "uri_name": "wnba\/2026-08-08\/sea-por",
-                    "starts_at": 1786235400,
-                    "ends_at": 1786246200,
+                    "uri_name": "wnba\/2026-08-09\/gs-la",
+                    "starts_at": 1786316400,
+                    "ends_at": 1786327200,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-08\/sea-por?gid=1099049730",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-09\/gs-la?gid=1099049730",
                     "substreams": [],
                     "viewers": "0"
-                }
-            ]
-        },
-        {
-            "category": "Combat Sports",
-            "id": 33,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 26382,
-                    "name": "UFC Fight Night: Gamrot vs. Salkilld",
-                    "tag": "Mixed Martial Arts",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/b46595b8f1f54d243470d300094bcc83-thumbnail.jpg",
-                    "blurhash": "L99aZ}W=00r=yCbIMyV@~qoy4mRQ",
-                    "colors": [
-                        "#000a0a",
-                        "#161813"
-                    ],
-                    "uri_name": "ufc-fight-night-gamrot-vs-salkilld",
-                    "starts_at": 1786222800,
-                    "ends_at": 1786258800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Combat Sports",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-gamrot-vs-salkilld?gid=1099049730",
-                    "substreams": [
-                        {
-                            "id": 26383,
-                            "name": "UFC Fight Night: Gamrot vs. Salkilld",
-                            "tag": "Mixed Martial Arts",
-                            "uri_name": "ufc-fight-night-gamrot-vs-salkilld\/paramount-pt",
-                            "source_tag": "Paramount+",
-                            "locale": "pt",
-                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-gamrot-vs-salkilld\/paramount-pt"
-                        },
-                        {
-                            "id": 26384,
-                            "name": "UFC Fight Night: Gamrot vs. Salkilld",
-                            "tag": "Mixed Martial Arts",
-                            "uri_name": "ufc-fight-night-gamrot-vs-salkilld\/paramount-es",
-                            "source_tag": "Paramount+",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-gamrot-vs-salkilld\/paramount-es"
-                        },
-                        {
-                            "id": 26385,
-                            "name": "UFC Fight Night: Gamrot vs. Salkilld",
-                            "tag": "Mixed Martial Arts",
-                            "uri_name": "ufc-fight-night-gamrot-vs-salkilld\/dazn-de",
-                            "source_tag": "DAZN",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-gamrot-vs-salkilld\/dazn-de"
-                        },
-                        {
-                            "id": 26386,
-                            "name": "UFC Fight Night: Gamrot vs. Salkilld",
-                            "tag": "Mixed Martial Arts",
-                            "uri_name": "ufc-fight-night-gamrot-vs-salkilld\/nova-sport-6-cs",
-                            "source_tag": "Nova Sport 6",
-                            "locale": "cs",
-                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-gamrot-vs-salkilld\/nova-sport-6-cs"
-                        }
-                    ],
-                    "viewers": "2"
                 }
             ]
         },
@@ -690,363 +499,6 @@
             "id": 34,
             "always_live": false,
             "streams": [
-                {
-                    "id": 26318,
-                    "name": "Queens Park Rangers vs. Millwall",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2dc233c09b9dcb0a2ae04316e9bd10c4-thumbnail.jpg",
-                    "blurhash": "LM3SPwWMRpoej[aya}j[RLoZouWA",
-                    "colors": [
-                        "#0000d2",
-                        "#091452"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/qpr-mil",
-                    "starts_at": 1786194000,
-                    "ends_at": 1786203000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/qpr-mil?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26340,
-                    "name": "\u00d6rgryte IS vs. AIK",
-                    "tag": "Swedish Allsvenskan",
-                    "source_tag": "TV4 Fotboll",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d501e1cfca6778dfb9585bcad5edbbd5-thumbnail.jpg",
-                    "blurhash": "LAHveP_ao@V[s-jaj@a#02KbWGXk",
-                    "colors": [
-                        "#ec2021",
-                        "#c9ad01"
-                    ],
-                    "uri_name": "swedish-allsvenskan\/2026-08-08\/rg-aik",
-                    "starts_at": 1786194000,
-                    "ends_at": 1786203000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/swedish-allsvenskan\/2026-08-08\/rg-aik?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 25611,
-                    "name": "Tottenham Hotspur vs. Getafe",
-                    "tag": "Preseason Friendly",
-                    "source_tag": "SPURSPLAY",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/387b2d19685adfb652eddcc99fe6cdc7-thumbnail.jpg",
-                    "blurhash": "L35E?|NTIy${a%j=j[az00xz$_Iz",
-                    "colors": [
-                        "#132257",
-                        "#0000cc"
-                    ],
-                    "uri_name": "friendly\/2026-08-08\/tot-get",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786204800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/friendly\/2026-08-08\/tot-get?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "5"
-                },
-                {
-                    "id": 26319,
-                    "name": "Burnley vs. Notts County",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a4a16ccf679db566cca2ac0dbf5e13d0-thumbnail.jpg",
-                    "blurhash": "L68g24|QVZSus.j]azax00J#tkaj",
-                    "colors": [
-                        "#6b1d44",
-                        "#1a1a1a"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/bur-nco",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786206600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/bur-nco?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "1"
-                },
-                {
-                    "id": 26320,
-                    "name": "Derby County vs. Lincoln City",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/09ad6521d4027fafc6988956abec4b81-thumbnail.jpg",
-                    "blurhash": "LhJ72j.mtRi_oLa|fQj[0eR5R*W.",
-                    "colors": [
-                        "#ffffff",
-                        "#c8142f"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/der-lcn",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786206600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/der-lcn?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26321,
-                    "name": "Leicester City vs. Northampton Town",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/db3791a5e859a9b0e53076860739d44f-thumbnail.jpg",
-                    "blurhash": "LbAcN9OxnoRkjZbHfRjZD$V=f#t2",
-                    "colors": [
-                        "#0202f8",
-                        "#8e003c"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/lei-nht",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786206600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/lei-nht?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26322,
-                    "name": "Swansea City vs. Birmingham City",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2f5bd63e649779d230266c1d62b4abb9-thumbnail.jpg",
-                    "blurhash": "LcEV:i~i%1kCj]j@fkj[9DN2R%Rk",
-                    "colors": [
-                        "#ffffff",
-                        "#0000f8"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/swa-bir",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786206600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/swa-bir?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26323,
-                    "name": "West Ham United vs. Portsmouth",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/53ec9e46f7d9665e145a92c9ce035186-thumbnail.jpg",
-                    "blurhash": "LA9GV0:znFtSogj[a#ay00Xro?N2",
-                    "colors": [
-                        "#7d2c3b",
-                        "#0000f8"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/whu-por",
-                    "starts_at": 1786197600,
-                    "ends_at": 1786206600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/whu-por?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "1"
-                },
-                {
-                    "id": 26341,
-                    "name": "Mj\u00e4llby AIF vs. IF Elfsborg",
-                    "tag": "Swedish Allsvenskan",
-                    "source_tag": "TV4 Fotboll",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/467cd123d6a2c30acc4f1ec65e185c98-thumbnail.jpg",
-                    "blurhash": "L7EoeD06^[aOt4WDj[fj05~PIv?V",
-                    "colors": [
-                        "#231f20",
-                        "#feef34"
-                    ],
-                    "uri_name": "swedish-allsvenskan\/2026-08-08\/mja-elf",
-                    "starts_at": 1786203000,
-                    "ends_at": 1786212000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/swedish-allsvenskan\/2026-08-08\/mja-elf?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26324,
-                    "name": "Colchester United vs. Southampton",
-                    "tag": "Carabao Cup",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2b70dab0832286cd920760ece8b78e67-thumbnail.jpg",
-                    "blurhash": "LbD%|+77wPjFj[a|fQju9rwGX4s+",
-                    "colors": [
-                        "#0e00f6",
-                        "#ed1c3c"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/col-sou",
-                    "starts_at": 1786206600,
-                    "ends_at": 1786215600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/col-sou?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26448,
-                    "name": "Rotherham United vs. West Bromwich Albion",
-                    "tag": "Carabao Cup",
-                    "source_tag": "V Sport Football",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/185fe53d6c884472be583021f45d7d5d-thumbnail.jpg",
-                    "blurhash": "LZEmwq{ywJkWofayfQj[56K5S#R*",
-                    "colors": [
-                        "#f32728",
-                        "#091452"
-                    ],
-                    "uri_name": "carabao-cup\/2026-08-08\/rot-wba",
-                    "starts_at": 1786206600,
-                    "ends_at": 1786215600,
-                    "always_live": 0,
-                    "locale": "sv",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-08\/rot-wba?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26290,
-                    "name": "New England Revolution vs. Houston Dynamo FC",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/8425343c53467dab5d7fcb8d3a02ce07-thumbnail.jpg",
-                    "blurhash": "LFDQ+p3s+#IUj[bHayf60drCS}-V",
-                    "colors": [
-                        "#003087",
-                        "#e30613"
-                    ],
-                    "uri_name": "mls\/2026-08-08\/ne-hou",
-                    "starts_at": 1786221000,
-                    "ends_at": 1786231800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-08-08\/ne-hou?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26369,
-                    "name": "Orlando City SC vs. Le\u00f3n",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/6bfcd1c025a1f4456a440adab09618ee-thumbnail.jpg",
-                    "blurhash": "LA7xp}vI9ZORocofayWB00O%-;w}",
-                    "colors": [
-                        "#003087",
-                        "#007a33"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-08\/orl-leo",
-                    "starts_at": 1786228200,
-                    "ends_at": 1786239000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-08\/orl-leo?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26370,
-                    "name": "Inter Miami CF vs. Monterrey",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7ec00852183457ed6e31f9fb8eaa24a0-thumbnail.jpg",
-                    "blurhash": "LB6lyFp{E2bxkCfRa|fj00aL-oiv",
-                    "colors": [
-                        "#00a1e6",
-                        "#003da5"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-08\/mia-mty",
-                    "starts_at": 1786233600,
-                    "ends_at": 1786244400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-08\/mia-mty?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26371,
-                    "name": "Guadalajara vs. FC Dallas",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a268a047f0616a335cfedd556aa33511-thumbnail.jpg",
-                    "blurhash": "L5Gr-|eRD4tTofr=jtS#00o~.mVr",
-                    "colors": [
-                        "#c8102e",
-                        "#c8102e"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-08\/gdl-dal",
-                    "starts_at": 1786237200,
-                    "ends_at": 1786248000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-08\/gdl-dal?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26372,
-                    "name": "Real Salt Lake vs. Atlante",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/f8276b81f1eca16c5688285b261e3bc6-thumbnail.jpg",
-                    "blurhash": "L584P}5P01=~%2Rjf6t700=z_ME0",
-                    "colors": [
-                        "#003087",
-                        "#002f87"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-08\/rsl-atl",
-                    "starts_at": 1786240800,
-                    "ends_at": 1786251600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-08\/rsl-atl?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26373,
-                    "name": "Toluca vs. LAFC",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/0f0a9f84823dd8b6754c922e0f446ee7-thumbnail.jpg",
-                    "blurhash": "LEHccl_@M_E0afayjZoL00Edx]%f",
-                    "colors": [
-                        "#e4002b",
-                        "#c39e6d"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-08\/tol-lafc",
-                    "starts_at": 1786245000,
-                    "ends_at": 1786255800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-08\/tol-lafc?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 26342,
                     "name": "Hammarby IF vs. BK H\u00e4cken",
@@ -1066,7 +518,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/swedish-allsvenskan\/2026-08-09\/ham-bkh?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 26343,
@@ -1360,7 +812,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/uefa-super-cup\/2026-08-12\/psg-avl?gid=1099049730",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "3"
                 },
                 {
                     "id": 25612,
@@ -1407,59 +859,10 @@
             ]
         },
         {
-            "category": "Miscellaneous",
-            "id": 44,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 25881,
-                    "name": "Kill Tony Live from MSG | Saturday",
-                    "tag": "Kill Tony Live",
-                    "source_tag": "PPV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/9f54dea213c4d5ffbc5caafa12db0a7f-thumbnail.jpg",
-                    "blurhash": "L7ByKy8w9F_NVYS#tRRj00%~t,8_",
-                    "colors": [
-                        "#370002",
-                        "#230001"
-                    ],
-                    "uri_name": "kt-2026-08-08",
-                    "starts_at": 1786228200,
-                    "ends_at": 1786249800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Miscellaneous",
-                    "iframe": "https:\/\/embedindia.st\/embed\/kt-2026-08-08?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "2"
-                }
-            ]
-        },
-        {
             "category": "Motorsports",
             "id": 35,
             "always_live": false,
             "streams": [
-                {
-                    "id": 26269,
-                    "name": "AMA Motocross Championship at Loretta Lynn's - Day 5",
-                    "tag": "Motocross",
-                    "source_tag": "FloRacing",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/3865bec79ccc8ce64d537ce0816bc2ca-thumbnail.jpg",
-                    "blurhash": "L7DbsNL*FWcYD1h${f?G@X*gW?yB",
-                    "colors": [
-                        "#202a34",
-                        "#1a7e1e"
-                    ],
-                    "uri_name": "ama-motocross-championship-at-loretta-lynns---day-5",
-                    "starts_at": 1786190400,
-                    "ends_at": 1786226400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Motorsports",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ama-motocross-championship-at-loretta-lynns---day-5?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "1"
-                },
                 {
                     "id": 26230,
                     "name": "Dutch Grand Prix - Practice 1",
@@ -1798,104 +1201,6 @@
             ]
         },
         {
-            "category": "Rugby",
-            "id": 42,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 26305,
-                    "name": "Rabbitohs vs. Eels",
-                    "tag": "Rugby League (NRL)",
-                    "source_tag": "Fox League",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/c55a98a869b8d6673e81d6f3ce534e08-thumbnail.jpg",
-                    "blurhash": "L8AJgM_#i$pJofjraza#00PDtQM{",
-                    "colors": [
-                        "#8f3950",
-                        "#1f61b8"
-                    ],
-                    "uri_name": "nrl\/2026-08-08\/sou-par",
-                    "starts_at": 1786181700,
-                    "ends_at": 1786190700,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-08-08\/sou-par?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "12"
-                },
-                {
-                    "id": 26306,
-                    "name": "Raiders vs. Knights",
-                    "tag": "Rugby League (NRL)",
-                    "source_tag": "Fox League",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/4a90b74bdc3f753b3b5ccb0345a7af41-thumbnail.jpg",
-                    "blurhash": "L56+U:HEIq#@$jShf6sS00#0%2NH",
-                    "colors": [
-                        "#288028",
-                        "#2e4a92"
-                    ],
-                    "uri_name": "nrl\/2026-08-09\/can-new",
-                    "starts_at": 1786248000,
-                    "ends_at": 1786257000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-08-09\/can-new?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26307,
-                    "name": "Dragons vs. Sharks",
-                    "tag": "Rugby League (NRL)",
-                    "source_tag": "Fox League",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/36c6529a838f1da0780e931381480288-thumbnail.jpg",
-                    "blurhash": "LOBVw~{}r?Ipofj[ayay9YEgkCxa",
-                    "colors": [
-                        "#b32437",
-                        "#1a746e"
-                    ],
-                    "uri_name": "nrl\/2026-08-09\/st.-cro",
-                    "starts_at": 1786255500,
-                    "ends_at": 1786264500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-08-09\/st.-cro?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                }
-            ]
-        },
-        {
-            "category": "Wrestling",
-            "id": 38,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 26313,
-                    "name": "AEW Saturday Night Collision",
-                    "tag": "Wrestling",
-                    "source_tag": "TNT",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-                    "blurhash": "LDDk_9Na01of}mNwNMbF0TS#^cae",
-                    "colors": [
-                        "#210e10",
-                        "#160c0a"
-                    ],
-                    "uri_name": "aew\/2026-08-08",
-                    "starts_at": 1786233600,
-                    "ends_at": 1786244400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-08-08?gid=1099049730",
-                    "substreams": [],
-                    "viewers": "0"
-                }
-            ]
-        },
-        {
             "category": "24\/7 Streams",
             "id": 14,
             "always_live": true,
@@ -1919,7 +1224,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-south-park?gid=1099049730",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "6"
                 },
                 {
                     "id": 3663,
@@ -1961,7 +1266,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy?gid=1099049730",
                     "substreams": [],
-                    "viewers": "7"
+                    "viewers": "16"
                 },
                 {
                     "id": 5191,
@@ -1982,7 +1287,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-the-simpsons?gid=1099049730",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "4"
                 },
                 {
                     "id": 16623,
@@ -2003,7 +1308,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants?gid=1099049730",
                     "substreams": [],
-                    "viewers": "2"
+                    "viewers": "4"
                 },
                 {
                     "id": 17270,
@@ -2024,7 +1329,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/rally-tv?gid=1099049730",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "1"
                 }
             ]
         }
