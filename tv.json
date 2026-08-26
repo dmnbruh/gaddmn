@@ -1,8 +1,8 @@
 {
     "success": true,
-    "timestamp": 1787581010,
+    "timestamp": 1787763170,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.03781485557556152,
+    "performance": 0.040350914001464844,
     "streams": [
         {
             "category": "American Football",
@@ -28,7 +28,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-27\/pit-buf?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27275,
@@ -437,6 +437,27 @@
             "always_live": false,
             "streams": [
                 {
+                    "id": 27406,
+                    "name": "Fox Footy",
+                    "tag": "24\/7 channel",
+                    "source_tag": "Kayo",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
+                    "blurhash": "LNBozTj[0eafkCj]aefR0eay}[j[",
+                    "colors": [
+                        "#051c3e",
+                        "#051d3f"
+                    ],
+                    "uri_name": "247-fox-footy",
+                    "starts_at": -60,
+                    "ends_at": 10740,
+                    "always_live": 1,
+                    "locale": "en",
+                    "category_name": "Australian Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-footy?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
                     "id": 27374,
                     "name": "Western Bulldogs vs. Collingwood",
                     "tag": "AFL",
@@ -481,28 +502,880 @@
             ]
         },
         {
-            "category": "Combat Sports",
-            "id": 33,
+            "category": "Baseball",
+            "id": 36,
             "always_live": false,
             "streams": [
                 {
-                    "id": 27385,
-                    "name": "Dana White's Contender Series",
-                    "tag": "Mixed Martial Arts (MMA)",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg",
-                    "blurhash": "L97#+in%0LV@t7emR*a}03X9~Voz",
+                    "id": 27456,
+                    "name": "Tampa Bay Rays vs. Detroit Tigers",
+                    "tag": "MLB",
+                    "source_tag": "Tigers.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2a23d4032a9e60b284089f4e55c65125-thumbnail.jpg",
+                    "blurhash": "L47-yspM9GjEogj[t7of00nf?abI",
                     "colors": [
-                        "#169bbc",
-                        "#15abcc"
+                        "#1a3e6e",
+                        "#102a44"
                     ],
-                    "uri_name": "dwcs\/2026-08-25",
-                    "starts_at": 1787698800,
-                    "ends_at": 1787713200,
+                    "uri_name": "mlb\/2026-08-26\/tb-det",
+                    "starts_at": 1787764200,
+                    "ends_at": 1787776800,
                     "always_live": 0,
                     "locale": "en",
-                    "category_name": "Combat Sports",
-                    "iframe": "https:\/\/embedindia.st\/embed\/dwcs\/2026-08-25?gid=1124143407",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/tb-det?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27457,
+                    "name": "Chicago Cubs vs. Arizona Diamondbacks",
+                    "tag": "MLB",
+                    "source_tag": "DBACKS.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/88393e1dbf575f770f41f7e525fee94f-thumbnail.jpg",
+                    "blurhash": "LCB2l_CTixInjZbHj[jZ0JRNtQ-U",
+                    "colors": [
+                        "#1d428a",
+                        "#9a1e2c"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/chc-ari",
+                    "starts_at": 1787773200,
+                    "ends_at": 1787785800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/chc-ari?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27458,
+                    "name": "Cincinnati Reds vs. San Francisco Giants",
+                    "tag": "MLB",
+                    "source_tag": "NBC Sports BA",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/1c20577cb7c140df9ff14793509ba4d9-thumbnail.jpg",
+                    "blurhash": "L3HH_d0CQ,=YwcWVj[j[00}lu4Si",
+                    "colors": [
+                        "#b0021b",
+                        "#e05a1e"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/cin-sf",
+                    "starts_at": 1787773500,
+                    "ends_at": 1787786100,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/cin-sf?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27459,
+                    "name": "Cleveland Guardians vs. Los Angeles Angels",
+                    "tag": "MLB",
+                    "source_tag": "Angels.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d4710f49248621c6f0a162fda7f263db-thumbnail.jpg",
+                    "blurhash": "L6GY1,}ZVYAXsAj[fkWV0JACpI,q",
+                    "colors": [
+                        "#c41e3a",
+                        "#ba0021"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/cle-laa",
+                    "starts_at": 1787774820,
+                    "ends_at": 1787787420,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/cle-laa?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27460,
+                    "name": "Philadelphia Phillies vs. Seattle Mariners",
+                    "tag": "MLB",
+                    "source_tag": "Mariners.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ea485fb55361369c47d01d6772395424-thumbnail.jpg",
+                    "blurhash": "LSChW,}ErrNGofkCfQay56I:kWoy",
+                    "colors": [
+                        "#c8102e",
+                        "#0a2f44"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/phi-sea",
+                    "starts_at": 1787775000,
+                    "ends_at": 1787787600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/phi-sea?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27461,
+                    "name": "Pittsburgh Pirates vs. San Diego Padres",
+                    "tag": "MLB",
+                    "source_tag": "Padres.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/0d4caf727e03bc0a18918b302ae85641-thumbnail.jpg",
+                    "blurhash": "LJEB$V~4n#oeoKj@a}a|0OI@kDRl",
+                    "colors": [
+                        "#c9a227",
+                        "#4a3c31"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/pit-sd",
+                    "starts_at": 1787775000,
+                    "ends_at": 1787787600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/pit-sd?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27462,
+                    "name": "Boston Red Sox vs. Miami Marlins",
+                    "tag": "MLB",
+                    "source_tag": "Marlins.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/fac60264b494e3018283dcc5323b5ab1-thumbnail.jpg",
+                    "blurhash": "LLAmD1{1n$J7fkjZjua|55Fxoft7",
+                    "colors": [
+                        "#a51c30",
+                        "#008e97"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/bos-mia",
+                    "starts_at": 1787784000,
+                    "ends_at": 1787796600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/bos-mia?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27463,
+                    "name": "Colorado Rockies vs. Washington Nationals",
+                    "tag": "MLB",
+                    "source_tag": "Nationals.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5d604ae83e23589408f15ff04a10c70b-thumbnail.jpg",
+                    "blurhash": "L7C5SV1IZ$=|jsayofj[00}tx]E1",
+                    "colors": [
+                        "#3c3c3c",
+                        "#ab0003"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/col-wsh",
+                    "starts_at": 1787784300,
+                    "ends_at": 1787796900,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/col-wsh?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27464,
+                    "name": "Houston Astros vs. New York Yankees",
+                    "tag": "MLB",
+                    "source_tag": "ESPN Unlmtd",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/9a61dd73280440743d54930c9e8ac3ef-thumbnail.jpg",
+                    "blurhash": "L28E6]L,4ny?aes:j[WV00p^_3QR",
+                    "colors": [
+                        "#002d62",
+                        "#0c2340"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/hou-nyy",
+                    "starts_at": 1787785500,
+                    "ends_at": 1787798100,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/hou-nyy?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27465,
+                    "name": "Kansas City Royals vs. Toronto Blue Jays",
+                    "tag": "MLB",
+                    "source_tag": "Sportsnet",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7c87f6c269669fb7930f2e7c1a0b2618-thumbnail.jpg",
+                    "blurhash": "L16[wxlp4YVhxvozxts.00mO_JT2",
+                    "colors": [
+                        "#0051a5",
+                        "#1d4ed8"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/kc-tor",
+                    "starts_at": 1787785620,
+                    "ends_at": 1787798220,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/kc-tor?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27466,
+                    "name": "Milwaukee Brewers vs. New York Mets",
+                    "tag": "MLB",
+                    "source_tag": "SNY",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/93731d2032d63961f82f8996e4e626b8-thumbnail.jpg",
+                    "blurhash": "L26kYk}{024zjFWUoeof009T~V?X",
+                    "colors": [
+                        "#1a2f5a",
+                        "#003f87"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/mil-nym",
+                    "starts_at": 1787785800,
+                    "ends_at": 1787798400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/mil-nym?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27467,
+                    "name": "Los Angeles Dodgers vs. Atlanta Braves",
+                    "tag": "MLB",
+                    "source_tag": "BravesVision",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a8172e5c42ced7685e5159def4a7c6fd-thumbnail.jpg",
+                    "blurhash": "LEB.+u3sw3nNV[a}j[oK00#QkVof",
+                    "colors": [
+                        "#005a9c",
+                        "#b01c2e"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/lad-atl",
+                    "starts_at": 1787786100,
+                    "ends_at": 1787798700,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/lad-atl?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27468,
+                    "name": "Texas Rangers vs. Chicago White Sox",
+                    "tag": "MLB",
+                    "source_tag": "CHSN",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/cc65e806a43082f6e14f0a19d3be8ba7-thumbnail.jpg",
+                    "blurhash": "L77_1uxzIWNZxtt7fQWB00R#%Lr?",
+                    "colors": [
+                        "#003278",
+                        "#2b2b2b"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/tex-chw",
+                    "starts_at": 1787787600,
+                    "ends_at": 1787800200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/tex-chw?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27469,
+                    "name": "Baltimore Orioles vs. St. Louis Cardinals",
+                    "tag": "MLB",
+                    "source_tag": "Cardinals.TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/60bb3f8ea709985b12532d5896459f84-thumbnail.jpg",
+                    "blurhash": "L4Grh}|-IA%ge.kBbHjZ00b{%gE1",
+                    "colors": [
+                        "#d04a02",
+                        "#b22234"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/bal-stl",
+                    "starts_at": 1787787900,
+                    "ends_at": 1787800500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/bal-stl?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27470,
+                    "name": "Minnesota Twins vs. Athletics",
+                    "tag": "MLB",
+                    "source_tag": "NBC Sports CA",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/354e2e0da99dedfde0fc6b131487d531-thumbnail.jpg",
+                    "blurhash": "LC7-g6$XM|NEozofjtWB0JNpxuxH",
+                    "colors": [
+                        "#003a8f",
+                        "#004b3a"
+                    ],
+                    "uri_name": "mlb\/2026-08-26\/min-ath",
+                    "starts_at": 1787792700,
+                    "ends_at": 1787805300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-26\/min-ath?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                }
+            ]
+        },
+        {
+            "category": "Basketball",
+            "id": 37,
+            "always_live": false,
+            "streams": [
+                {
+                    "id": 27454,
+                    "name": "Golden State Valkyries vs. Connecticut Sun",
+                    "tag": "WNBA",
+                    "source_tag": "NBC Sports BO",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/8b4aa6871e75b6889f988fc2ba7cd75b-thumbnail.jpg",
+                    "blurhash": "LLHl=I3Gb1$%j?WVfQj[0d,-oIRP",
+                    "colors": [
+                        "#b38fcf",
+                        "#f05023"
+                    ],
+                    "uri_name": "wnba\/2026-08-26\/gs-con",
+                    "starts_at": 1787785200,
+                    "ends_at": 1787796000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-26\/gs-con?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27455,
+                    "name": "Toronto Tempo vs. Seattle Storm",
+                    "tag": "WNBA",
+                    "source_tag": "USA Net",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/603bdc49e1b39bd147666e1f3852fa8d-thumbnail.jpg",
+                    "blurhash": "L77Un^RcEMn_azj[ayay00s#-Vbe",
+                    "colors": [
+                        "#33476d",
+                        "#2c5235"
+                    ],
+                    "uri_name": "wnba\/2026-08-26\/tor-sea",
+                    "starts_at": 1787796000,
+                    "ends_at": 1787806800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-08-26\/tor-sea?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27513,
+                    "name": "Guinea vs. South Sudan",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/1244f04fd59a55944847a3cafa8cdeb6-thumbnail.jpg",
+                    "blurhash": "LPChNw|C#qV{jbj@jtf757JDOWXQ",
+                    "colors": [
+                        "#ce1126",
+                        "#0f47af"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/gin-ssd",
+                    "starts_at": 1787832000,
+                    "ends_at": 1787842800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/gin-ssd?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27514,
+                    "name": "Angola vs. DR Congo",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/292867ba5aa43798627d4083603d4636-thumbnail.jpg",
+                    "blurhash": "LEB.Z=_#oObyson+jrW;0vO^k8R$",
+                    "colors": [
+                        "#b3161c",
+                        "#4e7fbf"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/ago-cod",
+                    "starts_at": 1787833800,
+                    "ends_at": 1787844600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/ago-cod?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27515,
+                    "name": "Nigeria vs. Cameroon",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a232ae30c46da1683ec454cc99d9e570-thumbnail.jpg",
+                    "blurhash": "L37{Tk49?7Q8oybHj[f600_}EAui",
+                    "colors": [
+                        "#008751",
+                        "#007a5e"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/nga-cmr",
+                    "starts_at": 1787842800,
+                    "ends_at": 1787853600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/nga-cmr?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27498,
+                    "name": "Finland vs. Sweden",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/00e2f759febb6268e80b7012f1854179-thumbnail.jpg",
+                    "blurhash": "L47_pW;fIqDgogj[j[ay00D$%0yZ",
+                    "colors": [
+                        "#003580",
+                        "#006aa7"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/fin-swe",
+                    "starts_at": 1787844600,
+                    "ends_at": 1787855400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/fin-swe?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27516,
+                    "name": "Mali vs. Ivory Coast",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2a31fc57e4612ff3238c2671fc9ce6c8-thumbnail.jpg",
+                    "blurhash": "L8EVfP4DpCpcoebFfkfk01,2#Ezp",
+                    "colors": [
+                        "#14b53a",
+                        "#e8730a"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/mli-civ",
+                    "starts_at": 1787844600,
+                    "ends_at": 1787855400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/mli-civ?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27499,
+                    "name": "Hungary vs. Estonia",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/6af21a4b52826b16201e63fa3d52689d-thumbnail.jpg",
+                    "blurhash": "L58X|a{tV~F|Vx$zj[I=00Agt2,^",
+                    "colors": [
+                        "#436f4d",
+                        "#0072ce"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/hun-est",
+                    "starts_at": 1787846400,
+                    "ends_at": 1787857200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/hun-est?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27504,
+                    "name": "Qatar vs. China",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/0e0e2acef489d63225debfa65ca3b65c-thumbnail.jpg",
+                    "blurhash": "L7GFRV3?-p;fsobHfkj@00:5IoJ.",
+                    "colors": [
+                        "#8d1b3d",
+                        "#de2910"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/qat-chn",
+                    "starts_at": 1787846400,
+                    "ends_at": 1787857200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/qat-chn?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27505,
+                    "name": "Saudi Arabia vs. Japan",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/67c8fc3008d51bd9324475bb0e6f08c8-thumbnail.jpg",
+                    "blurhash": "LCCFkt1D$L^loLa|j@jt00}]X9D%",
+                    "colors": [
+                        "#006c35",
+                        "#bc002d"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/ksa-jpn",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787860800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/ksa-jpn?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27500,
+                    "name": "Croatia vs. Latvia",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7ae18dc5f96db71fd2b1bdbe277fc5d6-thumbnail.jpg",
+                    "blurhash": "LEEJ.0||ninhsmo0fQWq0JNYbbS$",
+                    "colors": [
+                        "#c8102e",
+                        "#6e1e28"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/hrv-lva",
+                    "starts_at": 1787853600,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/hrv-lva?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27501,
+                    "name": "Germany vs. Netherlands",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/07334f7a59e54ae4c07377f953c2cd58-thumbnail.jpg",
+                    "blurhash": "LHCX:G{br]XAWCR-fQs,0eKQbaV?",
+                    "colors": [
+                        "#b3282d",
+                        "#21468b"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/deu-nld",
+                    "starts_at": 1787853600,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/deu-nld?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27502,
+                    "name": "Israel vs. Poland",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2fc870c506690fd5e2dd6aff4c083672-thumbnail.jpg",
+                    "blurhash": "LJDu7c3GwOr=ozaefQkC00#QX5oe",
+                    "colors": [
+                        "#0038b8",
+                        "#c8102e"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/isr-pol",
+                    "starts_at": 1787853600,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/isr-pol?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27506,
+                    "name": "Lebanon vs. South Korea",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/4de7dcac64cb449aec83ba8c366a843e-thumbnail.jpg",
+                    "blurhash": "LLE1j,{JwKkqj[jtfQfQ00O?X7Rj",
+                    "colors": [
+                        "#c8102e",
+                        "#003478"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/lbn-kor",
+                    "starts_at": 1787853600,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/lbn-kor?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27517,
+                    "name": "Tunisia vs. Cape Verde",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ca6ef6b7e5bc26de2c81cafd9c0f7bfe-thumbnail.jpg",
+                    "blurhash": "LTC;MF{wwMOEazj@fQaz5iFxX7sA",
+                    "colors": [
+                        "#c8102e",
+                        "#003893"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/tun-cpv",
+                    "starts_at": 1787853600,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/tun-cpv?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27503,
+                    "name": "France vs. Slovenia",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/8d98b9d54e21cec7b0a398dfbda80868-thumbnail.jpg",
+                    "blurhash": "L38|}Foz1P1NlAicj[Xm00NF]}}V",
+                    "colors": [
+                        "#0055a4",
+                        "#0053a5"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/fra-svn",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787866200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/fra-svn?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27518,
+                    "name": "Egypt vs. Senegal",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7e9a69192a35bdf22301219f6e9bea74-thumbnail.jpg",
+                    "blurhash": "LHC~9f{B,WkPsoo2jtWp03SuOXSQ",
+                    "colors": [
+                        "#c8102e",
+                        "#00853f"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/egy-sen",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787866200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/egy-sen?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27507,
+                    "name": "Argentina vs. Puerto Rico",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/e0a60cc1aebcc0238c0eab7dec879548-thumbnail.jpg",
+                    "blurhash": "LB9*G{Uat2rEj]fkj@fQ00vMS6TH",
+                    "colors": [
+                        "#4e8fc7",
+                        "#003da5"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/arg-pri",
+                    "starts_at": 1787868600,
+                    "ends_at": 1787879400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/arg-pri?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27508,
+                    "name": "Chile vs. United States",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/197984d5a4fc54fcef3401fb2834a1be-thumbnail.jpg",
+                    "blurhash": "L8GiTZ{|iwEMbwkWayRP00OXgM%1",
+                    "colors": [
+                        "#d52b1e",
+                        "#b22234"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/chi-usa",
+                    "starts_at": 1787872200,
+                    "ends_at": 1787883000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/chi-usa?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27509,
+                    "name": "Brazil vs. Dominican Republic",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/73988472e96baaac3164f51b3004ec20-thumbnail.jpg",
+                    "blurhash": "LA7e-6HGXN#tj[W.o0Wq00#IspI-",
+                    "colors": [
+                        "#009739",
+                        "#002d62"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/bra-dom",
+                    "starts_at": 1787872200,
+                    "ends_at": 1787883000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/bra-dom?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27510,
+                    "name": "Uruguay vs. Bahamas",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7bb4731373955aeb3ac459899c3d43bb-thumbnail.jpg",
+                    "blurhash": "L36]ns?{%_9pxuxYs.WC00CEIC?w",
+                    "colors": [
+                        "#0038a8",
+                        "#00abc9"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/ury-bhs",
+                    "starts_at": 1787872200,
+                    "ends_at": 1787883000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/ury-bhs?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27511,
+                    "name": "Panama vs. Canada",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/878a9a85348221008a7f3bde589d42f5-thumbnail.jpg",
+                    "blurhash": "LAEAvh3Z+~aesToLoff+00:%X5$g",
+                    "colors": [
+                        "#003087",
+                        "#d80621"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/pan-can",
+                    "starts_at": 1787881200,
+                    "ends_at": 1787892000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/pan-can?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27512,
+                    "name": "Mexico vs. Colombia",
+                    "tag": "FIBA Qualifiers",
+                    "source_tag": "DAZN Courtside 1891",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a57d43d3822a19569d7e0274aaac472b-thumbnail.jpg",
+                    "blurhash": "L39H688d6jS;-%M*fkxo00;0=Krk",
+                    "colors": [
+                        "#006847",
+                        "#003893"
+                    ],
+                    "uri_name": "fiba\/2026-08-27\/mex-col",
+                    "starts_at": 1787883000,
+                    "ends_at": 1787893800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/fiba\/2026-08-27\/mex-col?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                }
+            ]
+        },
+        {
+            "category": "Cricket",
+            "id": 47,
+            "always_live": false,
+            "streams": [
+                {
+                    "id": 27493,
+                    "name": "Willow",
+                    "tag": "24\/7 channel",
+                    "source_tag": "Willow",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
+                    "blurhash": "L67CskcJ00f4-=f}O;f#00j2~qf*",
+                    "colors": [
+                        "#126347",
+                        "#124378"
+                    ],
+                    "uri_name": "247-willow",
+                    "starts_at": -3600,
+                    "ends_at": 10800,
+                    "always_live": 1,
+                    "locale": "en",
+                    "category_name": "Cricket",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-willow?gid=1124143407",
+                    "substreams": [
+                        {
+                            "id": 27494,
+                            "name": "Willow",
+                            "tag": "24\/7 channel",
+                            "uri_name": "247-willow-2",
+                            "source_tag": "Willow 2",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/247-willow-2"
+                        },
+                        {
+                            "id": 27495,
+                            "name": "Willow",
+                            "tag": "24\/7 channel",
+                            "uri_name": "247-willow-sports",
+                            "source_tag": "Willow Sports",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/247-willow-sports"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27496,
+                    "name": "Fox Cricket",
+                    "tag": "24\/7 channel",
+                    "source_tag": "Kayo",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg",
+                    "blurhash": "L5Bpw+~qRn4TV@xvWVaf00t7aebb",
+                    "colors": [
+                        "#061c41",
+                        "#051d3f"
+                    ],
+                    "uri_name": "247-fox-cricket",
+                    "starts_at": -3600,
+                    "ends_at": 10800,
+                    "always_live": 1,
+                    "locale": "en",
+                    "category_name": "Cricket",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket?gid=1124143407",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -513,64 +1386,6 @@
             "id": 32,
             "always_live": false,
             "streams": [
-                {
-                    "id": 27264,
-                    "name": "Players Championship 26",
-                    "tag": "Darts",
-                    "source_tag": "Board 1",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-                    "blurhash": "LSKvm#}[I:v~0e9t?HNbM{I:NG%2",
-                    "colors": [
-                        "#d41a0b",
-                        "#000000"
-                    ],
-                    "uri_name": "players-championship-26",
-                    "starts_at": 1787655600,
-                    "ends_at": 1787684400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Darts",
-                    "iframe": "https:\/\/embedindia.st\/embed\/players-championship-26?gid=1124143407",
-                    "substreams": [
-                        {
-                            "id": 27265,
-                            "name": "Players Championship 26",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-26\/board-2-en",
-                            "source_tag": "Board 2",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-26\/board-2-en"
-                        },
-                        {
-                            "id": 27266,
-                            "name": "Players Championship 26",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-26\/board-3-en",
-                            "source_tag": "Board 3",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-26\/board-3-en"
-                        },
-                        {
-                            "id": 27267,
-                            "name": "Players Championship 26",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-26\/board-4-en",
-                            "source_tag": "Board 4",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-26\/board-4-en"
-                        },
-                        {
-                            "id": 27268,
-                            "name": "Players Championship 26",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-26\/board-1-de",
-                            "source_tag": "Board 1",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-26\/board-1-de"
-                        }
-                    ],
-                    "viewers": "0"
-                },
                 {
                     "id": 27269,
                     "name": "Players Championship 27",
@@ -627,7 +1442,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/players-championship-27\/board-1-de"
                         }
                     ],
-                    "viewers": "0"
+                    "viewers": "113"
                 }
             ]
         },
@@ -637,361 +1452,94 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 26891,
-                    "name": "Bologna vs. Lazio",
-                    "tag": "Serie A",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/402c827b924d95e27adda180c85e2f0f-thumbnail.jpg",
-                    "blurhash": "L9ABbJ00EepIofWXf6o000*0-poM",
+                    "id": 27479,
+                    "name": "Rapid Vienna vs. Heart of Midlothian",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "ORF 1",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/71d5f2cbe3b158cbc8e7c00473ba12e2-thumbnail.jpg",
+                    "blurhash": "L5A05g4Et0wikCWVfkoL00:@ogen",
                     "colors": [
-                        "#1a2f48",
-                        "#87ceeb"
+                        "#2c6a37",
+                        "#8e003c"
                     ],
-                    "uri_name": "seriea\/2026-08-24\/bol-laz",
-                    "starts_at": 1787589000,
-                    "ends_at": 1787598000,
+                    "uri_name": "uefa-conference-league\/2026-08-26\/vie-hom",
+                    "starts_at": 1787762700,
+                    "ends_at": 1787771700,
+                    "always_live": 0,
+                    "locale": "de-at",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-26\/vie-hom?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "109"
+                },
+                {
+                    "id": 27442,
+                    "name": "Bradford City vs. Burnley",
+                    "tag": "Carabao Cup",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/c37f1bd05b8828deb8f342820ac46018-thumbnail.jpg",
+                    "blurhash": "L3BLF.{aZPkZs;WBayof00KRpuR#",
+                    "colors": [
+                        "#880201",
+                        "#6b1d44"
+                    ],
+                    "uri_name": "carabao-cup\/2026-08-26\/brd-bur",
+                    "starts_at": 1787769900,
+                    "ends_at": 1787778900,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-08-24\/bol-laz?gid=1124143407",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-26\/brd-bur?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26871,
-                    "name": "Osasuna vs. Levante",
-                    "tag": "LaLiga",
-                    "source_tag": "Premier Sports 1 UK",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/e2914a67b42448f4bc0af2fb16436440-thumbnail.jpg",
-                    "blurhash": "LfEwRi}7wMWVj@jtfQfQ9tJBX7W=",
-                    "colors": [
-                        "#ff6600",
-                        "#0033a0"
-                    ],
-                    "uri_name": "laliga\/2026-08-24\/osa-lev",
-                    "starts_at": 1787592600,
-                    "ends_at": 1787601600,
-                    "always_live": 0,
-                    "locale": "en-gb",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/osa-lev?gid=1124143407",
-                    "substreams": [
-                        {
-                            "id": 27250,
-                            "name": "Osasuna vs. Levante",
-                            "tag": "LaLiga",
-                            "uri_name": "laliga\/2026-08-24\/osa-lev\/espn-en",
-                            "source_tag": "ESPN+",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/osa-lev\/espn-en"
-                        },
-                        {
-                            "id": 27251,
-                            "name": "Osasuna vs. Levante",
-                            "tag": "LaLiga",
-                            "uri_name": "laliga\/2026-08-24\/osa-lev\/espn-es",
-                            "source_tag": "ESPN+",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/osa-lev\/espn-es"
-                        }
-                    ],
                     "viewers": "1"
                 },
                 {
-                    "id": 26892,
-                    "name": "AS Roma vs. Fiorentina",
-                    "tag": "Serie A",
+                    "id": 27443,
+                    "name": "Newcastle United vs. West Bromwich Albion",
+                    "tag": "Carabao Cup",
                     "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/852d2f496def476a5d62aeaa499cedbc-thumbnail.jpg",
-                    "blurhash": "L8C5DF{tDOtTxtWUf5oM00Ov.9NF",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/b8d78bc45d0f929bfcbd48cd6eed5c87-thumbnail.jpg",
+                    "blurhash": "L56uMA5LII?bxbRPa#tR00?E%bDh",
                     "colors": [
-                        "#970a2c",
-                        "#4b0082"
+                        "#0134a1",
+                        "#091452"
                     ],
-                    "uri_name": "seriea\/2026-08-24\/roma-fio",
-                    "starts_at": 1787597100,
-                    "ends_at": 1787606100,
+                    "uri_name": "carabao-cup\/2026-08-26\/new-wba",
+                    "starts_at": 1787769900,
+                    "ends_at": 1787778900,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-08-24\/roma-fio?gid=1124143407",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-26\/new-wba?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "3"
                 },
                 {
-                    "id": 26882,
-                    "name": "Fulham vs. Chelsea",
-                    "tag": "Premier League",
-                    "source_tag": "Sky Sports Premier League",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/8516af5bd034ab07161699c1b6b9f764-thumbnail.jpg",
-                    "blurhash": "L18EW3qq03TL%LocWCWY00pb_1VV",
+                    "id": 27444,
+                    "name": "Tottenham Hotspur vs. Charlton Athletic",
+                    "tag": "Carabao Cup",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a446b5dc0fb1b2e0a96318d3b7c8656c-thumbnail.jpg",
+                    "blurhash": "L7B_V%1i+J-AsoWpayju00}BTbR*",
                     "colors": [
-                        "#0033a0",
-                        "#034694"
+                        "#142458",
+                        "#c8142f"
                     ],
-                    "uri_name": "pl\/2026-08-24\/ful-che",
-                    "starts_at": 1787598000,
-                    "ends_at": 1787607000,
-                    "always_live": 0,
-                    "locale": "en-gb",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che?gid=1124143407",
-                    "substreams": [
-                        {
-                            "id": 27256,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/sky-sport-8-en-nz",
-                            "source_tag": "Sky Sport 8",
-                            "locale": "en-nz",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/sky-sport-8-en-nz"
-                        },
-                        {
-                            "id": 27257,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/sky-sport-premier-league-de",
-                            "source_tag": "Sky Sport Premier League",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/sky-sport-premier-league-de"
-                        },
-                        {
-                            "id": 27258,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/universo-es",
-                            "source_tag": "UNIVERSO",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/universo-es"
-                        },
-                        {
-                            "id": 27259,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/dazn-es",
-                            "source_tag": "DAZN",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/dazn-es"
-                        },
-                        {
-                            "id": 27260,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/v-sport-premium-sv",
-                            "source_tag": "V Sport Premium",
-                            "locale": "sv",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/v-sport-premium-sv"
-                        },
-                        {
-                            "id": 27261,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/v-sport-premier-league-no",
-                            "source_tag": "V Sport Premier League",
-                            "locale": "no",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/v-sport-premier-league-no"
-                        },
-                        {
-                            "id": 27262,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/see-da",
-                            "source_tag": "See",
-                            "locale": "da",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/see-da"
-                        },
-                        {
-                            "id": 27263,
-                            "name": "Fulham vs. Chelsea",
-                            "tag": "Premier League",
-                            "uri_name": "pl\/2026-08-24\/ful-che\/viaplay-2-urheilu-fi",
-                            "source_tag": "Viaplay 2 Urheilu",
-                            "locale": "fi",
-                            "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-24\/ful-che\/viaplay-2-urheilu-fi"
-                        }
-                    ],
-                    "viewers": "4"
-                },
-                {
-                    "id": 26872,
-                    "name": "M\u00e1laga vs. Deportivo",
-                    "tag": "LaLiga",
-                    "source_tag": "Premier Sports 1 UK",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/0305ddbd1e1fd0d7f2b9c7d47952620b-thumbnail.jpg",
-                    "blurhash": "L77e_9LNE3-ps.t6a|Rk00#+%KIU",
-                    "colors": [
-                        "#0088ce",
-                        "#0055a5"
-                    ],
-                    "uri_name": "laliga\/2026-08-24\/mcf-dep",
-                    "starts_at": 1787599800,
-                    "ends_at": 1787608800,
+                    "uri_name": "carabao-cup\/2026-08-26\/tot-cha",
+                    "starts_at": 1787769900,
+                    "ends_at": 1787778900,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/mcf-dep?gid=1124143407",
-                    "substreams": [
-                        {
-                            "id": 27252,
-                            "name": "M\u00e1laga vs. Deportivo",
-                            "tag": "LaLiga",
-                            "uri_name": "laliga\/2026-08-24\/mcf-dep\/espn-en",
-                            "source_tag": "ESPN+",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/mcf-dep\/espn-en"
-                        },
-                        {
-                            "id": 27253,
-                            "name": "M\u00e1laga vs. Deportivo",
-                            "tag": "LaLiga",
-                            "uri_name": "laliga\/2026-08-24\/mcf-dep\/espn-es",
-                            "source_tag": "ESPN+",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/mcf-dep\/espn-es"
-                        },
-                        {
-                            "id": 27254,
-                            "name": "M\u00e1laga vs. Deportivo",
-                            "tag": "LaLiga",
-                            "uri_name": "laliga\/2026-08-24\/mcf-dep\/dazn-es",
-                            "source_tag": "DAZN",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-24\/mcf-dep\/dazn-es"
-                        }
-                    ],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26983,
-                    "name": "Sabah FK vs. Hapoel Be'er",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ff3b8f310f3c5486d7f3e4ac67195ba1-thumbnail.jpg",
-                    "blurhash": "L3KG%M4SrD..wJbva}aK00@ZTdLL",
-                    "colors": [
-                        "#ec2021",
-                        "#fa0100"
-                    ],
-                    "uri_name": "uefa-champions-league-qualifying\/2026-08-25\/sab-hbe",
-                    "starts_at": 1787676300,
-                    "ends_at": 1787685300,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-25\/sab-hbe?gid=1124143407",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-26\/tot-cha?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26984,
-                    "name": "Bodo\/Glimt vs. NEC Nijmegen",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/aa43555f7a08b401e05b965c4eb83a82-thumbnail.jpg",
-                    "blurhash": "LTJis}uWkks;jZj[fjay0hi*aiRQ",
-                    "colors": [
-                        "#fcee35",
-                        "#ee3024"
-                    ],
-                    "uri_name": "uefa-champions-league-qualifying\/2026-08-25\/bodo-nec",
-                    "starts_at": 1787684400,
-                    "ends_at": 1787693400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-25\/bodo-nec?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 26985,
-                    "name": "LASK Linz vs. Celtic",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5dbab3d362017e9da39c7f58f12b93db-thumbnail.jpg",
-                    "blurhash": "LbFZp0~E$lofofj[fQay4TNFS1Rj",
-                    "colors": [
-                        "#ffffff",
-                        "#019922"
-                    ],
-                    "uri_name": "uefa-champions-league-qualifying\/2026-08-25\/las-cel",
-                    "starts_at": 1787684400,
-                    "ends_at": 1787693400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-25\/las-cel?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 27294,
-                    "name": "Valencia vs. Real Betis",
-                    "tag": "LaLiga",
-                    "source_tag": "LaLiga",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/fe5bd845552e1a47fc7793844299e8f2-thumbnail.jpg",
-                    "blurhash": "LgEn|O{#wJWobHbHfQjZ9bK3X8W;",
-                    "colors": [
-                        "#ff6600",
-                        "#00954c"
-                    ],
-                    "uri_name": "laliga\/2026-08-25\/val-bet",
-                    "starts_at": 1787684400,
-                    "ends_at": 1787693400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-25\/val-bet?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 27370,
-                    "name": "Monterrey vs. Chicago Fire FC",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/453d41742d54c48380cc020ec34710c5-thumbnail.jpg",
-                    "blurhash": "L9C=cG0?mT.8ofbHf6az00}?%zMc",
-                    "colors": [
-                        "#003da5",
-                        "#ce1432"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-25\/mty-chi",
-                    "starts_at": 1787704200,
-                    "ends_at": 1787715000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-25\/mty-chi?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 27371,
-                    "name": "Le\u00f3n vs. Real Salt Lake",
-                    "tag": "Leagues Cup",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d799e62e5e1c678b1090f27f896deacc-thumbnail.jpg",
-                    "blurhash": "L86+Rzp}4.R6jYWVa|oe00Q^?btR",
-                    "colors": [
-                        "#007a33",
-                        "#003087"
-                    ],
-                    "uri_name": "leagues-cup\/2026-08-25\/leo-rsl",
-                    "starts_at": 1787711400,
-                    "ends_at": 1787722200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/leagues-cup\/2026-08-25\/leo-rsl?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
+                    "viewers": "5"
                 },
                 {
                     "id": 26986,
                     "name": "AEK Athens vs. Levski Sofia",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
+                    "tag": "UEFA Champions League",
+                    "source_tag": "TNT Sports 4",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/968b0c86163ca9d48ca8761a367c0de1-thumbnail.jpg",
                     "blurhash": "LaF?E@~Gt7WZj]j[fQfP4pIxWBV[",
                     "colors": [
@@ -1002,17 +1550,27 @@
                     "starts_at": 1787770800,
                     "ends_at": 1787779800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/aek-levs?gid=1124143407",
-                    "substreams": [],
+                    "substreams": [
+                        {
+                            "id": 27471,
+                            "name": "AEK Athens vs. Levski Sofia",
+                            "tag": "UEFA Champions League",
+                            "uri_name": "uefa-champions-league-qualifying\/2026-08-26\/aek-levs\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/aek-levs\/paramount-en"
+                        }
+                    ],
                     "viewers": "0"
                 },
                 {
                     "id": 26987,
                     "name": "Lyon vs. Fenerbahce",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
+                    "tag": "UEFA Champions League",
+                    "source_tag": "TNT Sports 1",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/c7e447553a1061f673308afd5358774c-thumbnail.jpg",
                     "blurhash": "LXKnY2jQoPkDoJjZfQbH02fyWTac",
                     "colors": [
@@ -1023,17 +1581,36 @@
                     "starts_at": 1787770800,
                     "ends_at": 1787779800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/lyon-fen?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
+                    "substreams": [
+                        {
+                            "id": 27472,
+                            "name": "Lyon vs. Fenerbahce",
+                            "tag": "UEFA Champions League",
+                            "uri_name": "uefa-champions-league-qualifying\/2026-08-26\/lyon-fen\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/lyon-fen\/paramount-en"
+                        },
+                        {
+                            "id": 27497,
+                            "name": "Lyon vs. Fenerbahce",
+                            "tag": "UEFA Champions League",
+                            "uri_name": "uefa-champions-league-qualifying\/2026-08-26\/lyon-fen\/trt1-1440p-tr",
+                            "source_tag": "TRT1 (1440p)",
+                            "locale": "tr",
+                            "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/lyon-fen\/trt1-1440p-tr"
+                        }
+                    ],
+                    "viewers": "5"
                 },
                 {
                     "id": 26988,
                     "name": "NK Celje vs. Slovan Bratislava",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
+                    "tag": "UEFA Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5406dc4b499a2258d06212e8c22f0d0e-thumbnail.jpg",
                     "blurhash": "L3A1oC00*G+Hs;WBj@n+00_4m-P;",
                     "colors": [
@@ -1053,8 +1630,8 @@
                 {
                     "id": 26989,
                     "name": "Viking FK vs. Dinamo Zagreb",
-                    "tag": "UEFA Champions League Qualifying",
-                    "source_tag": "UEFA Champions League Qualifying",
+                    "tag": "UEFA Champions League",
+                    "source_tag": "TNT Sports 2",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/409645554bdfcaf9d3f144426bdf3465-thumbnail.jpg",
                     "blurhash": "L68pdCv0M~yYxGR+azs.00L4xsQn",
                     "colors": [
@@ -1065,17 +1642,27 @@
                     "starts_at": 1787770800,
                     "ends_at": 1787779800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/vik-dzg?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
+                    "substreams": [
+                        {
+                            "id": 27473,
+                            "name": "Viking FK vs. Dinamo Zagreb",
+                            "tag": "UEFA Champions League",
+                            "uri_name": "uefa-champions-league-qualifying\/2026-08-26\/vik-dzg\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/uefa-champions-league-qualifying\/2026-08-26\/vik-dzg\/paramount-en"
+                        }
+                    ],
+                    "viewers": "3"
                 },
                 {
                     "id": 27295,
                     "name": "Real Madrid vs. Real Sociedad",
                     "tag": "LaLiga",
-                    "source_tag": "LaLiga",
+                    "source_tag": "Premier Sports 2 UK",
                     "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/115334fafb9285b4d759fbd91de34ae1-thumbnail.jpg",
                     "blurhash": "LeE-~+}%w{ayjZj@f7a|9aI[X7S5",
                     "colors": [
@@ -1086,11 +1673,78 @@
                     "starts_at": 1787770800,
                     "ends_at": 1787779800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso?gid=1124143407",
+                    "substreams": [
+                        {
+                            "id": 27474,
+                            "name": "Real Madrid vs. Real Sociedad",
+                            "tag": "LaLiga",
+                            "uri_name": "laliga\/2026-08-26\/rma-rso\/espn-en",
+                            "source_tag": "ESPN+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso\/espn-en"
+                        },
+                        {
+                            "id": 27475,
+                            "name": "Real Madrid vs. Real Sociedad",
+                            "tag": "LaLiga",
+                            "uri_name": "laliga\/2026-08-26\/rma-rso\/espn-es",
+                            "source_tag": "ESPN+",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso\/espn-es"
+                        },
+                        {
+                            "id": 27476,
+                            "name": "Real Madrid vs. Real Sociedad",
+                            "tag": "LaLiga",
+                            "uri_name": "laliga\/2026-08-26\/rma-rso\/dazn-de",
+                            "source_tag": "DAZN",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso\/dazn-de"
+                        },
+                        {
+                            "id": 27477,
+                            "name": "Real Madrid vs. Real Sociedad",
+                            "tag": "LaLiga",
+                            "uri_name": "laliga\/2026-08-26\/rma-rso\/dazn-fr",
+                            "source_tag": "DAZN",
+                            "locale": "fr",
+                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso\/dazn-fr"
+                        },
+                        {
+                            "id": 27478,
+                            "name": "Real Madrid vs. Real Sociedad",
+                            "tag": "LaLiga",
+                            "uri_name": "laliga\/2026-08-26\/rma-rso\/dazn-1-it",
+                            "source_tag": "DAZN 1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-26\/rma-rso\/dazn-1-it"
+                        }
+                    ],
+                    "viewers": "7"
+                },
+                {
+                    "id": 27445,
+                    "name": "Preston North End vs. Everton",
+                    "tag": "Carabao Cup",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/50bfddad4ca5890ff3af40c0bb26f12c-thumbnail.jpg",
+                    "blurhash": "LeD]-_~o%1WEj[j[fRfQDhIVR*WB",
+                    "colors": [
+                        "#ffffff",
+                        "#003399"
+                    ],
+                    "uri_name": "carabao-cup\/2026-08-26\/pne-eve",
+                    "starts_at": 1787770800,
+                    "ends_at": 1787779800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-26\/pne-eve?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "6"
                 },
                 {
                     "id": 27372,
@@ -1135,6 +1789,184 @@
                     "viewers": "0"
                 },
                 {
+                    "id": 27486,
+                    "name": "Jablonec vs. Rangers",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "Rangers TV",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/580ad352410c462b33ed5569d45b13e5-thumbnail.jpg",
+                    "blurhash": "L97B?5J0Ru$*ogoffRWB00$;t0Nh",
+                    "colors": [
+                        "#035719",
+                        "#0046fe"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/jabl-ran",
+                    "starts_at": 1787846400,
+                    "ends_at": 1787855400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/jabl-ran?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27487,
+                    "name": "AS Monaco vs. Gornik Zabrze",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "Ligue 1+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a1a8f87858ca64a2c3011d02a15f91d4-thumbnail.jpg",
+                    "blurhash": "LTEd7S{twig3jtayfQj[0wOuW-Rn",
+                    "colors": [
+                        "#e41b23",
+                        "#1f20ec"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/mon-gor",
+                    "starts_at": 1787849100,
+                    "ends_at": 1787858100,
+                    "always_live": 0,
+                    "locale": "fr",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/mon-gor?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27488,
+                    "name": "SC Freiburg vs. Motherwell",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "Premier Sports 1 UK",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/e9c2c346648c43280dd42327cb825b4c-thumbnail.jpg",
+                    "blurhash": "L4KREsL_%r{^xZoMfkWB00-wN27|",
+                    "colors": [
+                        "#fe1322",
+                        "#f7aa26"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/scf-mot",
+                    "starts_at": 1787849100,
+                    "ends_at": 1787858100,
+                    "always_live": 0,
+                    "locale": "en-gb",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/scf-mot?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27480,
+                    "name": "RB Salzburg vs. Mj\u00e4llby AIF",
+                    "tag": "UEFA Europa League",
+                    "source_tag": "ORF 1",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ea7bf5e888764a00e718071cf56d31df-thumbnail.jpg",
+                    "blurhash": "LTDaM+}GwKR%oLjufQa{5QJ6X7f,",
+                    "colors": [
+                        "#d72d3a",
+                        "#231f20"
+                    ],
+                    "uri_name": "uefa-europa-league\/2026-08-27\/slz-mja",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787859000,
+                    "always_live": 0,
+                    "locale": "de-at",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/slz-mja?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27481,
+                    "name": "Omonia Nicosia vs. Sint-Truidense",
+                    "tag": "UEFA Europa League",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7769801f4f01f7305962e83a899f7834-thumbnail.jpg",
+                    "blurhash": "L8EC?70C}lr;WBWBjtof00~1I]%e",
+                    "colors": [
+                        "#035719",
+                        "#f8ea2f"
+                    ],
+                    "uri_name": "uefa-europa-league\/2026-08-27\/omon-stvv",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787859000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/omon-stvv?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27482,
+                    "name": "Viktoria Plzen vs. Red Star Belgrade",
+                    "tag": "UEFA Europa League",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/231f4a20585f930ecafe715e14d7f0f5-thumbnail.jpg",
+                    "blurhash": "LTFC*@2z#snkj]azf7a}0_#jSwsk",
+                    "colors": [
+                        "#0000da",
+                        "#fe0000"
+                    ],
+                    "uri_name": "uefa-europa-league\/2026-08-27\/plz-rsb",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787859000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/plz-rsb?gid=1124143407",
+                    "substreams": [
+                        {
+                            "id": 27483,
+                            "name": "Viktoria Plzen vs. Red Star Belgrade",
+                            "tag": "UEFA Europa League",
+                            "uri_name": "uefa-europa-league\/2026-08-27\/plz-rsb\/nova-sport-5-cs",
+                            "source_tag": "Nova Sport 5",
+                            "locale": "cs",
+                            "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/plz-rsb\/nova-sport-5-cs"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27484,
+                    "name": "Kauno Zalgiris vs. Besiktas",
+                    "tag": "UEFA Europa League",
+                    "source_tag": "Sportdigital FUSSBALL",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/e4c47b42f517ee005e70f50e9e640c0c-thumbnail.jpg",
+                    "blurhash": "L6K0ETD4uiMdofj[fkae00hKVY*J",
+                    "colors": [
+                        "#ec2021",
+                        "#ffffff"
+                    ],
+                    "uri_name": "uefa-europa-league\/2026-08-27\/zal-bes",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787859000,
+                    "always_live": 0,
+                    "locale": "de",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/zal-bes?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27489,
+                    "name": "F.C. K\u00f8benhavn vs. FC Inter Turku",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "Kanal 1 Sport",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/7f7ceb9a404629b3a61ab7a9a0ca2683-thumbnail.jpg",
+                    "blurhash": "LVEycb~k%Jxtofj[fjay4mRoRkIW",
+                    "colors": [
+                        "#ffffff",
+                        "#1f20ec"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/kbh-itu",
+                    "starts_at": 1787850000,
+                    "ends_at": 1787859000,
+                    "always_live": 0,
+                    "locale": "sk",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/kbh-itu?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
                     "id": 27296,
                     "name": "Celta Vigo vs. Osasuna",
                     "tag": "LaLiga",
@@ -1156,6 +1988,111 @@
                     "viewers": "0"
                 },
                 {
+                    "id": 27446,
+                    "name": "Chelsea vs. Luton Town",
+                    "tag": "Carabao Cup",
+                    "source_tag": "Carabao Cup",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/f17d0781d1fdba1c7b0b7139fc53b041-thumbnail.jpg",
+                    "blurhash": "L9FE4o1B{nxtoebHf7ay00}SKe#8",
+                    "colors": [
+                        "#044694",
+                        "#fe4f00"
+                    ],
+                    "uri_name": "carabao-cup\/2026-08-27\/che-ltn",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-27\/che-ltn?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27485,
+                    "name": "Anderlecht vs. Kairat Almaty",
+                    "tag": "UEFA Europa League",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/950798cb2891f00ab604f48c6d73c21f-thumbnail.jpg",
+                    "blurhash": "LDF~7;0Ix?xTofa#fQa{01?ORntQ",
+                    "colors": [
+                        "#695296",
+                        "#fcee35"
+                    ],
+                    "uri_name": "uefa-europa-league\/2026-08-27\/and-kai",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-europa-league\/2026-08-27\/and-kai?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27490,
+                    "name": "Austria Vienna vs. Braga",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "ORF 1",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/fa1746148dee908fa982231069da24fb-thumbnail.jpg",
+                    "blurhash": "LDE,v?3ZsEnMfQj[fQay0J+sX5s;",
+                    "colors": [
+                        "#755793",
+                        "#dd2026"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/vie-scb",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "de-at",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/vie-scb?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27491,
+                    "name": "Brighton & Hove Albion vs. Tromso",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "Prima Sport",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/f1df56faf670826d521b1c0d33ca0ebb-thumbnail.jpg",
+                    "blurhash": "L68ETQUJR:q?j]WVfkj?00mSt2Th",
+                    "colors": [
+                        "#0158b7",
+                        "#1f20ec"
+                    ],
+                    "uri_name": "uefa-conference-league-qualifying\/2026-08-27\/bha-tro",
+                    "starts_at": 1787855400,
+                    "ends_at": 1787864400,
+                    "always_live": 0,
+                    "locale": "cs",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league-qualifying\/2026-08-27\/bha-tro?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27492,
+                    "name": "Rijeka vs. FC Midtjylland",
+                    "tag": "UEFA Conference League",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/d1f08f1096b83a9143317df74101555d-thumbnail.jpg",
+                    "blurhash": "LP9Rh+y:btRPj[j?j[a}4mR6njoz",
+                    "colors": [
+                        "#42befc",
+                        "#1f20ec"
+                    ],
+                    "uri_name": "uefa-conference-league\/2026-08-27\/rije-mid",
+                    "starts_at": 1787856300,
+                    "ends_at": 1787865300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-conference-league\/2026-08-27\/rije-mid?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
                     "id": 27297,
                     "name": "Barcelona vs. Athletic Club",
                     "tag": "LaLiga",
@@ -1173,6 +2110,27 @@
                     "locale": "en",
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-27\/bar-ath?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 27447,
+                    "name": "Fulham vs. AFC Wimbledon",
+                    "tag": "Carabao Cup",
+                    "source_tag": "Carabao Cup",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/32a6e38f9e7192257749b670b484a753-thumbnail.jpg",
+                    "blurhash": "L37K+W_5Dv4;xaoJWXWW009S%n?I",
+                    "colors": [
+                        "#0134a1",
+                        "#0000d2"
+                    ],
+                    "uri_name": "carabao-cup\/2026-08-27\/ful-wim",
+                    "starts_at": 1787857200,
+                    "ends_at": 1787866200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/carabao-cup\/2026-08-27\/ful-wim?gid=1124143407",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -1261,6 +2219,48 @@
                     "viewers": "0"
                 },
                 {
+                    "id": 27431,
+                    "name": "AFC Fylde vs. Forest Green Rovers",
+                    "tag": "National League",
+                    "source_tag": "National League",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5d494b360a005b3408987899eb66f8c0-thumbnail.jpg",
+                    "blurhash": "LYI670;YoOg3oej[fQaz02ORaxW9",
+                    "colors": [
+                        "#ffffff",
+                        "#afff2c"
+                    ],
+                    "uri_name": "national-league\/2026-08-28\/fyl-fgr",
+                    "starts_at": 1787942700,
+                    "ends_at": 1787951700,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/national-league\/2026-08-28\/fyl-fgr?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27441,
+                    "name": "Southend United vs. Kidderminster Harriers",
+                    "tag": "National League",
+                    "source_tag": "National League",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/a2e1ae57a265a2b46fcfd502cbff8b06-thumbnail.jpg",
+                    "blurhash": "LBCrBK1-+~ocofayjubH00,-SxwI",
+                    "colors": [
+                        "#000098",
+                        "#c8142f"
+                    ],
+                    "uri_name": "national-league\/2026-08-28\/sout-kid",
+                    "starts_at": 1787942700,
+                    "ends_at": 1787951700,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/national-league\/2026-08-28\/sout-kid?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
                     "id": 27317,
                     "name": "Crystal Palace vs. Manchester City",
                     "tag": "Premier League",
@@ -1279,7 +2279,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-28\/cry-mci?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "2"
                 },
                 {
                     "id": 27299,
@@ -1972,7 +2972,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-08-29\/mia-mtl?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27351,
@@ -2686,7 +3686,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-31\/bar-ray?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 }
             ]
         },
@@ -2695,6 +3695,27 @@
             "id": 42,
             "always_live": false,
             "streams": [
+                {
+                    "id": 27405,
+                    "name": "Fox League",
+                    "tag": "24\/7 channel",
+                    "source_tag": "Kayo",
+                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
+                    "blurhash": "LD4|JQfkDGfQahj]k9j]HkfQ*7f6",
+                    "colors": [
+                        "#051c3e",
+                        "#051d3f"
+                    ],
+                    "uri_name": "247-fox-league",
+                    "starts_at": -60,
+                    "ends_at": 10740,
+                    "always_live": 1,
+                    "locale": "en",
+                    "category_name": "Rugby",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-league?gid=1124143407",
+                    "substreams": [],
+                    "viewers": "0"
+                },
                 {
                     "id": 27376,
                     "name": "Broncos vs. Storm",
@@ -2871,48 +3892,6 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 27384,
-                    "name": "WWE Monday Night RAW",
-                    "tag": "Wrestling",
-                    "source_tag": "Netflix",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",
-                    "blurhash": "L68M:aW;00n%EL;h%2s:4TW;~qsA",
-                    "colors": [
-                        "#040001",
-                        "#020001"
-                    ],
-                    "uri_name": "wwe\/2026-08-24",
-                    "starts_at": 1787616000,
-                    "ends_at": 1787626800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wwe\/2026-08-24?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 27386,
-                    "name": "WWE NXT",
-                    "tag": "Wrestling",
-                    "source_tag": "CW on ESPN",
-                    "poster": "https:\/\/static.assetstorage.net\/assets\/thumb\/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-                    "blurhash": "LLGSDh4n00RjD%~qof4nD%%MWBj[",
-                    "colors": [
-                        "#030303",
-                        "#040404"
-                    ],
-                    "uri_name": "wwe\/2026-08-25",
-                    "starts_at": 1787702400,
-                    "ends_at": 1787713200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wwe\/2026-08-25?gid=1124143407",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
                     "id": 27387,
                     "name": "AEW Wednesday Night Dynamite",
                     "tag": "Wrestling",
@@ -2931,7 +3910,7 @@
                     "category_name": "Wrestling",
                     "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-08-26?gid=1124143407",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27388,
@@ -3022,7 +4001,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-south-park?gid=1124143407",
                     "substreams": [],
-                    "viewers": "11"
+                    "viewers": "3"
                 },
                 {
                     "id": 3663,
@@ -3043,7 +4022,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-cows?gid=1124143407",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 8008,
@@ -3064,7 +4043,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy?gid=1124143407",
                     "substreams": [],
-                    "viewers": "20"
+                    "viewers": "17"
                 },
                 {
                     "id": 5191,
@@ -3106,7 +4085,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants?gid=1124143407",
                     "substreams": [],
-                    "viewers": "7"
+                    "viewers": "2"
                 },
                 {
                     "id": 17270,
