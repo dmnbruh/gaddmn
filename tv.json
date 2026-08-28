@@ -1,8 +1,8 @@
 {
     "success": true,
-    "timestamp": 1787927020,
+    "timestamp": 1787938080,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.03934288024902344,
+    "performance": 0.04670095443725586,
     "streams": [
         {
             "category": "American Football",
@@ -133,7 +133,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-08-28\/no-dal?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27284,
@@ -392,7 +392,7 @@
                     "category_name": "Australian Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-footy?gid=1145389184",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 27375,
@@ -462,7 +462,7 @@
                     "category_name": "Baseball",
                     "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-28\/lad-det?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27564,
@@ -483,7 +483,7 @@
                     "category_name": "Baseball",
                     "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-08-28\/mia-wsh?gid=1145389184",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 27565,
@@ -745,48 +745,6 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 27594,
-                    "name": "South Sudan vs. Nigeria",
-                    "tag": "FIBA - Africa",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/77492fd30bed52ac919bafa499cd0826-thumbnail.jpg",
-                    "blurhash": "L96luqQQNfpcjbe;fkf*00poxCib",
-                    "colors": [
-                        "#0f47af",
-                        "#008751"
-                    ],
-                    "uri_name": "fiba-africa\/2026-08-28\/ssd-nga",
-                    "starts_at": 1787918400,
-                    "ends_at": 1787932800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/fiba-africa\/2026-08-28\/ssd-nga?gid=1145389184",
-                    "substreams": [],
-                    "viewers": "7"
-                },
-                {
-                    "id": 27598,
-                    "name": "Jordan vs. Philippines",
-                    "tag": "FIBA - Asia",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5fbf09ad2970c67a1b7d269a12ad05d1-thumbnail.jpg",
-                    "blurhash": "L57-.{P=H]=eNzwIbHS$00rh%yET",
-                    "colors": [
-                        "#007a3d",
-                        "#0038a8"
-                    ],
-                    "uri_name": "fiba-asia\/2026-08-28\/jor-phl",
-                    "starts_at": 1787920200,
-                    "ends_at": 1787934600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/fiba-asia\/2026-08-28\/jor-phl?gid=1145389184",
-                    "substreams": [],
-                    "viewers": "136"
-                },
-                {
                     "id": 27595,
                     "name": "Cape Verde vs. Guinea",
                     "tag": "FIBA - Africa",
@@ -805,7 +763,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/fiba-africa\/2026-08-28\/cpv-gin?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "3"
                 },
                 {
                     "id": 27599,
@@ -826,7 +784,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/fiba-europe\/2026-08-28\/geo-mne?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "6"
                 },
                 {
                     "id": 27600,
@@ -847,7 +805,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/fiba-europe\/2026-08-28\/ukr-grc?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "31"
                 },
                 {
                     "id": 27596,
@@ -910,7 +868,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/fiba-europe\/2026-08-28\/srb-isl?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27603,
@@ -1041,6 +999,123 @@
             ]
         },
         {
+            "category": "Combat Sports",
+            "id": 33,
+            "always_live": false,
+            "streams": [
+                {
+                    "id": 27607,
+                    "name": "UFC Fight Night: Nurmagomedov vs. Song",
+                    "tag": "Mixed Martial Arts (MMA)",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/15c8c52316435e550119972fad6c03a7-thumbnail.jpg",
+                    "blurhash": "L6IzDY-$00KRxlWU-t$_0cVt00V?",
+                    "colors": [
+                        "#fdc7ad",
+                        "#490a65"
+                    ],
+                    "uri_name": "ufc-fight-night-nurmagomedov-vs-song",
+                    "starts_at": 1787986800,
+                    "ends_at": 1788015600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Combat Sports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-nurmagomedov-vs-song?gid=1145389184",
+                    "substreams": [
+                        {
+                            "id": 27608,
+                            "name": "UFC Fight Night: Nurmagomedov vs. Song",
+                            "tag": "Mixed Martial Arts (MMA)",
+                            "uri_name": "ufc-fight-night-nurmagomedov-vs-song\/paramount-es",
+                            "source_tag": "Paramount+",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-nurmagomedov-vs-song\/paramount-es"
+                        },
+                        {
+                            "id": 27609,
+                            "name": "UFC Fight Night: Nurmagomedov vs. Song",
+                            "tag": "Mixed Martial Arts (MMA)",
+                            "uri_name": "ufc-fight-night-nurmagomedov-vs-song\/paramount-pt",
+                            "source_tag": "Paramount+",
+                            "locale": "pt",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-nurmagomedov-vs-song\/paramount-pt"
+                        },
+                        {
+                            "id": 27610,
+                            "name": "UFC Fight Night: Nurmagomedov vs. Song",
+                            "tag": "Mixed Martial Arts (MMA)",
+                            "uri_name": "ufc-fight-night-nurmagomedov-vs-song\/dazn-de",
+                            "source_tag": "DAZN",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ufc-fight-night-nurmagomedov-vs-song\/dazn-de"
+                        }
+                    ],
+                    "viewers": "2"
+                },
+                {
+                    "id": 27611,
+                    "name": "Moses Itauma vs. Filip Hrgovic",
+                    "tag": "Boxing",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5803173a01def52721a37ef48ff2d316-thumbnail.jpg",
+                    "blurhash": "L8C$vA%M00s:-Us:xuxu00s;~pWU",
+                    "colors": [
+                        "#1f2834",
+                        "#2a3039"
+                    ],
+                    "uri_name": "moses-itauma-vs-filip-hrgovic",
+                    "starts_at": 1788026400,
+                    "ends_at": 1788048000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Combat Sports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/moses-itauma-vs-filip-hrgovic?gid=1145389184",
+                    "substreams": [
+                        {
+                            "id": 27612,
+                            "name": "Moses Itauma vs. Filip Hrgovic",
+                            "tag": "Boxing",
+                            "uri_name": "moses-itauma-vs-filip-hrgovic\/dazn-pl",
+                            "source_tag": "DAZN",
+                            "locale": "pl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/moses-itauma-vs-filip-hrgovic\/dazn-pl"
+                        },
+                        {
+                            "id": 27613,
+                            "name": "Moses Itauma vs. Filip Hrgovic",
+                            "tag": "Boxing",
+                            "uri_name": "moses-itauma-vs-filip-hrgovic\/dazn-hr",
+                            "source_tag": "DAZN",
+                            "locale": "hr",
+                            "iframe": "https:\/\/embedindia.st\/embed\/moses-itauma-vs-filip-hrgovic\/dazn-hr"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 27614,
+                    "name": "Duel Arena 1: Perry vs. Jenkins",
+                    "tag": "Combat Sports",
+                    "source_tag": "PPV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/eee17aae98e896b880a0c41b1d0dafc2-thumbnail.jpg",
+                    "blurhash": "L2AlkNS5025S?wE2E2^*00#,}??G",
+                    "colors": [
+                        "#00050e",
+                        "#041122"
+                    ],
+                    "uri_name": "duel-arena-1-perry-vs-jenkins",
+                    "starts_at": 1788040800,
+                    "ends_at": 1788062400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Combat Sports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/duel-arena-1-perry-vs-jenkins?gid=1145389184",
+                    "substreams": [],
+                    "viewers": "0"
+                }
+            ]
+        },
+        {
             "category": "Cricket",
             "id": 47,
             "always_live": false,
@@ -1083,7 +1158,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/247-willow-sports"
                         }
                     ],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 27496,
@@ -1104,7 +1179,7 @@
                     "category_name": "Cricket",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket?gid=1145389184",
                     "substreams": [],
-                    "viewers": "2"
+                    "viewers": "3"
                 },
                 {
                     "id": 27536,
@@ -1125,7 +1200,7 @@
                     "category_name": "Cricket",
                     "iframe": "https:\/\/embedindia.st\/embed\/cricket\/2026-08-28\/eng-pak?gid=1145389184",
                     "substreams": [],
-                    "viewers": "78"
+                    "viewers": "114"
                 }
             ]
         },
@@ -1153,7 +1228,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/2-bundesliga\/2026-08-28\/boc-osn?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "36"
                 },
                 {
                     "id": 27538,
@@ -1174,7 +1249,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/2-bundesliga\/2026-08-28\/ebs-bsc?gid=1145389184",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "69"
                 },
                 {
                     "id": 27298,
@@ -1195,7 +1270,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-08-28\/rac-elc?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "139"
                 },
                 {
                     "id": 27308,
@@ -1216,7 +1291,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-08-28\/mun-vfb?gid=1145389184",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "12"
                 },
                 {
                     "id": 27327,
@@ -1258,7 +1333,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-08-28\/lill-psg?gid=1145389184",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "5"
                 },
                 {
                     "id": 27431,
@@ -1279,7 +1354,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/national-league\/2026-08-28\/fyl-fgr?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27441,
@@ -1342,7 +1417,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-28\/cry-mci?gid=1145389184",
                     "substreams": [],
-                    "viewers": "3"
+                    "viewers": "26"
                 },
                 {
                     "id": 27605,
@@ -1531,7 +1606,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-29\/liv-nfo?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27309,
@@ -1657,7 +1732,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-29\/bou-eve?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27320,
@@ -1678,7 +1753,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-29\/cov-hul?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27300,
@@ -1762,7 +1837,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-29\/tot-new?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27328,
@@ -2623,7 +2698,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-08-30\/mun-ips?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27332,
@@ -2945,7 +3020,7 @@
                     "category_name": "Rugby",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-league?gid=1145389184",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "2"
                 },
                 {
                     "id": 27379,
@@ -3078,7 +3153,7 @@
                     "category_name": "Wrestling",
                     "iframe": "https:\/\/embedindia.st\/embed\/wwe\/2026-08-28?gid=1145389184",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 27390,
@@ -3127,7 +3202,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-south-park?gid=1145389184",
                     "substreams": [],
-                    "viewers": "3"
+                    "viewers": "6"
                 },
                 {
                     "id": 3663,
@@ -3211,7 +3286,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants?gid=1145389184",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "6"
                 },
                 {
                     "id": 17270,
@@ -3232,7 +3307,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/rally-tv?gid=1145389184",
                     "substreams": [],
-                    "viewers": "68"
+                    "viewers": "45"
                 }
             ]
         }
