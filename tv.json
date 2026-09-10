@@ -1,35 +1,14 @@
 {
     "success": true,
-    "timestamp": 1788960390,
+    "timestamp": 1789059130,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05899810791015625,
+    "performance": 0.045044898986816406,
     "streams": [
         {
             "category": "American Football",
             "id": 26,
             "always_live": false,
             "streams": [
-                {
-                    "id": 28131,
-                    "name": "New England Patriots at Seattle Seahawks",
-                    "tag": "NFL",
-                    "source_tag": "NBC",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/81fcb572049bd32d92559c5e3777ba1c-thumbnail.jpg",
-                    "blurhash": "L57.sZ0BOit%ofoMj[ay00*D%4bW",
-                    "colors": [
-                        "#002244",
-                        "#69be28"
-                    ],
-                    "uri_name": "nfl\/2026-09-09\/ne-sea",
-                    "starts_at": 1788999600,
-                    "ends_at": 1789014000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-09\/ne-sea?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "2"
-                },
                 {
                     "id": 28158,
                     "name": "Florida A&M Rattlers at Miami Hurricanes",
@@ -47,7 +26,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-10\/famu-mia?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-10\/famu-mia",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -68,7 +47,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-10\/sf-lar?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-10\/sf-lar",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -89,7 +68,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-11\/vill-lou?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-11\/vill-lou",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -110,7 +89,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-11\/miz-ku?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-11\/miz-ku",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -131,7 +110,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ore-okst?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ore-okst",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -152,7 +131,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/how-iu?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/how-iu",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -173,7 +152,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/asu-tam?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/asu-tam",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -194,7 +173,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ou-mich?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ou-mich",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -215,7 +194,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/psu-tem?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/psu-tem",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -236,7 +215,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/wku-uga?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/wku-uga",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -257,7 +236,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/ott-tor?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/ott-tor",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -278,7 +257,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/rice-nd?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/rice-nd",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -299,7 +278,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ala-uk?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ala-uk",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -320,7 +299,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ariz-byu?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ariz-byu",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -341,7 +320,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/usu-wash?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/usu-wash",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -362,7 +341,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ucd-smu?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ucd-smu",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -383,7 +362,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/ssk-wpg?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/ssk-wpg",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -404,7 +383,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/tenn-gt?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/tenn-gt",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -425,7 +404,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/sou-hou?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/sou-hou",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -446,7 +425,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/cgy-edm?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/cgy-edm",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -467,7 +446,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/osu-tex?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/osu-tex",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -488,7 +467,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/lt-lsu?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/lt-lsu",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -509,7 +488,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ttu-orst?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ttu-orst",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -530,7 +509,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/isu-iowa?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/isu-iowa",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -551,7 +530,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/clt-miss?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/clt-miss",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -572,7 +551,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/mtl-bc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfl\/2026-09-12\/mtl-bc",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -593,7 +572,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ark-utah?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ark-utah",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -614,7 +593,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ul-usc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/cfb\/2026-09-12\/ul-usc",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -635,7 +614,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/tb-cin?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/tb-cin",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -656,7 +635,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/no-det?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/no-det",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -677,7 +656,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/nyj-ten?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/nyj-ten",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -698,7 +677,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/bal-ind?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/bal-ind",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -719,7 +698,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/atl-pit?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/atl-pit",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -740,7 +719,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/chi-car?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/chi-car",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -761,7 +740,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/cle-jax?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/cle-jax",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -782,7 +761,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/buf-hou?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/buf-hou",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -803,7 +782,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/mia-lv?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/mia-lv",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -824,7 +803,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/gb-min?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/gb-min",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -845,7 +824,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/wsh-phi?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/wsh-phi",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -866,7 +845,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/ari-lac?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/ari-lac",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -887,7 +866,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/dal-nyg?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-13\/dal-nyg",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -908,7 +887,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-14\/den-kc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-14\/den-kc",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -936,9 +915,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-footy?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-footy",
                     "substreams": [],
-                    "viewers": "2"
+                    "viewers": "0"
                 },
                 {
                     "id": 28319,
@@ -957,7 +936,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-09-11\/fre-geel?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-09-11\/fre-geel",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -978,7 +957,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Australian Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-09-12\/bl-adel?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/afl\/2026-09-12\/bl-adel",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -990,217 +969,7 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 28361,
-                    "name": "Minnesota Twins vs. Detroit Tigers",
-                    "tag": "MLB",
-                    "source_tag": "Tigers.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/176e62615bea281b57cb51aebe075bdd-thumbnail.jpg",
-                    "blurhash": "L68Nns#eD+KhtRozj[V[00P3%fvz",
-                    "colors": [
-                        "#003a8f",
-                        "#102a44"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/min-det",
-                    "starts_at": 1788973800,
-                    "ends_at": 1788986400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/min-det?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28362,
-                    "name": "Toronto Blue Jays vs. Athletics",
-                    "tag": "MLB",
-                    "source_tag": "NBC Sports CA",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ec199f12701444b7ac9f4652457cc4bf-thumbnail.jpg",
-                    "blurhash": "LT6*^FfsRpjqfRj[fRazD$jVt4fR",
-                    "colors": [
-                        "#1d4ed8",
-                        "#004b3a"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/tor-ath",
-                    "starts_at": 1788980700,
-                    "ends_at": 1788993300,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/tor-ath?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28363,
-                    "name": "St. Louis Cardinals vs. San Francisco Giants",
-                    "tag": "MLB",
-                    "source_tag": "NBC Sports BA",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/fa7010404a1039b1f3a6b5a77bbaf29b-thumbnail.jpg",
-                    "blurhash": "L2HbPk0uUv+FwJR+ofs:00{vuOpJ",
-                    "colors": [
-                        "#b22234",
-                        "#e05a1e"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/stl-sf",
-                    "starts_at": 1788983100,
-                    "ends_at": 1788995700,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/stl-sf?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28364,
-                    "name": "Texas Rangers vs. Seattle Mariners",
-                    "tag": "MLB",
-                    "source_tag": "Mariners.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/1166264894cae4b65896ce36e1485c19-thumbnail.jpg",
-                    "blurhash": "L76[OB?1IVELtQt7j[WB00In%L$%",
-                    "colors": [
-                        "#003278",
-                        "#0a2f44"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/tex-sea",
-                    "starts_at": 1788984600,
-                    "ends_at": 1788997200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/tex-sea?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28365,
-                    "name": "Washington Nationals vs. San Diego Padres",
-                    "tag": "MLB",
-                    "source_tag": "Padres.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/3e8fce732d27db625214d6f140a73afc-thumbnail.jpg",
-                    "blurhash": "LDD88@|OVsaIj[j@azjs01I-tRXU",
-                    "colors": [
-                        "#ab0003",
-                        "#4a3c31"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/wsh-sd",
-                    "starts_at": 1788984600,
-                    "ends_at": 1788997200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/wsh-sd?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28366,
-                    "name": "Cleveland Guardians vs. Baltimore Orioles",
-                    "tag": "MLB",
-                    "source_tag": "MASN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c0c64c18bdd4f2e93885593b6000df8a-thumbnail.jpg",
-                    "blurhash": "L3HRiTiqqu5jsooLj[S200EcT{^6",
-                    "colors": [
-                        "#c41e3a",
-                        "#d04a02"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/cle-bal",
-                    "starts_at": 1788993300,
-                    "ends_at": 1789005900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cle-bal?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28367,
-                    "name": "Houston Astros vs. Philadelphia Phillies",
-                    "tag": "MLB",
-                    "source_tag": "NBC Sports Phil",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/66c8fed246e1a3290342ec4f26f2651a-thumbnail.jpg",
-                    "blurhash": "L6D83115+H-;xuRjj[oz00}Zk=rC",
-                    "colors": [
-                        "#002d62",
-                        "#c8102e"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/hou-phi",
-                    "starts_at": 1788993600,
-                    "ends_at": 1789006200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/hou-phi?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28368,
-                    "name": "New York Mets vs. Miami Marlins",
-                    "tag": "MLB",
-                    "source_tag": "Marlins.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/323ee899e37450cdba593c201519b007-thumbnail.jpg",
-                    "blurhash": "L24WeZ.n0xGYbcnjoLW;00H9^+$y",
-                    "colors": [
-                        "#003f87",
-                        "#008e97"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/nym-mia",
-                    "starts_at": 1788993600,
-                    "ends_at": 1789006200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/nym-mia?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28369,
-                    "name": "Los Angeles Angels vs. Boston Red Sox",
-                    "tag": "MLB",
-                    "source_tag": "NESN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b27dc77b5d47935cdf0fba219bb8315c-thumbnail.jpg",
-                    "blurhash": "L2FM0C*yHY~Br?aej[oL00-:%~0z",
-                    "colors": [
-                        "#ba0021",
-                        "#a51c30"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/laa-bos",
-                    "starts_at": 1788993900,
-                    "ends_at": 1789006500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/laa-bos?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28370,
-                    "name": "Colorado Rockies vs. New York Yankees",
-                    "tag": "MLB",
-                    "source_tag": "YES",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bd1af50b12fe0487120988bc59acb99f-thumbnail.jpg",
-                    "blurhash": "L37-j59D9F~pWBoeofj]00_3?b0K",
-                    "colors": [
-                        "#3c3c3c",
-                        "#0c2340"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/col-nyy",
-                    "starts_at": 1788995100,
-                    "ends_at": 1789007700,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/col-nyy?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28371,
+                    "id": 28431,
                     "name": "Tampa Bay Rays vs. Atlanta Braves",
                     "tag": "MLB",
                     "source_tag": "BravesVision",
@@ -1210,60 +979,81 @@
                         "#1a3e6e",
                         "#b01c2e"
                     ],
-                    "uri_name": "mlb\/2026-09-09\/tb-atl",
-                    "starts_at": 1788995700,
-                    "ends_at": 1789008300,
+                    "uri_name": "mlb\/2026-09-10\/tb-atl",
+                    "starts_at": 1789056900,
+                    "ends_at": 1789069500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/tb-atl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/tb-atl",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "213"
                 },
                 {
-                    "id": 28372,
-                    "name": "Arizona Diamondbacks vs. Kansas City Royals",
+                    "id": 28432,
+                    "name": "Houston Astros vs. Philadelphia Phillies",
                     "tag": "MLB",
-                    "source_tag": "Royals.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/65eac2fdee3d41ed167adb6ac6ea5fda-thumbnail.jpg",
-                    "blurhash": "LAA097_#Z+x^oLjZayof00PCx[My",
+                    "source_tag": "NBC 10",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/66c8fed246e1a3290342ec4f26f2651a-thumbnail.jpg",
+                    "blurhash": "L6D83115+H-;xuRjj[oz00}Zk=rC",
                     "colors": [
-                        "#9a1e2c",
-                        "#0051a5"
+                        "#002d62",
+                        "#c8102e"
                     ],
-                    "uri_name": "mlb\/2026-09-09\/ari-kc",
-                    "starts_at": 1788997200,
-                    "ends_at": 1789009800,
+                    "uri_name": "mlb\/2026-09-10\/hou-phi",
+                    "starts_at": 1789059900,
+                    "ends_at": 1789072500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/ari-kc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/hou-phi",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "2"
                 },
                 {
-                    "id": 28373,
-                    "name": "Chicago Cubs vs. Milwaukee Brewers",
+                    "id": 28433,
+                    "name": "Texas Rangers vs. Seattle Mariners",
                     "tag": "MLB",
-                    "source_tag": "Marquee Sports Net",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/63626dd17b7de269f53c0a1076051666-thumbnail.jpg",
-                    "blurhash": "L98q8P%7M{I,f6j[fkay00I,xu$+",
+                    "source_tag": "Mariners.TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/1166264894cae4b65896ce36e1485c19-thumbnail.jpg",
+                    "blurhash": "L76[OB?1IVELtQt7j[WB00In%L$%",
                     "colors": [
-                        "#1d428a",
-                        "#1a2f5a"
+                        "#003278",
+                        "#0a2f44"
                     ],
-                    "uri_name": "mlb\/2026-09-09\/chc-mil",
-                    "starts_at": 1788997200,
-                    "ends_at": 1789009800,
+                    "uri_name": "mlb\/2026-09-10\/tex-sea",
+                    "starts_at": 1789071000,
+                    "ends_at": 1789083600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/chc-mil?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/tex-sea",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 28374,
+                    "id": 28434,
+                    "name": "Colorado Rockies vs. New York Yankees",
+                    "tag": "MLB",
+                    "source_tag": "YES",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bd1af50b12fe0487120988bc59acb99f-thumbnail.jpg",
+                    "blurhash": "L37-j59D9F~pWBoeofj]00_3?b0K",
+                    "colors": [
+                        "#3c3c3c",
+                        "#0c2340"
+                    ],
+                    "uri_name": "mlb\/2026-09-10\/col-nyy",
+                    "starts_at": 1789081500,
+                    "ends_at": 1789094100,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/col-nyy",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 28435,
                     "name": "Pittsburgh Pirates vs. Chicago White Sox",
                     "tag": "MLB",
                     "source_tag": "CHSN",
@@ -1273,34 +1063,13 @@
                         "#c9a227",
                         "#2b2b2b"
                     ],
-                    "uri_name": "mlb\/2026-09-09\/pit-chw",
-                    "starts_at": 1788997200,
-                    "ends_at": 1789009800,
+                    "uri_name": "mlb\/2026-09-10\/pit-chw",
+                    "starts_at": 1789083600,
+                    "ends_at": 1789096200,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/pit-chw?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28375,
-                    "name": "Cincinnati Reds vs. Los Angeles Dodgers",
-                    "tag": "MLB",
-                    "source_tag": "SportsNet LA",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b85ed8cb73c95df3ff47f1419e67316d-thumbnail.jpg",
-                    "blurhash": "LHB.Zz_#rspIWBoeazay0cK*ozRP",
-                    "colors": [
-                        "#b0021b",
-                        "#005a9c"
-                    ],
-                    "uri_name": "mlb\/2026-09-09\/cin-lad",
-                    "starts_at": 1789006200,
-                    "ends_at": 1789018800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-09\/cin-lad?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-10\/pit-chw",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -1328,7 +1097,7 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "Cricket",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-willow?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-willow",
                     "substreams": [
                         {
                             "id": 27494,
@@ -1349,7 +1118,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/247-willow-sports"
                         }
                     ],
-                    "viewers": "4"
+                    "viewers": "17"
                 },
                 {
                     "id": 27496,
@@ -1368,9 +1137,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "Cricket",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "9"
                 }
             ]
         },
@@ -1380,451 +1149,31 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 28270,
-                    "name": "Barcelona vs. Feyenoord Rotterdam",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d8b2911ad948bc43947d92cc3b597feb-thumbnail.jpg",
-                    "blurhash": "L1Gh}Z0i+$BZ^N%0jvIt00~DO;{u",
+                    "id": 28385,
+                    "name": "Sundby vs. FC Midtjylland",
+                    "tag": "Danish Cup",
+                    "source_tag": "Viaplay Sport News",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bceb549b3c5c5a3afad8d90a64e8f0bf-thumbnail.jpg",
+                    "blurhash": "L2A]jd8J1b@r@u^k3CEz00[BB:G]",
                     "colors": [
-                        "#a50044",
-                        "#e30613"
+                        "#2a2836",
+                        "#333b48"
                     ],
-                    "uri_name": "ucl\/2026-09-09\/bar-fey",
-                    "starts_at": 1788972300,
-                    "ends_at": 1788981300,
+                    "uri_name": "danish-cup\/2026-09-10\/sun-mid",
+                    "starts_at": 1789056000,
+                    "ends_at": 1789065000,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "da",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/bar-fey?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/danish-cup\/2026-09-10\/sun-mid",
                     "substreams": [],
-                    "viewers": "4"
-                },
-                {
-                    "id": 28271,
-                    "name": "VfB Stuttgart vs. Viking FK",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/eb9bd4b53c7a9757f583bc76991642cb-thumbnail.jpg",
-                    "blurhash": "LUEct:}SwMi_ofj]fQay0|NHX7S~",
-                    "colors": [
-                        "#e30613",
-                        "#000080"
-                    ],
-                    "uri_name": "ucl\/2026-09-09\/vfb-vik",
-                    "starts_at": 1788972300,
-                    "ends_at": 1788981300,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/vfb-vik?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28292,
-                    "name": "FC Twente vs. Telstar",
-                    "tag": "Eredivisie",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/f3f08664c1e2cbb5b37afa393c2fe3a9-thumbnail.jpg",
-                    "blurhash": "LWEmeJ|FrsR*oLj[fQay0{JTXSof",
-                    "colors": [
-                        "#e1001a",
-                        "#1d3c8c"
-                    ],
-                    "uri_name": "eredivisie\/2026-09-09\/twe-tel",
-                    "starts_at": 1788972300,
-                    "ends_at": 1788981300,
-                    "always_live": 0,
-                    "locale": "nl",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-09\/twe-tel?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28272,
-                    "name": "Liverpool vs. Atl\u00e9tico Madrid",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/044719e2246b23060a5746b37e4e58c0-thumbnail.jpg",
-                    "blurhash": "L1H8mg4V*{T}krwIniJ.00%$L2q@",
-                    "colors": [
-                        "#c8102e",
-                        "#ce3524"
-                    ],
-                    "uri_name": "ucl\/2026-09-09\/liv-atm",
-                    "starts_at": 1788980400,
-                    "ends_at": 1788989400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/liv-atm?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "2"
-                },
-                {
-                    "id": 28273,
-                    "name": "Napoli vs. Arsenal",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/69503ff6def4a7be3d740f9de11a4e97-thumbnail.jpg",
-                    "blurhash": "LXDuP~3sxIr=j[a|fQj[9Y#QWUjt",
-                    "colors": [
-                        "#00a1e6",
-                        "#ef0107"
-                    ],
-                    "uri_name": "ucl\/2026-09-09\/nap-ars",
-                    "starts_at": 1788980400,
-                    "ends_at": 1788989400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/nap-ars?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28274,
-                    "name": "Paris Saint-Germain vs. Slovan Bratislava",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6c4dc8510852f7ae9efd54711db3e7ad-thumbnail.jpg",
-                    "blurhash": "L9DavP1B;9x]soW=jtjY00}TOqrW",
-                    "colors": [
-                        "#0033a0",
-                        "#e83030"
-                    ],
-                    "uri_name": "ucl\/2026-09-09\/psg-slb",
-                    "starts_at": 1788980400,
-                    "ends_at": 1788989400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/psg-slb?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28275,
-                    "name": "Sporting CP vs. Galatasaray",
-                    "tag": "Champions League",
-                    "source_tag": "Champions League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d33e424f4fee85b618d5759c3c4bf95e-thumbnail.jpg",
-                    "blurhash": "L9BpIO3L$x^lofWBfQof00}aX9D%",
-                    "colors": [
-                        "#008057",
-                        "#a90432"
-                    ],
-                    "uri_name": "ucl\/2026-09-09\/scp-gal",
-                    "starts_at": 1788980400,
-                    "ends_at": 1788989400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-09\/scp-gal?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28235,
-                    "name": "Atlanta United FC vs. Orlando City SC",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7c0f56fa5cb0b78ce185820b8eecfb83-thumbnail.jpg",
-                    "blurhash": "LSDQ$l|D#nxHoLayf6j@9sS%X8Na",
-                    "colors": [
-                        "#ef3e42",
-                        "#003087"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/atl-orl",
-                    "starts_at": 1788996600,
-                    "ends_at": 1789007400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/atl-orl?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28236,
-                    "name": "CF Montr\u00e9al vs. Charlotte FC",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/538e36a4c57ce52198e06b12c8f8e5d5-thumbnail.jpg",
-                    "blurhash": "L65#@*W3M|bboga#ayj?00bVxtng",
-                    "colors": [
-                        "#002395",
-                        "#1c2c5b"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/mtl-clt",
-                    "starts_at": 1788996600,
-                    "ends_at": 1789007400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/mtl-clt?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28237,
-                    "name": "D.C. United vs. Columbus Crew",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/aec426799af979ef0526a4f77cc9318c-thumbnail.jpg",
-                    "blurhash": "LAE_~50C?8xrt7kCf6WB01~NNMxV",
-                    "colors": [
-                        "#231f20",
-                        "#fedd00"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/dc-clb",
-                    "starts_at": 1788996600,
-                    "ends_at": 1789007400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/dc-clb?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28238,
-                    "name": "Philadelphia Union vs. FC Cincinnati",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5e395ada23ac35fd68fefc1cd4a55174-thumbnail.jpg",
-                    "blurhash": "LBEA$V0z;3%3X9n$jZW=00}ZOrnN",
-                    "colors": [
-                        "#071b2c",
-                        "#f05323"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/phi-cin",
-                    "starts_at": 1788996600,
-                    "ends_at": 1789007400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/phi-cin?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28239,
-                    "name": "Toronto FC vs. Nashville SC",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4bbbe87529b3d2a96166006c9b1dc2bf-thumbnail.jpg",
-                    "blurhash": "LAECs=0I?9o=j[afayfk00^=NL$+",
-                    "colors": [
-                        "#003087",
-                        "#ece83a"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/tor-nsh",
-                    "starts_at": 1788996600,
-                    "ends_at": 1789007400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/tor-nsh?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28240,
-                    "name": "New York City FC vs. New England Revolution",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ed716bc3f6f1a67e6bc63efb25cf81f2-thumbnail.jpg",
-                    "blurhash": "LF98P%u6bb%2j]j[azfQ00wboJM{",
-                    "colors": [
-                        "#6cabdd",
-                        "#003087"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/nyc-ne",
-                    "starts_at": 1788998400,
-                    "ends_at": 1789009200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/nyc-ne?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28241,
-                    "name": "Austin FC vs. Colorado Rapids",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/80737bfecb3bb1c17a5b30d4d25054cf-thumbnail.jpg",
-                    "blurhash": "LB8Xt54Got$+oMa}ayfi4V+jogM{",
-                    "colors": [
-                        "#00a14b",
-                        "#862633"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/atx-col",
-                    "starts_at": 1789000200,
-                    "ends_at": 1789011000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/atx-col?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28242,
-                    "name": "Chicago Fire FC vs. Inter Miami CF",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b9db82f11f33517239660075fe8a96e6-thumbnail.jpg",
-                    "blurhash": "LRCid:{cxHR5j[jsf7fQ4-I;W-pJ",
-                    "colors": [
-                        "#ce1432",
-                        "#00a1e6"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/chi-mia",
-                    "starts_at": 1789000200,
-                    "ends_at": 1789011000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/chi-mia?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28243,
-                    "name": "Houston Dynamo FC vs. Real Salt Lake",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4e57cb4cf19aff07bd3c95e2be722cad-thumbnail.jpg",
-                    "blurhash": "LSCW=={_wMoLj?f7f6j@ABOFX7SO",
-                    "colors": [
-                        "#e30613",
-                        "#003087"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/hou-rsl",
-                    "starts_at": 1789000200,
-                    "ends_at": 1789011000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/hou-rsl?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28244,
-                    "name": "Minnesota United FC vs. FC Dallas",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bc4811ca5fcb87b1615347884644aab1-thumbnail.jpg",
-                    "blurhash": "LXEoP@Lgg4j]bIf6fQbH4-rWjFi_",
-                    "colors": [
-                        "#8cd2f4",
-                        "#c8102e"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/min-dal",
-                    "starts_at": 1789000200,
-                    "ends_at": 1789011000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/min-dal?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28245,
-                    "name": "LAFC vs. Red Bull New York",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6bcffaee369a979f428989e62ff66dcd-thumbnail.jpg",
-                    "blurhash": "L8H9p|4Mo[?HofWVf6j[00]qW?Dj",
-                    "colors": [
-                        "#c39e6d",
-                        "#e30613"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/lafc-rbny",
-                    "starts_at": 1789007400,
-                    "ends_at": 1789018200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/lafc-rbny?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28246,
-                    "name": "Portland Timbers vs. St. Louis CITY SC",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c390eeda381c4aa2f2da56a792094b2e-thumbnail.jpg",
-                    "blurhash": "L6C}Ij3|{yQ:xaoff6WB00{5KP-o",
-                    "colors": [
-                        "#004c2f",
-                        "#dd004a"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/por-stl",
-                    "starts_at": 1789007400,
-                    "ends_at": 1789018200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/por-stl?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28247,
-                    "name": "San Diego FC vs. San Jose Earthquakes",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/55a9883445e6ea6d88b5dc80fa829020-thumbnail.jpg",
-                    "blurhash": "L05hyC[Q009a~VaJRQoz005K~q^-",
-                    "colors": [
-                        "#001f5b",
-                        "#003087"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/sd-sj",
-                    "starts_at": 1789007400,
-                    "ends_at": 1789018200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/sd-sj?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 28248,
-                    "name": "Vancouver Whitecaps vs. LA Galaxy",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6c7988b9d95b537bddc321288610688e-thumbnail.jpg",
-                    "blurhash": "L15hsH5x4p=mtSs.WBRl00=T_0Eq",
-                    "colors": [
-                        "#002395",
-                        "#002395"
-                    ],
-                    "uri_name": "mls\/2026-09-09\/van-la",
-                    "starts_at": 1789007400,
-                    "ends_at": 1789018200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-09\/van-la?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "viewers": "13"
                 },
                 {
                     "id": 28276,
                     "name": "Fenerbahce vs. AS Roma",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 2",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/85c310c1293b5c394effc2403c63904e-thumbnail.jpg",
                     "blurhash": "LeHUBU?;o]e-oKfQfQj@4=MzahWG",
                     "colors": [
@@ -1837,15 +1186,25 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/fen-roma?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/fen-roma",
+                    "substreams": [
+                        {
+                            "id": 28436,
+                            "name": "Fenerbahce vs. AS Roma",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/fen-roma\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/fen-roma\/paramount-en"
+                        }
+                    ],
+                    "viewers": "1943"
                 },
                 {
                     "id": 28277,
                     "name": "PSV Eindhoven vs. Shakhtar Donetsk",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 3",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7a23cd78f69d9160c4fa8ce05be21232-thumbnail.jpg",
                     "blurhash": "L2KH5:0[z:Di+]Rjf6t700qtK*?u",
                     "colors": [
@@ -1858,36 +1217,56 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/psv-shk?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/psv-shk",
+                    "substreams": [
+                        {
+                            "id": 28437,
+                            "name": "PSV Eindhoven vs. Shakhtar Donetsk",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/psv-shk\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/psv-shk\/paramount-en"
+                        }
+                    ],
+                    "viewers": "347"
                 },
                 {
                     "id": 28278,
                     "name": "Bayern Munich vs. Bodo\/Glimt",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 2",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/09c6c9dad91ae9ccd7e11feac1fb2aa1-thumbnail.jpg",
                     "blurhash": "L7JFrI8]t^D}sojba|ay00O|V|?b",
                     "colors": [
                         "#dc052d",
                         "#ffcc00"
                     ],
-                    "uri_name": "ucl\/2026-09-10\/mun-bodo",
+                    "uri_name": "ucl\/2026-09-10\/bay-bodo",
                     "starts_at": 1789066800,
                     "ends_at": 1789075800,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/mun-bodo?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/bay-bodo",
+                    "substreams": [
+                        {
+                            "id": 28438,
+                            "name": "Bayern Munich vs. Bodo\/Glimt",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/bay-bodo\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/bay-bodo\/paramount-en"
+                        }
+                    ],
+                    "viewers": "15"
                 },
                 {
                     "id": 28279,
                     "name": "Como vs. RB Leipzig",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 3",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d6c5212aa16cf048ad223efbb108d3a2-thumbnail.jpg",
                     "blurhash": "LFD@qR3G+~nOofj[jtay00+tSys,",
                     "colors": [
@@ -1900,15 +1279,25 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/como-rbl?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/como-rbl",
+                    "substreams": [
+                        {
+                            "id": 28439,
+                            "name": "Como vs. RB Leipzig",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/como-rbl\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/como-rbl\/paramount-en"
+                        }
+                    ],
+                    "viewers": "1"
                 },
                 {
                     "id": 28280,
                     "name": "Manchester United vs. Sabah FK",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 1",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/72ac44b95b6fcf79192cbf3050e16681-thumbnail.jpg",
                     "blurhash": "LUDj4U|,wPR-oLa|fQjs5iJEX4kD",
                     "colors": [
@@ -1921,15 +1310,25 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/mun-sab?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/mun-sab",
+                    "substreams": [
+                        {
+                            "id": 28440,
+                            "name": "Manchester United vs. Sabah FK",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/mun-sab\/paramount-en",
+                            "source_tag": "Paramount+",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/mun-sab\/paramount-en"
+                        }
+                    ],
+                    "viewers": "11"
                 },
                 {
                     "id": 28281,
                     "name": "Slavia Prague vs. Lens",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4bdac4649f85220e5a6d99819915ef4e-thumbnail.jpg",
                     "blurhash": "L4J4*upfn2DgxuixfPbv00D}Xn.9",
                     "colors": [
@@ -1942,36 +1341,46 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/slp-rcl?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/slp-rcl",
+                    "substreams": [
+                        {
+                            "id": 28443,
+                            "name": "Slavia Prague vs. Lens",
+                            "tag": "Champions League",
+                            "uri_name": "ucl\/2026-09-10\/slp-rcl\/canal-360-pl",
+                            "source_tag": "CANAL+ 360",
+                            "locale": "pl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/slp-rcl\/canal-360-pl"
+                        }
+                    ],
+                    "viewers": "1"
                 },
                 {
-                    "id": 27796,
-                    "name": "Pumas UNAM vs. Le\u00f3n",
-                    "tag": "Liga MX",
-                    "source_tag": "Liga MX",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/f600a28ce8fd7070b23f403de97d2105-thumbnail.jpg",
-                    "blurhash": "L45~qDDG0J.5WUofayWB00.O~qIV",
+                    "id": 28388,
+                    "name": "The Golazo Show",
+                    "tag": "Champions League",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+                    "blurhash": "L83cDOj]Dgaya$fQayfQI7ay%Qj@",
                     "colors": [
-                        "#00224e",
-                        "#007a33"
+                        "#001a66",
+                        "#001a66"
                     ],
-                    "uri_name": "liga-mx\/2026-09-06\/unam-leo",
-                    "starts_at": 1789095600,
-                    "ends_at": 1789104600,
+                    "uri_name": "ucl\/2026-09-10\/golazo",
+                    "starts_at": 1789066800,
+                    "ends_at": 1789081200,
                     "always_live": 0,
-                    "locale": "es-us",
+                    "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-06\/unam-leo?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ucl\/2026-09-10\/golazo",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "4"
                 },
                 {
                     "id": 28282,
                     "name": "Pumas UNAM vs. Le\u00f3n",
                     "tag": "Liga MX",
-                    "source_tag": "Liga MX",
+                    "source_tag": "TUDN",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/f600a28ce8fd7070b23f403de97d2105-thumbnail.jpg",
                     "blurhash": "L45~qDDG0J.5WUofayWB00.O~qIV",
                     "colors": [
@@ -1984,7 +1393,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-10\/unam-leo?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-10\/unam-leo",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2005,7 +1414,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-11\/bkh-mja?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-11\/bkh-mja",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2026,7 +1435,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-11\/az-wil?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-11\/az-wil",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2047,9 +1456,9 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-11\/fcu-s04?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-11\/fcu-s04",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 28216,
@@ -2068,7 +1477,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-11\/ven-fio?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-11\/ven-fio",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2089,7 +1498,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-11\/ren-olm?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-11\/ren-olm",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2110,7 +1519,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-11\/kvm-and?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-11\/kvm-and",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2131,7 +1540,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-11\/sev-val?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-11\/sev-val",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2152,7 +1561,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/ncx-pue?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/ncx-pue",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2173,7 +1582,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/atl-pac?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/atl-pac",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2194,7 +1603,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/tij-qro?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-11\/tij-qro",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2215,7 +1624,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/rac-ala?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/rac-ala",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2236,7 +1645,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/gen-fro?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/gen-fro",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2257,7 +1666,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-12\/aik-vas?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-12\/aik-vas",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2278,7 +1687,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/dor-scp?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/dor-scp",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2299,7 +1708,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/fca-b04?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/fca-b04",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2320,7 +1729,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/m05-sge?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/m05-sge",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2341,7 +1750,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/scf-bmg?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/scf-bmg",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2362,7 +1771,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/tsg-vfb?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/tsg-vfb",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2383,7 +1792,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/bou-bre?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/bou-bre",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2404,7 +1813,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/avl-nfo?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/avl-nfo",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2425,7 +1834,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/che-hul?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/che-hul",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2446,7 +1855,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/cry-ips?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/cry-ips",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2467,7 +1876,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/liv-ful?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/liv-ful",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2488,7 +1897,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/waa-stvv?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/waa-stvv",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2509,7 +1918,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/osa-esp?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/osa-esp",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2530,7 +1939,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/twe-ado?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/twe-ado",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2551,7 +1960,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/str-mon?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/str-mon",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2572,7 +1981,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-12\/got-hbk?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-12\/got-hbk",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2593,7 +2002,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/laz-mil?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/laz-mil",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2614,7 +2023,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/kvcw-stl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/kvcw-stl",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2635,7 +2044,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/ath-elc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/ath-elc",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2656,7 +2065,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/koe-svw?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-12\/koe-svw",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2677,7 +2086,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/tot-eve?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/tot-eve",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2698,7 +2107,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/gae-gro?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/gae-gro",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2719,7 +2128,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/for-aja?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/for-aja",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2740,7 +2149,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/ata-cag?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-12\/ata-cag",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2761,7 +2170,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/aux-nice?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/aux-nice",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2782,7 +2191,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/hac-ang?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/hac-ang",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2803,7 +2212,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/lor-tou?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/lor-tou",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2824,9 +2233,9 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/par-lyon?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-12\/par-lyon",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 28305,
@@ -2845,7 +2254,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/ohl-cbk?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/ohl-cbk",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2866,7 +2275,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/usg-lom?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-12\/usg-lom",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2887,7 +2296,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/rma-ray?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-12\/rma-ray",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2908,7 +2317,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/sun-ars?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-12\/sun-ars",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2929,7 +2338,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/cam-nec?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-12\/cam-nec",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2950,7 +2359,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/tol-ats?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/tol-ats",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2971,7 +2380,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/clb-rbny?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/clb-rbny",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2992,7 +2401,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/dc-atl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/dc-atl",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3013,7 +2422,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/cin-clt?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/cin-clt",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3034,7 +2443,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/mia-nsh?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/mia-nsh",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3055,7 +2464,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/orl-tor?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/orl-tor",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3076,7 +2485,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/dal-por?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/dal-por",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3097,7 +2506,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/skc-lafc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/skc-lafc",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3118,7 +2527,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/stl-min?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/stl-min",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3139,7 +2548,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/mty-uanl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/mty-uanl",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3160,7 +2569,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/col-mtl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/col-mtl",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3181,7 +2590,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/rsl-nyc?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/rsl-nyc",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3202,7 +2611,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/la-sea?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/la-sea",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3223,7 +2632,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/sj-hou?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-12\/sj-hou",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3244,7 +2653,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/caz-ame?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-12\/caz-ame",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3265,7 +2674,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/exc-utr?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/exc-utr",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3286,7 +2695,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/bru-ant?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/bru-ant",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3307,7 +2716,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/cel-mcf?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/cel-mcf",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3328,7 +2737,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/ham-bro?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/ham-bro",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3349,7 +2758,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/elf-kff?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/elf-kff",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3370,7 +2779,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/hee-tel?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/hee-tel",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3391,7 +2800,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-13\/cov-bha?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-13\/cov-bha",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3412,7 +2821,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/lec-mon?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/lec-mon",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3433,7 +2842,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/lill-try?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/lill-try",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3454,9 +2863,9 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-13\/rbl-hsv?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-13\/rbl-hsv",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 28308,
@@ -3475,7 +2884,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/genk-gent?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/genk-gent",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3496,7 +2905,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/lev-bar?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/lev-bar",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3517,7 +2926,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/mal-org?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-13\/mal-org",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3538,7 +2947,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/pec-fey?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/pec-fey",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3559,7 +2968,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/mns-rcl?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/mns-rcl",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3580,7 +2989,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-13\/elv-mun?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/bundesliga\/2026-09-13\/elv-mun",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3601,9 +3010,9 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-13\/mun-mci?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-13\/mun-mci",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 28221,
@@ -3622,7 +3031,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/nap-bol?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/nap-bol",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3643,7 +3052,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/get-dep?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/get-dep",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3664,7 +3073,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/zul-cha?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/zul-cha",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3685,7 +3094,7 @@
                     "always_live": 0,
                     "locale": "nl-be",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/rll-kvk?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/belgian-pro-league\/2026-09-13\/rll-kvk",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3706,7 +3115,7 @@
                     "always_live": 0,
                     "locale": "nl",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/psv-spa?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/eredivisie\/2026-09-13\/psv-spa",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3727,7 +3136,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/sas-juv?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-13\/sas-juv",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3748,7 +3157,7 @@
                     "always_live": 0,
                     "locale": "fr",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/bre-psg?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ligue1\/2026-09-13\/bre-psg",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3769,7 +3178,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/rso-atm?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-13\/rso-atm",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3790,7 +3199,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/chi-ne?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/chi-ne",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3811,7 +3220,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/van-atx?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/van-atx",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3832,7 +3241,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-13\/san-jua?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-13\/san-jua",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3853,7 +3262,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/sd-phi?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-13\/sd-phi",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3874,7 +3283,7 @@
                     "always_live": 0,
                     "locale": "es-us",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-13\/gdl-unam?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/liga-mx\/2026-09-13\/gdl-unam",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3895,7 +3304,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/como-par?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/como-par",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3916,7 +3325,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/tor-roma?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/tor-roma",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3937,7 +3346,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-14\/dju-gais?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-14\/dju-gais",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3958,7 +3367,7 @@
                     "always_live": 0,
                     "locale": "sv",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-14\/sir-deg?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/allsvenskan\/2026-09-14\/sir-deg",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -3979,7 +3388,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/int-udi?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/seriea\/2026-09-14\/int-udi",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4000,7 +3409,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-14\/vil-bet?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/laliga\/2026-09-14\/vil-bet",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4021,8 +3430,395 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-14\/lee-new?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-09-14\/lee-new",
                     "substreams": [],
+                    "viewers": "0"
+                }
+            ]
+        },
+        {
+            "category": "Motorsports",
+            "id": 35,
+            "always_live": false,
+            "streams": [
+                {
+                    "id": 28391,
+                    "name": "Spanish Grand Prix - Practice 1",
+                    "tag": "Formula 1",
+                    "source_tag": "Sky Sports F1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/df38c4bf663dd6516e4adc600c10fa29-thumbnail.jpg",
+                    "blurhash": "LQB|KpDgxZkD?dD$smozaes:nObb",
+                    "colors": [
+                        "#0c1416",
+                        "#a2b9d8"
+                    ],
+                    "uri_name": "f1\/2026\/spain\/fp1",
+                    "starts_at": 1789126200,
+                    "ends_at": 1789133400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Motorsports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1",
+                    "substreams": [
+                        {
+                            "id": 28392,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/apple-tv-f1tv-en",
+                            "source_tag": "Apple TV (F1TV)",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/apple-tv-f1tv-en"
+                        },
+                        {
+                            "id": 28394,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/dazn-f1-es",
+                            "source_tag": "DAZN F1",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/dazn-f1-es"
+                        },
+                        {
+                            "id": 28395,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/sky-sport-f1-de",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/sky-sport-f1-de"
+                        },
+                        {
+                            "id": 28396,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/sky-sport-f1-it",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/sky-sport-f1-it"
+                        },
+                        {
+                            "id": 28397,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/v-sport-motor-sv",
+                            "source_tag": "V Sport Motor",
+                            "locale": "sv",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/v-sport-motor-sv"
+                        },
+                        {
+                            "id": 28398,
+                            "name": "Spanish Grand Prix - Practice 1",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp1\/viaplay-nl",
+                            "source_tag": "Viaplay",
+                            "locale": "nl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp1\/viaplay-nl"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 28399,
+                    "name": "Spanish Grand Prix - Practice 2",
+                    "tag": "Formula 1",
+                    "source_tag": "Sky Sports F1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9a952f44c2c344c3de5ea3e0197aba57-thumbnail.jpg",
+                    "blurhash": "LQB|KpDgxZkD?dD$smozaes:nObb",
+                    "colors": [
+                        "#0c1416",
+                        "#a2b9d8"
+                    ],
+                    "uri_name": "f1\/2026\/spain\/fp2",
+                    "starts_at": 1789138800,
+                    "ends_at": 1789146000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Motorsports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2",
+                    "substreams": [
+                        {
+                            "id": 28400,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/apple-tv-f1tv-en",
+                            "source_tag": "Apple TV (F1TV)",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/apple-tv-f1tv-en"
+                        },
+                        {
+                            "id": 28402,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/dazn-f1-es",
+                            "source_tag": "DAZN F1",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/dazn-f1-es"
+                        },
+                        {
+                            "id": 28403,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/sky-sport-f1-de",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/sky-sport-f1-de"
+                        },
+                        {
+                            "id": 28404,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/sky-sport-f1-it",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/sky-sport-f1-it"
+                        },
+                        {
+                            "id": 28405,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/v-sport-motor-sv",
+                            "source_tag": "V Sport Motor",
+                            "locale": "sv",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/v-sport-motor-sv"
+                        },
+                        {
+                            "id": 28406,
+                            "name": "Spanish Grand Prix - Practice 2",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp2\/viaplay-nl",
+                            "source_tag": "Viaplay",
+                            "locale": "nl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp2\/viaplay-nl"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 28407,
+                    "name": "Spanish Grand Prix - Practice 3",
+                    "tag": "Formula 1",
+                    "source_tag": "Sky Sports F1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6b134cb8141423ffee06ccaab5670992-thumbnail.jpg",
+                    "blurhash": "LQB|KpDgxZkD?dD$smozaes:nObb",
+                    "colors": [
+                        "#0c1416",
+                        "#a2b9d8"
+                    ],
+                    "uri_name": "f1\/2026\/spain\/fp3",
+                    "starts_at": 1789209000,
+                    "ends_at": 1789216200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Motorsports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3",
+                    "substreams": [
+                        {
+                            "id": 28408,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/apple-tv-f1tv-en",
+                            "source_tag": "Apple TV (F1TV)",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/apple-tv-f1tv-en"
+                        },
+                        {
+                            "id": 28410,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/dazn-f1-es",
+                            "source_tag": "DAZN F1",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/dazn-f1-es"
+                        },
+                        {
+                            "id": 28411,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/sky-sport-f1-de",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/sky-sport-f1-de"
+                        },
+                        {
+                            "id": 28412,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/sky-sport-f1-it",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/sky-sport-f1-it"
+                        },
+                        {
+                            "id": 28413,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/v-sport-motor-sv",
+                            "source_tag": "V Sport Motor",
+                            "locale": "sv",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/v-sport-motor-sv"
+                        },
+                        {
+                            "id": 28414,
+                            "name": "Spanish Grand Prix - Practice 3",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/fp3\/viaplay-nl",
+                            "source_tag": "Viaplay",
+                            "locale": "nl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/fp3\/viaplay-nl"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 28415,
+                    "name": "Spanish Grand Prix - Qualifying",
+                    "tag": "Formula 1",
+                    "source_tag": "Sky Sports F1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/71d940373101d6601f79e1d9dfc005d7-thumbnail.jpg",
+                    "blurhash": "LQB|KpDgxZf,?dD$smt7aes:nObc",
+                    "colors": [
+                        "#0c1416",
+                        "#a2b9d8"
+                    ],
+                    "uri_name": "f1\/2026\/spain\/qualifying",
+                    "starts_at": 1789221600,
+                    "ends_at": 1789228800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Motorsports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying",
+                    "substreams": [
+                        {
+                            "id": 28416,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/apple-tv-f1tv-en",
+                            "source_tag": "Apple TV (F1TV)",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/apple-tv-f1tv-en"
+                        },
+                        {
+                            "id": 28418,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/dazn-f1-es",
+                            "source_tag": "DAZN F1",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/dazn-f1-es"
+                        },
+                        {
+                            "id": 28419,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/sky-sport-f1-de",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/sky-sport-f1-de"
+                        },
+                        {
+                            "id": 28420,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/sky-sport-f1-it",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/sky-sport-f1-it"
+                        },
+                        {
+                            "id": 28421,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/v-sport-motor-sv",
+                            "source_tag": "V Sport Motor",
+                            "locale": "sv",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/v-sport-motor-sv"
+                        },
+                        {
+                            "id": 28422,
+                            "name": "Spanish Grand Prix - Qualifying",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/qualifying\/viaplay-nl",
+                            "source_tag": "Viaplay",
+                            "locale": "nl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/qualifying\/viaplay-nl"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 28423,
+                    "name": "Spanish Grand Prix - Race",
+                    "tag": "Formula 1",
+                    "source_tag": "Sky Sports F1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/cb446b12397b11fd58fcaf83b39887fc-thumbnail.jpg",
+                    "blurhash": "LQB:z2DgxZog?dD$smozWBs:nObb",
+                    "colors": [
+                        "#0c1416",
+                        "#a2b9d8"
+                    ],
+                    "uri_name": "f1\/2026\/spain\/race",
+                    "starts_at": 1789304400,
+                    "ends_at": 1789315200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Motorsports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race",
+                    "substreams": [
+                        {
+                            "id": 28424,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/apple-tv-f1tv-en",
+                            "source_tag": "Apple TV (F1TV)",
+                            "locale": "en",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/apple-tv-f1tv-en"
+                        },
+                        {
+                            "id": 28426,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/dazn-f1-es",
+                            "source_tag": "DAZN F1",
+                            "locale": "es",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/dazn-f1-es"
+                        },
+                        {
+                            "id": 28427,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/sky-sport-f1-de",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "de",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/sky-sport-f1-de"
+                        },
+                        {
+                            "id": 28428,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/sky-sport-f1-it",
+                            "source_tag": "Sky Sport F1",
+                            "locale": "it",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/sky-sport-f1-it"
+                        },
+                        {
+                            "id": 28429,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/v-sport-motor-sv",
+                            "source_tag": "V Sport Motor",
+                            "locale": "sv",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/v-sport-motor-sv"
+                        },
+                        {
+                            "id": 28430,
+                            "name": "Spanish Grand Prix - Race",
+                            "tag": "Formula 1",
+                            "uri_name": "f1\/2026\/spain\/race\/viaplay-nl",
+                            "source_tag": "Viaplay",
+                            "locale": "nl",
+                            "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/spain\/race\/viaplay-nl"
+                        }
+                    ],
                     "viewers": "0"
                 }
             ]
@@ -4049,9 +3845,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-league?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-fox-league",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 28321,
@@ -4070,7 +3866,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-11\/sou-new?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-11\/sou-new",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4091,7 +3887,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-12\/new-dol?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-12\/new-dol",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4112,7 +3908,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-12\/cro-nor?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-12\/cro-nor",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4133,7 +3929,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Rugby",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-13\/pen-syd?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nrl\/2026-09-13\/pen-syd",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -4161,7 +3957,7 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "Tennis",
-                    "iframe": "https:\/\/embedindia.st\/embed\/us-open-espn--espn2?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/us-open-espn--espn2",
                     "substreams": [
                         {
                             "id": 27868,
@@ -4191,7 +3987,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/us-open-espn--espn2\/abc-en"
                         }
                     ],
-                    "viewers": "76"
+                    "viewers": "44"
                 }
             ]
         },
@@ -4200,27 +3996,6 @@
             "id": 38,
             "always_live": false,
             "streams": [
-                {
-                    "id": 28327,
-                    "name": "AEW Wednesday Night Dynamite",
-                    "tag": "Wrestling",
-                    "source_tag": "TBS",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-                    "blurhash": "LHExeyNWV6M|$dbtRir?ZtWZ~Bwg",
-                    "colors": [
-                        "#152441",
-                        "#9c4ec5"
-                    ],
-                    "uri_name": "aew\/2026-09-09",
-                    "starts_at": 1788998400,
-                    "ends_at": 1789009200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-09-09?gid=1179499586",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 28328,
                     "name": "TNA Impact",
@@ -4238,9 +4013,9 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/tna\/2026-09-10?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/tna\/2026-09-10",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 28329,
@@ -4259,7 +4034,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wwe\/2026-09-11?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wwe\/2026-09-11",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -4280,7 +4055,7 @@
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-09-12?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-09-12",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -4308,9 +4083,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-south-park?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-south-park",
                     "substreams": [],
-                    "viewers": "3"
+                    "viewers": "7"
                 },
                 {
                     "id": 3663,
@@ -4329,9 +4104,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-cows?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-cows",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 8008,
@@ -4350,9 +4125,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy",
                     "substreams": [],
-                    "viewers": "8"
+                    "viewers": "9"
                 },
                 {
                     "id": 5191,
@@ -4371,9 +4146,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-the-simpsons?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-the-simpsons",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "2"
                 },
                 {
                     "id": 16623,
@@ -4392,9 +4167,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "3"
                 },
                 {
                     "id": 17270,
@@ -4413,9 +4188,9 @@
                     "always_live": 1,
                     "locale": "en",
                     "category_name": "24\/7 Streams",
-                    "iframe": "https:\/\/embedindia.st\/embed\/rally-tv?gid=1179499586",
+                    "iframe": "https:\/\/embedindia.st\/embed\/rally-tv",
                     "substreams": [],
-                    "viewers": "3"
+                    "viewers": "4"
                 }
             ]
         }
