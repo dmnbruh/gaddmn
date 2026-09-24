@@ -1,8 +1,8 @@
 {
     "success": true,
-    "timestamp": 1790174320,
+    "timestamp": 1790265320,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04070711135864258,
+    "performance": 0.042016029357910156,
     "streams": [
         {
             "category": "American Football",
@@ -28,7 +28,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl-network",
                     "substreams": [],
-                    "viewers": "8"
+                    "viewers": "12"
                 },
                 {
                     "id": 29127,
@@ -49,7 +49,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-24\/atl-gb",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 29155,
@@ -238,7 +238,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/kc-mia",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 29137,
@@ -385,7 +385,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-09-27\/bal-dal",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 29148,
@@ -476,7 +476,7 @@
                     "category_name": "Australian Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-footy",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "2"
                 },
                 {
                     "id": 29185,
@@ -507,112 +507,7 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29246,
-                    "name": "Washington Nationals vs. Detroit Tigers",
-                    "tag": "MLB",
-                    "source_tag": "Tigers.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/822c8848a491e014c3e612890472561c-thumbnail.jpg",
-                    "blurhash": "LIC5e*|GnOS2j[f6fQfQ0KJTozj[",
-                    "colors": [
-                        "#ab0003",
-                        "#102a44"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/wsh-det",
-                    "starts_at": 1790183400,
-                    "ends_at": 1790196000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/wsh-det",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29247,
-                    "name": "Toronto Blue Jays vs. Baltimore Orioles",
-                    "tag": "MLB",
-                    "source_tag": "MASN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bf27506ed6500d261158c741fd47167e-thumbnail.jpg",
-                    "blurhash": "LVC}bm77r{nhj[jufRa|5OwGk9od",
-                    "colors": [
-                        "#1d4ed8",
-                        "#d04a02"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/tor-bal",
-                    "starts_at": 1790184900,
-                    "ends_at": 1790197500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/tor-bal",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29248,
-                    "name": "Minnesota Twins vs. San Francisco Giants",
-                    "tag": "MLB",
-                    "source_tag": "NBC Sports BA",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d8597ded265f86786e95626b54ee25ae-thumbnail.jpg",
-                    "blurhash": "LEEKK72g#An3s:kCjtae0d+@Xlt7",
-                    "colors": [
-                        "#003a8f",
-                        "#e05a1e"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/min-sf",
-                    "starts_at": 1790192700,
-                    "ends_at": 1790205300,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/min-sf",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29249,
-                    "name": "Toronto Blue Jays vs. Baltimore Orioles",
-                    "tag": "MLB",
-                    "source_tag": "MASN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bf27506ed6500d261158c741fd47167e-thumbnail.jpg",
-                    "blurhash": "LVC}bm77r{nhj[jufRa|5OwGk9od",
-                    "colors": [
-                        "#1d4ed8",
-                        "#d04a02"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/tor-bal\/game-2",
-                    "starts_at": 1790202900,
-                    "ends_at": 1790215500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/tor-bal\/game-2",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29250,
-                    "name": "Milwaukee Brewers vs. Philadelphia Phillies",
-                    "tag": "MLB",
-                    "source_tag": "NBC Sports Phil",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/22831277cdfa71b6c541d2c089f21337-thumbnail.jpg",
-                    "blurhash": "L7D82^0|vg-=t7Rjj[oz00}utlVW",
-                    "colors": [
-                        "#1a2f5a",
-                        "#c8102e"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/mil-phi",
-                    "starts_at": 1790203200,
-                    "ends_at": 1790215800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/mil-phi",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29251,
+                    "id": 29285,
                     "name": "St. Louis Cardinals vs. Pittsburgh Pirates",
                     "tag": "MLB",
                     "source_tag": "MLB.TV",
@@ -622,81 +517,18 @@
                         "#b22234",
                         "#c9a227"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/stl-pit",
-                    "starts_at": 1790203200,
-                    "ends_at": 1790215800,
+                    "uri_name": "mlb\/2026-09-24\/stl-pit",
+                    "starts_at": 1790267700,
+                    "ends_at": 1790280300,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/stl-pit",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/stl-pit",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
-                    "id": 29252,
-                    "name": "Cleveland Guardians vs. Boston Red Sox",
-                    "tag": "MLB",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8d734be46dd0ba7c3a6c7727b98979ef-thumbnail.jpg",
-                    "blurhash": "L8GFRb{~VYS~oLjtfkay0JK4tli_",
-                    "colors": [
-                        "#c41e3a",
-                        "#a51c30"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/cle-bos",
-                    "starts_at": 1790204400,
-                    "ends_at": 1790217000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/cle-bos",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29253,
-                    "name": "Tampa Bay Rays vs. New York Yankees",
-                    "tag": "MLB",
-                    "source_tag": "MLB.TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg",
-                    "blurhash": "L38ESpKB4o%1azt7t7of00$__2Io",
-                    "colors": [
-                        "#1a3e6e",
-                        "#0c2340"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/tb-nyy",
-                    "starts_at": 1790204700,
-                    "ends_at": 1790217300,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/tb-nyy",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29254,
-                    "name": "Cincinnati Reds vs. Atlanta Braves",
-                    "tag": "MLB",
-                    "source_tag": "BravesVision",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/39b5f6a7ba651f682ed01dbc2c312ecd-thumbnail.jpg",
-                    "blurhash": "L2FVt8Y+Hruiict7ofRP00l.%~Uv",
-                    "colors": [
-                        "#b0021b",
-                        "#b01c2e"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/cin-atl",
-                    "starts_at": 1790205300,
-                    "ends_at": 1790217900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/cin-atl",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29255,
+                    "id": 29286,
                     "name": "Chicago White Sox vs. Kansas City Royals",
                     "tag": "MLB",
                     "source_tag": "Royals.TV",
@@ -706,18 +538,18 @@
                         "#2b2b2b",
                         "#0051a5"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/chw-kc",
-                    "starts_at": 1790206800,
-                    "ends_at": 1790219400,
+                    "uri_name": "mlb\/2026-09-24\/chw-kc",
+                    "starts_at": 1790273400,
+                    "ends_at": 1790286000,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/chw-kc",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/chw-kc",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29256,
+                    "id": 29287,
                     "name": "Miami Marlins vs. Chicago Cubs",
                     "tag": "MLB",
                     "source_tag": "Marquee Sports Net",
@@ -727,18 +559,18 @@
                         "#008e97",
                         "#1d428a"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/mia-chc",
-                    "starts_at": 1790206800,
-                    "ends_at": 1790219400,
+                    "uri_name": "mlb\/2026-09-24\/mia-chc",
+                    "starts_at": 1790274000,
+                    "ends_at": 1790286600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/mia-chc",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/mia-chc",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29257,
+                    "id": 29288,
                     "name": "New York Mets vs. Texas Rangers",
                     "tag": "MLB",
                     "source_tag": "Rangers Sports Network",
@@ -748,18 +580,18 @@
                         "#003f87",
                         "#003278"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/nym-tex",
-                    "starts_at": 1790208300,
-                    "ends_at": 1790220900,
+                    "uri_name": "mlb\/2026-09-24\/nym-tex",
+                    "starts_at": 1790274900,
+                    "ends_at": 1790287500,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/nym-tex",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/nym-tex",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29258,
+                    "id": 29289,
                     "name": "Arizona Diamondbacks vs. Colorado Rockies",
                     "tag": "MLB",
                     "source_tag": "Rockies.TV",
@@ -769,60 +601,144 @@
                         "#9a1e2c",
                         "#3c3c3c"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/ari-col",
-                    "starts_at": 1790210400,
-                    "ends_at": 1790223000,
+                    "uri_name": "mlb\/2026-09-24\/ari-col",
+                    "starts_at": 1790277000,
+                    "ends_at": 1790289600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/ari-col",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/ari-col",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29259,
-                    "name": "Los Angeles Angels vs. Athletics",
+                    "id": 29290,
+                    "name": "Milwaukee Brewers vs. Philadelphia Phillies",
                     "tag": "MLB",
-                    "source_tag": "NBC Sports CA",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/cae96ff10147eb49b40f06dbae296e8b-thumbnail.jpg",
-                    "blurhash": "LJBeUM{krrk8ayjZj[fR0zOmkWR.",
+                    "source_tag": "NBC Sports Phil",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/22831277cdfa71b6c541d2c089f21337-thumbnail.jpg",
+                    "blurhash": "L7D82^0|vg-=t7Rjj[oz00}utlVW",
+                    "colors": [
+                        "#1a2f5a",
+                        "#c8102e"
+                    ],
+                    "uri_name": "mlb\/2026-09-24\/mil-phi",
+                    "starts_at": 1790287500,
+                    "ends_at": 1790300100,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/mil-phi",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29291,
+                    "name": "Cleveland Guardians vs. Boston Red Sox",
+                    "tag": "MLB",
+                    "source_tag": "NESN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8d734be46dd0ba7c3a6c7727b98979ef-thumbnail.jpg",
+                    "blurhash": "L8GFRb{~VYS~oLjtfkay0JK4tli_",
+                    "colors": [
+                        "#c41e3a",
+                        "#a51c30"
+                    ],
+                    "uri_name": "mlb\/2026-09-24\/cle-bos",
+                    "starts_at": 1790289900,
+                    "ends_at": 1790302500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/cle-bos",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29292,
+                    "name": "Tampa Bay Rays vs. New York Yankees",
+                    "tag": "MLB",
+                    "source_tag": "YES",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg",
+                    "blurhash": "L38ESpKB4o%1azt7t7of00$__2Io",
+                    "colors": [
+                        "#1a3e6e",
+                        "#0c2340"
+                    ],
+                    "uri_name": "mlb\/2026-09-24\/tb-nyy",
+                    "starts_at": 1790291100,
+                    "ends_at": 1790303700,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/tb-nyy",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29293,
+                    "name": "Cincinnati Reds vs. Atlanta Braves",
+                    "tag": "MLB",
+                    "source_tag": "BravesVision",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/39b5f6a7ba651f682ed01dbc2c312ecd-thumbnail.jpg",
+                    "blurhash": "L2FVt8Y+Hruiict7ofRP00l.%~Uv",
+                    "colors": [
+                        "#b0021b",
+                        "#b01c2e"
+                    ],
+                    "uri_name": "mlb\/2026-09-24\/cin-atl",
+                    "starts_at": 1790291700,
+                    "ends_at": 1790304300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/cin-atl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29294,
+                    "name": "Los Angeles Angels vs. Seattle Mariners",
+                    "tag": "MLB",
+                    "source_tag": "Mariners.TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8ddcf89612d9c52b63766b241cce0eed-thumbnail.jpg",
+                    "blurhash": "LKBLC+{zrrXSjZjZjtj[5PK4ozWB",
                     "colors": [
                         "#ba0021",
-                        "#004b3a"
-                    ],
-                    "uri_name": "mlb\/2026-09-23\/laa-ath",
-                    "starts_at": 1790214000,
-                    "ends_at": 1790226600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/laa-ath",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29260,
-                    "name": "Houston Astros vs. Seattle Mariners",
-                    "tag": "MLB",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/613f24982980d7ee356818de4e9b7524-thumbnail.jpg",
-                    "blurhash": "L36*m~}c9F67oLoKj[bH001H?b]%",
-                    "colors": [
-                        "#002d62",
                         "#0a2f44"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/hou-sea",
-                    "starts_at": 1790215200,
-                    "ends_at": 1790227800,
+                    "uri_name": "mlb\/2026-09-24\/laa-sea",
+                    "starts_at": 1790300400,
+                    "ends_at": 1790313000,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/hou-sea",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/laa-sea",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29261,
+                    "id": 29295,
+                    "name": "Houston Astros vs. Athletics",
+                    "tag": "MLB",
+                    "source_tag": "NBC Sports CA",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bd1813b03531180cd4208085e7fd3f41-thumbnail.jpg",
+                    "blurhash": "L57UPE#eD*I,azoKj[WW00I+-;xv",
+                    "colors": [
+                        "#002d62",
+                        "#004b3a"
+                    ],
+                    "uri_name": "mlb\/2026-09-24\/hou-ath",
+                    "starts_at": 1790300400,
+                    "ends_at": 1790313000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Baseball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/hou-ath",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29296,
                     "name": "San Diego Padres vs. Los Angeles Dodgers",
                     "tag": "MLB",
                     "source_tag": "SportsNet LA",
@@ -832,13 +748,13 @@
                         "#4a3c31",
                         "#005a9c"
                     ],
-                    "uri_name": "mlb\/2026-09-23\/sd-lad",
-                    "starts_at": 1790215800,
-                    "ends_at": 1790228400,
+                    "uri_name": "mlb\/2026-09-24\/sd-lad",
+                    "starts_at": 1790302200,
+                    "ends_at": 1790314800,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-23\/sd-lad",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-09-24\/sd-lad",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -850,88 +766,200 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29242,
-                    "name": "Atlanta Dream vs. New York Liberty",
+                    "id": 29308,
+                    "name": "Hapoel Tel Aviv vs. Bayern M\u00fcnchen",
+                    "tag": "EuroLeague",
+                    "source_tag": "EuroLeague TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6690fba5c67ce224c8c84b36480ae232-thumbnail.jpg",
+                    "blurhash": "LBSm.LNCDks=ocnBWUbX_OyC%ea2",
+                    "colors": [
+                        "#fe6321",
+                        "#ff493c"
+                    ],
+                    "uri_name": "hapoel-tel-aviv-vs-bayern-mnchen-29308",
+                    "starts_at": 1790265600,
+                    "ends_at": 1790276400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/hapoel-tel-aviv-vs-bayern-mnchen-29308",
+                    "substreams": [],
+                    "viewers": "7"
+                },
+                {
+                    "id": 29309,
+                    "name": "Panathinaikos BC vs. Paris Basketball",
+                    "tag": "EuroLeague",
+                    "source_tag": "EuroLeague TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/64de6aa46f362920ef10374e752ad51c-thumbnail.jpg",
+                    "blurhash": "LIST+{xkIBWGs+VzjYk9_jS%%Lr?",
+                    "colors": [
+                        "#fe6321",
+                        "#ff493c"
+                    ],
+                    "uri_name": "panathinaikos-bc-vs-paris-basketball-29309",
+                    "starts_at": 1790273700,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/panathinaikos-bc-vs-paris-basketball-29309",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29279,
+                    "name": "Toronto Tempo vs. Connecticut Sun",
+                    "tag": "WNBA",
+                    "source_tag": "NBA TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/fe6112bb7848a99d010c4b7893cdd0d8-thumbnail.jpg",
+                    "blurhash": "LBE,~a1Rw0,.oLWWfQj@00}9ozai",
+                    "colors": [
+                        "#33476d",
+                        "#f05023"
+                    ],
+                    "uri_name": "wnba\/2026-09-24\/tor-con",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-24\/tor-con",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29280,
+                    "name": "Chicago Sky vs. Washington Mystics",
+                    "tag": "WNBA",
+                    "source_tag": "MNMT",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7bd42d142f6485eed7913f92b947774c-thumbnail.jpg",
+                    "blurhash": "LJEeAk3?oNNKa}a#fQj@0JrXoI$e",
+                    "colors": [
+                        "#5091cd",
+                        "#e03a3e"
+                    ],
+                    "uri_name": "wnba\/2026-09-24\/chi-wsh",
+                    "starts_at": 1790292600,
+                    "ends_at": 1790303400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-24\/chi-wsh",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29281,
+                    "name": "Indiana Fever vs. Minnesota Lynx",
                     "tag": "WNBA",
                     "source_tag": "USA Net",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/a0d12656df03f9fc6e6bf90ace073238-thumbnail.jpg",
-                    "blurhash": "LLFOT6_QgMV@ofj[fQay0KKhnib^",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b89e52b492cb95ce028e42572a753928-thumbnail.jpg",
+                    "blurhash": "L27d@J.nBCCSRkWVNbNH0080=F+H",
                     "colors": [
-                        "#e31837",
-                        "#86cebc"
+                        "#002d62",
+                        "#266092"
                     ],
-                    "uri_name": "wnba\/2026-09-23\/atl-ny",
-                    "starts_at": 1790208000,
-                    "ends_at": 1790218800,
+                    "uri_name": "wnba\/2026-09-24\/ind-min",
+                    "starts_at": 1790294400,
+                    "ends_at": 1790305200,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/atl-ny",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-24\/ind-min",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29243,
-                    "name": "Dallas Wings vs. Seattle Storm",
+                    "id": 29282,
+                    "name": "Golden State Valkyries vs. Los Angeles Sparks",
+                    "tag": "WNBA",
+                    "source_tag": "Spectrum Sports Net",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/2e6f87732977391ad4bd9c1050a486ab-thumbnail.jpg",
+                    "blurhash": "LEC~DU-@X9-Sbcf5fQj]0Js$slEM",
+                    "colors": [
+                        "#b38fcf",
+                        "#552583"
+                    ],
+                    "uri_name": "wnba\/2026-09-24\/gs-la",
+                    "starts_at": 1790301600,
+                    "ends_at": 1790312400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-24\/gs-la",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29283,
+                    "name": "Las Vegas Aces vs. Phoenix Mercury",
                     "tag": "WNBA",
                     "source_tag": "USA Net",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8544e99d49896190c0d143acb5d6f67c-thumbnail.jpg",
-                    "blurhash": "L36IEJ4l5l-zWXofayWC00-x^6Iv",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/2fe0ea272ed08acef8fc82a9b8151d23-thumbnail.jpg",
+                    "blurhash": "L8D9PMy:Xj~Ct7WCj[oK00=zwy0e",
                     "colors": [
-                        "#002b5c",
-                        "#2c5235"
+                        "#a7a8aa",
+                        "#3c286e"
                     ],
-                    "uri_name": "wnba\/2026-09-23\/dal-sea",
-                    "starts_at": 1790215200,
-                    "ends_at": 1790226000,
+                    "uri_name": "wnba\/2026-09-24\/lv-phx",
+                    "starts_at": 1790301600,
+                    "ends_at": 1790312400,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-23\/dal-sea",
+                    "iframe": "https:\/\/embedindia.st\/embed\/wnba\/2026-09-24\/lv-phx",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29244,
-                    "name": "South East Melbourne Phoenix vs. Melbourne United",
+                    "id": 29284,
+                    "name": "Brisbane Bullets vs. Illawarra Hawks",
                     "tag": "NBL",
                     "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6578e333472f8a999dfc82823c248552-thumbnail.jpg",
-                    "blurhash": "LE9R?:*1S$akt8offQWB4TVjsAWB",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/30a077c10dfa5df0a7dffc6932f7fb23-thumbnail.jpg",
+                    "blurhash": "LFCq[q3Zw5nhofj[j@f60J#QkUs.",
                     "colors": [
-                        "#69bf29",
-                        "#4370b7"
+                        "#1f4fa2",
+                        "#ce202f"
                     ],
-                    "uri_name": "nbl\/2026-09-24\/pnx-mel",
-                    "starts_at": 1790242200,
-                    "ends_at": 1790253000,
+                    "uri_name": "nbl\/2026-09-25\/bri-hwk",
+                    "starts_at": 1790328600,
+                    "ends_at": 1790339400,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nbl\/2026-09-24\/pnx-mel",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nbl\/2026-09-25\/bri-hwk",
                     "substreams": [],
                     "viewers": "0"
-                },
+                }
+            ]
+        },
+        {
+            "category": "Combat Sports",
+            "id": 33,
+            "always_live": false,
+            "streams": [
                 {
-                    "id": 29245,
-                    "name": "Perth Wildcats vs. Adelaide 36ers",
-                    "tag": "NBL",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/15fb5d45acaf845a2b12fc35801fc7eb-thumbnail.jpg",
-                    "blurhash": "L3IdRe{2:Q7eOr#TjZOX007eCQ;2",
+                    "id": 29267,
+                    "name": "UFC BJJ 11: Musumeci vs. Mitchell",
+                    "tag": "Brazillian Jiu-Jitsu",
+                    "source_tag": "Sportsnet+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/14d0c432486a52917977c02a144e1392-thumbnail.jpg",
+                    "blurhash": "LhNc]BkV.8kq~qRPRjWV9ZV@RiWB",
                     "colors": [
-                        "#ec1c23",
-                        "#ed302e"
+                        "#c7c7c7",
+                        "#fce8f1"
                     ],
-                    "uri_name": "nbl\/2026-09-24\/per-adl",
-                    "starts_at": 1790249400,
-                    "ends_at": 1790260200,
+                    "uri_name": "ufc-bjj-11-musumeci-vs-mitchell-29267",
+                    "starts_at": 1790294400,
+                    "ends_at": 1790308800,
                     "always_live": 0,
                     "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nbl\/2026-09-24\/per-adl",
+                    "category_name": "Combat Sports",
+                    "iframe": "https:\/\/embedindia.st\/embed\/ufc-bjj-11-musumeci-vs-mitchell-29267",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 }
             ]
         },
@@ -978,7 +1006,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/247-willow-sports"
                         }
                     ],
-                    "viewers": "1"
+                    "viewers": "47"
                 },
                 {
                     "id": 27496,
@@ -999,72 +1027,7 @@
                     "category_name": "Cricket",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket",
                     "substreams": [],
-                    "viewers": "1"
-                }
-            ]
-        },
-        {
-            "category": "Darts",
-            "id": 32,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 29262,
-                    "name": "Players Championship 30 - Den Bosch",
-                    "tag": "Darts",
-                    "source_tag": "Board 1",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-                    "blurhash": "LSKvm#}[I:v~0e9t?HNbM{I:NG%2",
-                    "colors": [
-                        "#d41a0b",
-                        "#000000"
-                    ],
-                    "uri_name": "players-championship-30---den-bosch-29262",
-                    "starts_at": 1790161200,
-                    "ends_at": 1790186400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Darts",
-                    "iframe": "https:\/\/embedindia.st\/embed\/players-championship-30---den-bosch-29262",
-                    "substreams": [
-                        {
-                            "id": 29263,
-                            "name": "Players Championship 30 - Den Bosch",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-30---den-bosch-29263",
-                            "source_tag": "Board 2",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-30---den-bosch-29263"
-                        },
-                        {
-                            "id": 29264,
-                            "name": "Players Championship 30 - Den Bosch",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-30---den-bosch-29264",
-                            "source_tag": "Board 3",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-30---den-bosch-29264"
-                        },
-                        {
-                            "id": 29265,
-                            "name": "Players Championship 30 - Den Bosch",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-30---den-bosch-29265",
-                            "source_tag": "Board 4",
-                            "locale": "en",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-30---den-bosch-29265"
-                        },
-                        {
-                            "id": 29266,
-                            "name": "Players Championship 30 - Den Bosch",
-                            "tag": "Darts",
-                            "uri_name": "players-championship-30---den-bosch-29266",
-                            "source_tag": "Board 1",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/players-championship-30---den-bosch-29266"
-                        }
-                    ],
-                    "viewers": "102"
+                    "viewers": "20"
                 }
             ]
         },
@@ -1074,25 +1037,214 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29159,
-                    "name": "Seattle Sounders FC vs. Real Salt Lake",
-                    "tag": "MLS",
-                    "source_tag": "Apple TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg",
-                    "blurhash": "L54C_4LxIpzrt5W;ayn%4TzXxtPR",
+                    "id": 29303,
+                    "name": "Andorra vs. Malta",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "FOX Soccer Plus",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/35f17e75ea7acdd4f5a38e2620c5223f-thumbnail.jpg",
+                    "blurhash": "L6InUQQ,Zh*0sofQayaz00%Nl9H;",
                     "colors": [
-                        "#005595",
-                        "#003087"
+                        "#e70103",
+                        "#dc2400"
                     ],
-                    "uri_name": "mls\/2026-09-23\/sea-rsl",
-                    "starts_at": 1790213400,
-                    "ends_at": 1790224200,
+                    "uri_name": "uefa-nations-league\/2026-09-24\/and-mlt",
+                    "starts_at": 1790265600,
+                    "ends_at": 1790274600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mls\/2026-09-23\/sea-rsl",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/and-mlt",
+                    "substreams": [],
+                    "viewers": "13"
+                },
+                {
+                    "id": 29297,
+                    "name": "Austria vs. Israel",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "Fubo Sports 2",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ed66bf140b301f98f3bec76f1f93d641-thumbnail.jpg",
+                    "blurhash": "LREKm8{vwgX9j[jsazfQ0dKPW.WB",
+                    "colors": [
+                        "#d52b2c",
+                        "#2f50a1"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/aut-isr",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/aut-isr",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29298,
+                    "name": "Kosovo vs. Republic of Ireland",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "Fubo Sports 3",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/be30d93ced463e8588be6009d4fa5f46-thumbnail.jpg",
+                    "blurhash": "LG6]3FDMozx@j]a#azjt4m-zWUM{",
+                    "colors": [
+                        "#0000cc",
+                        "#049962"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/kos-irl",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/kos-irl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29299,
+                    "name": "Liechtenstein vs. Lithuania",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "Fubo Sports 4",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4ecabfab5231da5af731988c3c3eb532-thumbnail.jpg",
+                    "blurhash": "LNEeoa0I-ot3f*WEa|oJ0g-gRks*",
+                    "colors": [
+                        "#0000cc",
+                        "#ffe401"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/lie-ltu",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/lie-ltu",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29300,
+                    "name": "Netherlands vs. Germany",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "PPV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/2ca90a384505c68b2f25a2eb433cadd6-thumbnail.jpg",
+                    "blurhash": "L9KS-MUb.AnLr[xCfQNd00Y3IUlV",
+                    "colors": [
+                        "#fb5e01",
+                        "#ffffff"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/ned-ger",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/ned-ger",
+                    "substreams": [],
+                    "viewers": "4"
+                },
+                {
+                    "id": 29301,
+                    "name": "Norway vs. Denmark",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "FS1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/fb5c6ef370138ada6eda263da690582d-thumbnail.jpg",
+                    "blurhash": "L1Hb7J4.@a%z-BfQWBfQ00%MCQQ-",
+                    "colors": [
+                        "#c7102e",
+                        "#d02a3e"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/nor-den",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/nor-den",
                     "substreams": [],
                     "viewers": "1"
+                },
+                {
+                    "id": 29302,
+                    "name": "Serbia vs. Greece",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "Fubo Sports",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bd37874f299d40a6fa77ea2bb57fad49-thumbnail.jpg",
+                    "blurhash": "LUEKj0{cw#bbe:aef7j[4-OZW.S2",
+                    "colors": [
+                        "#e70103",
+                        "#295da8"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/srb-gre",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/srb-gre",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29304,
+                    "name": "Portugal vs. Wales",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "FOX Soccer Plus",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/11b34fec5a6beaf8b544eb15c673fac4-thumbnail.jpg",
+                    "blurhash": "L2I1v50d#7D2^RInWB$+00yrKj?{",
+                    "colors": [
+                        "#d9291c",
+                        "#e70103"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-09-24\/por-wal",
+                    "starts_at": 1790275500,
+                    "ends_at": 1790284500,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-09-24\/por-wal",
+                    "substreams": [],
+                    "viewers": "2"
+                },
+                {
+                    "id": 29305,
+                    "name": "Cameroon vs. Comoros",
+                    "tag": "AFCON Qualifying",
+                    "source_tag": "beIN SPORTS CONNECT 6",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bf9f121b1a78b0e9abd570e1f376039b-thumbnail.jpg",
+                    "blurhash": "L38#=dH,E81k%FNLj[t200pI-l}P",
+                    "colors": [
+                        "#197b62",
+                        "#3e8f33"
+                    ],
+                    "uri_name": "afcon-qualifying\/2026-09-24\/cmr-com",
+                    "starts_at": 1790276400,
+                    "ends_at": 1790285400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/afcon-qualifying\/2026-09-24\/cmr-com",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29306,
+                    "name": "Ivory Coast vs. Ghana",
+                    "tag": "AFCON Qualifying",
+                    "source_tag": "beIN SPORTS CONNECT 5",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0764e9fda9849e76e6fe562ceca562aa-thumbnail.jpg",
+                    "blurhash": "L3KcBn@9]}*x-9ODfkr@00KqAcLy",
+                    "colors": [
+                        "#ff8201",
+                        "#fbd534"
+                    ],
+                    "uri_name": "afcon-qualifying\/2026-09-24\/civ-gha",
+                    "starts_at": 1790276400,
+                    "ends_at": 1790285400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/afcon-qualifying\/2026-09-24\/civ-gha",
+                    "substreams": [],
+                    "viewers": "0"
                 },
                 {
                     "id": 29176,
@@ -1624,7 +1776,7 @@
                     "category_name": "Golf",
                     "iframe": "https:\/\/embedindia.st\/embed\/sky-sports-golf-29059",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "10"
                 }
             ]
         },
@@ -1634,44 +1786,254 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29238,
-                    "name": "Toronto Maple Leafs vs. Ottawa Senators",
-                    "tag": "NHL",
-                    "source_tag": "TSN5",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0a2148c06b8212e68fd1eae5613e9534-thumbnail.jpg",
-                    "blurhash": "LDDal:3?#TQ-jZWVf6j[00zoXS%M",
+                    "id": 29307,
+                    "name": "Lule\u00e5 HF vs. Fr\u00f6lunda HC",
+                    "tag": "SHL",
+                    "source_tag": "TV4 Sport Live 1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/03f5ae9d900830ff408bc03cf1d39581-thumbnail.jpg",
+                    "blurhash": "LGIXz0~C00XT9FbGoft7y?%hyWa0",
                     "colors": [
-                        "#003e7e",
-                        "#dd1a32"
+                        "#911316",
+                        "#8b1428"
                     ],
-                    "uri_name": "nhl\/2026-09-23\/tor-ott",
-                    "starts_at": 1790204400,
-                    "ends_at": 1790215200,
+                    "uri_name": "lule-hf-vs-frlunda-hc-29307",
+                    "starts_at": 1790269200,
+                    "ends_at": 1790281800,
+                    "always_live": 0,
+                    "locale": "sv",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/lule-hf-vs-frlunda-hc-29307",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 29268,
+                    "name": "Boston Bruins vs. Philadelphia Flyers",
+                    "tag": "NHL",
+                    "source_tag": "NBC Sports Phil +",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9dd4f7fc128094e5e7b19bf6d0e89b44-thumbnail.jpg",
+                    "blurhash": "LAFWnJ3B;29bj[jtf6a|00rEO?}?",
+                    "colors": [
+                        "#231f20",
+                        "#fe5823"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/bos-phi",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-23\/tor-ott",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/bos-phi",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29239,
-                    "name": "Ottawa Senators vs. Toronto Maple Leafs",
+                    "id": 29269,
+                    "name": "Buffalo Sabres vs. Detroit Red Wings",
                     "tag": "NHL",
-                    "source_tag": "SN1",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/fa20f19d2b1e9fd4c69624e74e4f0f86-thumbnail.jpg",
-                    "blurhash": "LPDal:{Jw0tRjZj[fQay0xO@XRM{",
+                    "source_tag": "DSN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b7fa99fe8f12c219724449809d4e861f-thumbnail.jpg",
+                    "blurhash": "LBD%@93s+d#Rt7ofj[WB0J[BTIkC",
                     "colors": [
-                        "#dd1a32",
-                        "#003e7e"
+                        "#00468b",
+                        "#e30526"
                     ],
-                    "uri_name": "nhl\/2026-09-23\/ott-tor",
-                    "starts_at": 1790204400,
-                    "ends_at": 1790215200,
+                    "uri_name": "nhl\/2026-09-24\/buf-det",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-23\/ott-tor",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/buf-det",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29270,
+                    "name": "Pittsburgh Penguins vs. Columbus Blue Jackets",
+                    "tag": "NHL",
+                    "source_tag": "NHL",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b17785667367b7ede8dae0ae67c6ebb0-thumbnail.jpg",
+                    "blurhash": "L16kP6}y02H]x]xaayNG004z~qu3",
+                    "colors": [
+                        "#000000",
+                        "#002d62"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/pit-cbj",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/pit-cbj",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29271,
+                    "name": "New Jersey Devils vs. New York Rangers",
+                    "tag": "NHL",
+                    "source_tag": "MSG",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5875df6b98ee23087856c78d2ded2db3-thumbnail.jpg",
+                    "blurhash": "LUE1Ra{cwKbvjuj[jtay55K6XRWB",
+                    "colors": [
+                        "#e30b2b",
+                        "#0056ae"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/nj-nyr",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/nj-nyr",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29272,
+                    "name": "Nashville Predators vs. Carolina Hurricanes",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/35a7d88beda3233851249cf08d10b418-thumbnail.jpg",
+                    "blurhash": "LKJrW^.dt1ahoLfjfQf60MRBSiag",
+                    "colors": [
+                        "#fdba31",
+                        "#e30426"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/nsh-car",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/nsh-car",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29273,
+                    "name": "Florida Panthers vs. Tampa Bay Lightning",
+                    "tag": "NHL",
+                    "source_tag": "The Spot - MTN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/a809dc86d212a24f852444bfa2e49460-thumbnail.jpg",
+                    "blurhash": "LSDai${ewJogj[jtj[ay55OsX8NZ",
+                    "colors": [
+                        "#e51937",
+                        "#003e7e"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/fla-tb",
+                    "starts_at": 1790290800,
+                    "ends_at": 1790301600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/fla-tb",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29274,
+                    "name": "Chicago Blackhawks vs. St. Louis Blues",
+                    "tag": "NHL",
+                    "source_tag": "Blues App",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8ff7f7591e356628da0b505797df7aa8-thumbnail.jpg",
+                    "blurhash": "LWC#fc{cwMW?j[azfQj@9sK6X7W.",
+                    "colors": [
+                        "#e31937",
+                        "#0070b9"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/chi-stl",
+                    "starts_at": 1790294400,
+                    "ends_at": 1790305200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/chi-stl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29275,
+                    "name": "Edmonton Oilers vs. Vancouver Canucks",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ef11f27deab84fea3e3766e3b589708b-thumbnail.jpg",
+                    "blurhash": "L27Bc$^F4oE0jG-:ayD*004:_2-r",
+                    "colors": [
+                        "#00205b",
+                        "#003e7e"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/edm-van",
+                    "starts_at": 1790298000,
+                    "ends_at": 1790308800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/edm-van",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29276,
+                    "name": "Calgary Flames vs. Seattle Kraken",
+                    "tag": "NHL",
+                    "source_tag": "KONG",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5b944fe7bd9b7977f8e5826bb8d11c6c-thumbnail.jpg",
+                    "blurhash": "LaD7Ez|HwJOXj[jtfQfQ9[J-X8r?",
+                    "colors": [
+                        "#dd1a32",
+                        "#000d33"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/cgy-sea",
+                    "starts_at": 1790300400,
+                    "ends_at": 1790311200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/cgy-sea",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29277,
+                    "name": "Utah Mammoth vs. Vegas Golden Knights",
+                    "tag": "NHL",
+                    "source_tag": "Scripps Sports",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/034b62c895fc45295c8bc22189b49fac-thumbnail.jpg",
+                    "blurhash": "L168He0300:}xtWCa}s:00=V~qL4",
+                    "colors": [
+                        "#000000",
+                        "#344043"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/uta-vgk",
+                    "starts_at": 1790301600,
+                    "ends_at": 1790312400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/uta-vgk",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 29278,
+                    "name": "Anaheim Ducks vs. San Jose Sharks",
+                    "tag": "NHL",
+                    "source_tag": "NHL",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4139215f9003acaf560ee70a312925ae-thumbnail.jpg",
+                    "blurhash": "LeE1v|{{wMR*j[j[fQf6E1JTX7bb",
+                    "colors": [
+                        "#fc4c02",
+                        "#00788a"
+                    ],
+                    "uri_name": "nhl\/2026-09-24\/ana-sj",
+                    "starts_at": 1790301600,
+                    "ends_at": 1790312400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-09-24\/ana-sj",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -1682,158 +2044,6 @@
             "id": 35,
             "always_live": false,
             "streams": [
-                {
-                    "id": 28798,
-                    "name": "Azerbaijan Grand Prix - Practice 1",
-                    "tag": "Formula 1",
-                    "source_tag": "Sky Sports F1",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg",
-                    "blurhash": "LVDSn0IUV@of~qD%Rjs:-=MxWBt6",
-                    "colors": [
-                        "#0d1015",
-                        "#03080b"
-                    ],
-                    "uri_name": "f1\/2026\/azerbaijan\/fp1",
-                    "starts_at": 1790238600,
-                    "ends_at": 1790245800,
-                    "always_live": 0,
-                    "locale": "en-gb",
-                    "category_name": "Motorsports",
-                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/azerbaijan\/fp1",
-                    "substreams": [
-                        {
-                            "id": 28800,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28800",
-                            "source_tag": "Apple TV (F1TV)",
-                            "locale": "en-us",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28800"
-                        },
-                        {
-                            "id": 28802,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28802",
-                            "source_tag": "DAZN F1",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28802"
-                        },
-                        {
-                            "id": 28803,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28803",
-                            "source_tag": "Sky Sport F1",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28803"
-                        },
-                        {
-                            "id": 28804,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28804",
-                            "source_tag": "Sky Sport F1",
-                            "locale": "it",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28804"
-                        },
-                        {
-                            "id": 28805,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28805",
-                            "source_tag": "V Sport Motor",
-                            "locale": "sv",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28805"
-                        },
-                        {
-                            "id": 28806,
-                            "name": "Azerbaijan Grand Prix - Practice 1",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-1-28806",
-                            "source_tag": "Viaplay",
-                            "locale": "nl",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-1-28806"
-                        }
-                    ],
-                    "viewers": "2"
-                },
-                {
-                    "id": 28807,
-                    "name": "Azerbaijan Grand Prix - Practice 2",
-                    "tag": "Formula 1",
-                    "source_tag": "Sky Sports F1",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg",
-                    "blurhash": "LVDSn0IUV@of~qD%Rjs:-=MxWBt6",
-                    "colors": [
-                        "#0d1015",
-                        "#03080b"
-                    ],
-                    "uri_name": "f1\/2026\/azerbaijan\/fp2",
-                    "starts_at": 1790251200,
-                    "ends_at": 1790258400,
-                    "always_live": 0,
-                    "locale": "en-gb",
-                    "category_name": "Motorsports",
-                    "iframe": "https:\/\/embedindia.st\/embed\/f1\/2026\/azerbaijan\/fp2",
-                    "substreams": [
-                        {
-                            "id": 28809,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28809",
-                            "source_tag": "Apple TV (F1TV)",
-                            "locale": "en-us",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28809"
-                        },
-                        {
-                            "id": 28811,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28811",
-                            "source_tag": "DAZN F1",
-                            "locale": "es",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28811"
-                        },
-                        {
-                            "id": 28812,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28812",
-                            "source_tag": "Sky Sport F1",
-                            "locale": "de",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28812"
-                        },
-                        {
-                            "id": 28813,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28813",
-                            "source_tag": "Sky Sport F1",
-                            "locale": "it",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28813"
-                        },
-                        {
-                            "id": 28814,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28814",
-                            "source_tag": "V Sport Motor",
-                            "locale": "sv",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28814"
-                        },
-                        {
-                            "id": 28815,
-                            "name": "Azerbaijan Grand Prix - Practice 2",
-                            "tag": "Formula 1",
-                            "uri_name": "azerbaijan-grand-prix---practice-2-28815",
-                            "source_tag": "Viaplay",
-                            "locale": "nl",
-                            "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-2-28815"
-                        }
-                    ],
-                    "viewers": "0"
-                },
                 {
                     "id": 28816,
                     "name": "Azerbaijan Grand Prix - Practice 3",
@@ -1908,7 +2118,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/azerbaijan-grand-prix---practice-3-28824"
                         }
                     ],
-                    "viewers": "0"
+                    "viewers": "3"
                 },
                 {
                     "id": 28825,
@@ -2140,27 +2350,6 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29190,
-                    "name": "AEW Wednesday Night Dynamite",
-                    "tag": "Wrestling",
-                    "source_tag": "TBS",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-                    "blurhash": "LHExeyNWV6M|$dbtRir?ZtWZ~Bwg",
-                    "colors": [
-                        "#152441",
-                        "#9c4ec5"
-                    ],
-                    "uri_name": "aew\/2026-09-23",
-                    "starts_at": 1790208000,
-                    "ends_at": 1790218800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Wrestling",
-                    "iframe": "https:\/\/embedindia.st\/embed\/aew\/2026-09-23",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
                     "id": 29191,
                     "name": "TNA Impact",
                     "tag": "Wrestling",
@@ -2249,7 +2438,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-south-park",
                     "substreams": [],
-                    "viewers": "13"
+                    "viewers": "14"
                 },
                 {
                     "id": 3663,
@@ -2291,7 +2480,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy",
                     "substreams": [],
-                    "viewers": "12"
+                    "viewers": "8"
                 },
                 {
                     "id": 5191,
@@ -2312,7 +2501,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-the-simpsons",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 16623,
@@ -2354,7 +2543,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/rally-tv",
                     "substreams": [],
-                    "viewers": "5"
+                    "viewers": "1"
                 }
             ]
         }
