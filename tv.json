@@ -1,8 +1,8 @@
 {
     "success": true,
-    "timestamp": 1791208180,
+    "timestamp": 1791300150,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04669499397277832,
+    "performance": 0.04891800880432129,
     "streams": [
         {
             "category": "American Football",
@@ -28,28 +28,7 @@
                     "category_name": "American Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/nfl-network",
                     "substreams": [],
-                    "viewers": "8"
-                },
-                {
-                    "id": 29553,
-                    "name": "Atlanta Falcons at New Orleans Saints",
-                    "tag": "NFL",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/988173f5de9aa455e5b66ebbe4e8d834-thumbnail.jpg",
-                    "blurhash": "L3F#2R00K@xnxuX8j[ni00?=$-tl",
-                    "colors": [
-                        "#a71930",
-                        "#d3bc8d"
-                    ],
-                    "uri_name": "nfl\/2026-10-05\/atl-no",
-                    "starts_at": 1791245700,
-                    "ends_at": 1791260100,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nfl\/2026-10-05\/atl-no",
-                    "substreams": [],
-                    "viewers": "0"
+                    "viewers": "5"
                 },
                 {
                     "id": 29819,
@@ -923,44 +902,44 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 29842,
-                    "name": "Chicago White Sox vs. Cleveland Guardians",
+                    "id": 30062,
+                    "name": "Los Angeles Dodgers vs. Atlanta Braves",
                     "tag": "MLB",
-                    "source_tag": "TBS",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg",
-                    "blurhash": "L8D7w43TrD:+oLbHoLj[00{gtlO?",
+                    "source_tag": "FS1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/a8172e5c42ced7685e5159def4a7c6fd-thumbnail.jpg",
+                    "blurhash": "LEB.+u3sw3nNV[a}j[oK00#QkVof",
                     "colors": [
-                        "#2b2b2b",
-                        "#c41e3a"
+                        "#005a9c",
+                        "#b01c2e"
                     ],
-                    "uri_name": "mlb\/2026-10-05\/chw-cle",
-                    "starts_at": 1791234000,
-                    "ends_at": 1791246600,
+                    "uri_name": "mlb\/2026-10-06\/lad-atl",
+                    "starts_at": 1791324000,
+                    "ends_at": 1791336600,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-05\/chw-cle",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-06\/lad-atl",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29843,
-                    "name": "New York Yankees vs. Tampa Bay Rays",
+                    "id": 30063,
+                    "name": "Milwaukee Brewers vs. San Diego Padres",
                     "tag": "MLB",
-                    "source_tag": "TBS",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e74b9751872b1950d169e70d31443e4d-thumbnail.jpg",
-                    "blurhash": "L18ESp+D00E4WDWBRj%L00EV~q-:",
+                    "source_tag": "FS1",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ec5746d7a6eacc63089ad40f76d13bc1-thumbnail.jpg",
+                    "blurhash": "L397660[9F=;aejZa}oe00=p?bER",
                     "colors": [
-                        "#0c2340",
-                        "#1a3e6e"
+                        "#1a2f5a",
+                        "#4a3c31"
                     ],
-                    "uri_name": "mlb\/2026-10-05\/nyy-tb",
-                    "starts_at": 1791244800,
-                    "ends_at": 1791257400,
+                    "uri_name": "mlb\/2026-10-06\/mil-sd",
+                    "starts_at": 1791336600,
+                    "ends_at": 1791349200,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Baseball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-05\/nyy-tb",
+                    "iframe": "https:\/\/embedindia.st\/embed\/mlb\/2026-10-06\/mil-sd",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -971,111 +950,6 @@
             "id": 37,
             "always_live": false,
             "streams": [
-                {
-                    "id": 29795,
-                    "name": "Memphis Grizzlies vs. Atlanta Hawks",
-                    "tag": "NBA",
-                    "source_tag": "NBA League Pass",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8fd2a31520456dae25286a1b227a216b-thumbnail.jpg",
-                    "blurhash": "LFEUNB1kjJ^+oMazjtj[00}soy9F",
-                    "colors": [
-                        "#5d76a9",
-                        "#c8102e"
-                    ],
-                    "uri_name": "nba\/2026-10-05\/mem-atl",
-                    "starts_at": 1791241200,
-                    "ends_at": 1791252000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/mem-atl",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29796,
-                    "name": "Phoenix Suns vs. Detroit Pistons",
-                    "tag": "NBA",
-                    "source_tag": "NBA League Pass",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/57a43779e86828836b553a6534cdf88b-thumbnail.jpg",
-                    "blurhash": "L3AI[%005R^nspjZWYS500~E={9q",
-                    "colors": [
-                        "#29127a",
-                        "#1d428a"
-                    ],
-                    "uri_name": "nba\/2026-10-05\/phx-det",
-                    "starts_at": 1791241200,
-                    "ends_at": 1791252000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/phx-det",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29797,
-                    "name": "New York Knicks vs. Philadelphia 76ers",
-                    "tag": "NBA",
-                    "source_tag": "NBA TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ce1271dc2ccf1c5b5188c9d4dbb3d288-thumbnail.jpg",
-                    "blurhash": "L28qErDNKPx09u?GV@EM00yY#+X2",
-                    "colors": [
-                        "#1d428a",
-                        "#1d428a"
-                    ],
-                    "uri_name": "nba\/2026-10-05\/ny-phi",
-                    "starts_at": 1791241200,
-                    "ends_at": 1791252000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/ny-phi",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29798,
-                    "name": "Minnesota Timberwolves vs. Milwaukee Bucks",
-                    "tag": "NBA",
-                    "source_tag": "NBA League Pass",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ea1c0a458d7d3c43ec078795eb5189d3-thumbnail.jpg",
-                    "blurhash": "LG7B_%%jRnMxoej[fRay8wMwt6xu",
-                    "colors": [
-                        "#266092",
-                        "#00471b"
-                    ],
-                    "uri_name": "nba\/2026-10-05\/min-mil",
-                    "starts_at": 1791244800,
-                    "ends_at": 1791255600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/min-mil",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29799,
-                    "name": "Los Angeles Lakers vs. Sacramento Kings",
-                    "tag": "NBA",
-                    "source_tag": "NBA TV",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/99e29c38ff3e2d4cd3c84da5e09af73a-thumbnail.jpg",
-                    "blurhash": "L3A,03DND%yZetX4j[ag00cH-;rT",
-                    "colors": [
-                        "#552583",
-                        "#5a2d81"
-                    ],
-                    "uri_name": "nba\/2026-10-05\/lal-sac",
-                    "starts_at": 1791252000,
-                    "ends_at": 1791262800,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-05\/lal-sac",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 29830,
                     "name": "Brooklyn Nets vs. Charlotte Hornets",
@@ -1116,7 +990,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/no-okc",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 29834,
@@ -1157,6 +1031,132 @@
                     "locale": "en",
                     "category_name": "Basketball",
                     "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-06\/lal-gs",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30061,
+                    "name": "Adelaide 36ers vs. Melbourne United",
+                    "tag": "NBL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg",
+                    "blurhash": "LRD*SP{br^s;W=bFfQjb9YOtX5Na",
+                    "colors": [
+                        "#ed302e",
+                        "#4370b7"
+                    ],
+                    "uri_name": "nbl\/2026-10-07\/adl-mel",
+                    "starts_at": 1791361800,
+                    "ends_at": 1791372600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nbl\/2026-10-07\/adl-mel",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30056,
+                    "name": "Minnesota Timberwolves vs. Indiana Pacers",
+                    "tag": "NBA",
+                    "source_tag": "NBA TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/f0c0b35ddaa1aa961adb05593336956d-thumbnail.jpg",
+                    "blurhash": "LF84}Vt:WBMws.WXj[j?00VqoftS",
+                    "colors": [
+                        "#266092",
+                        "#0c2340"
+                    ],
+                    "uri_name": "nba\/2026-10-07\/min-ind",
+                    "starts_at": 1791414000,
+                    "ends_at": 1791424800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/min-ind",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30057,
+                    "name": "Orlando Magic vs. Memphis Grizzlies",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d80fefde6039fa03a4b8b29b24b9d761-thumbnail.jpg",
+                    "blurhash": "L66bvKI$MxITa$azj@j]00M]%M-:",
+                    "colors": [
+                        "#0150b5",
+                        "#5d76a9"
+                    ],
+                    "uri_name": "nba\/2026-10-07\/orl-mem",
+                    "starts_at": 1791417600,
+                    "ends_at": 1791428400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/orl-mem",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30058,
+                    "name": "Milwaukee Bucks vs. Oklahoma City Thunder",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/db7256f893de96c1eeb3db7a272ef4a8-thumbnail.jpg",
+                    "blurhash": "L65ivdL}Iy$-s:WVj[oK00%QxoI;",
+                    "colors": [
+                        "#00471b",
+                        "#007ac1"
+                    ],
+                    "uri_name": "nba\/2026-10-07\/mil-okc",
+                    "starts_at": 1791417600,
+                    "ends_at": 1791428400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/mil-okc",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30059,
+                    "name": "Phoenix Suns vs. Chicago Bulls",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8093ae5ae7b15c7e1feb4302025f969c-thumbnail.jpg",
+                    "blurhash": "L4DjA62yz?Ixt7WBWXX800|2tk]z",
+                    "colors": [
+                        "#29127a",
+                        "#ce1141"
+                    ],
+                    "uri_name": "nba\/2026-10-07\/phx-chi",
+                    "starts_at": 1791417600,
+                    "ends_at": 1791428400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/phx-chi",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30060,
+                    "name": "Golden State Warriors vs. Portland Trail Blazers",
+                    "tag": "NBA",
+                    "source_tag": "NBA TV",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e4b703576104c3f8fbb7e6e80e69df28-thumbnail.jpg",
+                    "blurhash": "LDIfI~*8o[$ye.X8bHn$01rvWFIu",
+                    "colors": [
+                        "#fdb927",
+                        "#e03a3e"
+                    ],
+                    "uri_name": "nba\/2026-10-07\/gs-por",
+                    "starts_at": 1791424800,
+                    "ends_at": 1791435600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nba\/2026-10-07\/gs-por",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -1233,7 +1233,7 @@
                             "iframe": "https:\/\/embedindia.st\/embed\/247-willow-sports"
                         }
                     ],
-                    "viewers": "6"
+                    "viewers": "96"
                 },
                 {
                     "id": 27496,
@@ -1254,7 +1254,7 @@
                     "category_name": "Cricket",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-fox-cricket",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "10"
                 }
             ]
         },
@@ -1264,191 +1264,212 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 30033,
-                    "name": "Cyprus vs. Latvia",
+                    "id": 30064,
+                    "name": "Kazakhstan vs. Faroe Islands",
                     "tag": "UEFA Nations League",
                     "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/12e4b6c97d7388ebdaff90d99caade21-thumbnail.jpg",
-                    "blurhash": "LSBo^4T#n-Myj[fkaza|4-MwbExt",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/48a64ce9fafb11325aeda7097fdacfe2-thumbnail.jpg",
+                    "blurhash": "LDEgaX00=|,[ofaya|fQ00}@M{Xk",
                     "colors": [
-                        "#195dcc",
-                        "#982242"
-                    ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/cyp-lva",
-                    "starts_at": 1791216000,
-                    "ends_at": 1791225000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/cyp-lva",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30034,
-                    "name": "Bosnia-Herzegovina vs. Poland",
-                    "tag": "UEFA Nations League",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d1500d17fdf2d241c6bbf0973c9d425c-thumbnail.jpg",
-                    "blurhash": "LCE{X}00?a%2tQadazbb00~WM{o|",
-                    "colors": [
-                        "#112854",
+                        "#01abc2",
                         "#ffffff"
                     ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/bih-pol",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
+                    "uri_name": "uefa-nations-league\/2026-10-06\/kaz-fro",
+                    "starts_at": 1791295200,
+                    "ends_at": 1791304200,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/bih-pol",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/kaz-fro",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "85"
                 },
                 {
-                    "id": 30035,
-                    "name": "France vs. Belgium",
+                    "id": 30065,
+                    "name": "Albania vs. San Marino",
                     "tag": "UEFA Nations League",
                     "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/57715422da5e306ec3b010c2108bf443-thumbnail.jpg",
-                    "blurhash": "LCE0+]2z;SNXoLa}aya|00;JOT,]",
-                    "colors": [
-                        "#00007e",
-                        "#e20612"
-                    ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/fra-bel",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/fra-bel",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30036,
-                    "name": "Italy vs. T\u00fcrkiye",
-                    "tag": "UEFA Nations League",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9eb75c962227e9e9985fd29985eefb9a-thumbnail.jpg",
-                    "blurhash": "L8Frl000_0R5s;ayazay00}mR5?t",
-                    "colors": [
-                        "#103cd3",
-                        "#ffffff"
-                    ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/ita-tur",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/ita-tur",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30037,
-                    "name": "Montenegro vs. Armenia",
-                    "tag": "UEFA Nations League",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ba8da6eb35ed27d152a698794edc6c08-thumbnail.jpg",
-                    "blurhash": "L2Id5#:O@[-Z#EkSaei~00Xq7yI*",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/da77195093f0d95f400bf61bdb1c5276-thumbnail.jpg",
+                    "blurhash": "LUD+Gh_hxcgNofWCa|oL54PBR%Rk",
                     "colors": [
                         "#e70103",
-                        "#dc2400"
+                        "#00bdfd"
                     ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/mne-arm",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
+                    "uri_name": "uefa-nations-league\/2026-10-06\/alb-smr",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/mne-arm",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/alb-smr",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 30038,
-                    "name": "Northern Ireland vs. Georgia",
+                    "id": 30066,
+                    "name": "Belarus vs. Finland",
                     "tag": "UEFA Nations League",
                     "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/451421769348db5ec9ff287fec46108e-thumbnail.jpg",
-                    "blurhash": "L8JGc^00*Jw{s:axazfQ00.SIApv",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bafc0e659a1f753656ba4969cde876bb-thumbnail.jpg",
+                    "blurhash": "LaEyY{~V%1o#oLjua|bG4.NdRjRO",
                     "colors": [
-                        "#cc0001",
+                        "#ffffff",
+                        "#013580"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/blr-fin",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/blr-fin",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30067,
+                    "name": "Croatia vs. Spain",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b34ec9c82ec690e5b5dae9522c14c21d-thumbnail.jpg",
+                    "blurhash": "LEI^rc|4wJsjsmo0aya}0LSbOXNz",
+                    "colors": [
+                        "#fe0000",
+                        "#c60d1f"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/cro-esp",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/cro-esp",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 30068,
+                    "name": "England vs. Czechia",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/28667d3ca8ad0b597b338efd4fdd047d-thumbnail.jpg",
+                    "blurhash": "LcJZlQ*JtkWCofayfRj[0KRPRjjE",
+                    "colors": [
+                        "#ffffff",
+                        "#d6151a"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/eng-cze",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/eng-cze",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30069,
+                    "name": "Estonia vs. Iceland",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/d25edbeb07f5e9152b9287d421be9e44-thumbnail.jpg",
+                    "blurhash": "L56k=dytI|idN1NGWWt600VPxRXo",
+                    "colors": [
+                        "#195dcc",
+                        "#0d30fe"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/est-isl",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/est-isl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30070,
+                    "name": "Luxembourg vs. Bulgaria",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c07c4f6c915daf7d1a0cfb0f3645affd-thumbnail.jpg",
+                    "blurhash": "L5IL4N{:+bW%-TrWayTK00EuF_oj",
+                    "colors": [
+                        "#e70103",
+                        "#d52613"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/lux-bul",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/lux-bul",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30071,
+                    "name": "Moldova vs. Slovakia",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e8aa8557cf282e7f2bb7891924b94033-thumbnail.jpg",
+                    "blurhash": "L57w,:E?EqtTx]VsWXoz00$;-1Vy",
+                    "colors": [
+                        "#0146ad",
+                        "#0d30fe"
+                    ],
+                    "uri_name": "uefa-nations-league\/2026-10-06\/mda-svk",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/mda-svk",
+                    "substreams": [],
+                    "viewers": "1"
+                },
+                {
+                    "id": 30072,
+                    "name": "Scotland vs. Slovenia",
+                    "tag": "UEFA Nations League",
+                    "source_tag": "DAZN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b03afa84274174082ed39fba9cfa01e5-thumbnail.jpg",
+                    "blurhash": "L7EyY{00~on5tSV@a|oz00~VD*?u",
+                    "colors": [
+                        "#1a2d68",
                         "#ffffff"
                     ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/nir-geo",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
+                    "uri_name": "uefa-nations-league\/2026-10-06\/sco-svn",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/nir-geo",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/sco-svn",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 30039,
-                    "name": "Romania vs. Sweden",
+                    "id": 30073,
+                    "name": "Switzerland vs. North Macedonia",
                     "tag": "UEFA Nations League",
                     "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/41f1a22ebb99dbf9b991a9fa9f3897c3-thumbnail.jpg",
-                    "blurhash": "L3K0lO=o-$3X%0jsaybH00BqD=@?",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/163d34d167f0667b6311eb4b9c37b48b-thumbnail.jpg",
+                    "blurhash": "L5KGKx{p:+-2xGjuayjs01oqGEEo",
                     "colors": [
-                        "#fdd118",
-                        "#fecb02"
+                        "#fe0000",
+                        "#e70103"
                     ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/rou-swe",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
+                    "uri_name": "uefa-nations-league\/2026-10-06\/sui-mkd",
+                    "starts_at": 1791312300,
+                    "ends_at": 1791321300,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/rou-swe",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30040,
-                    "name": "Ukraine vs. Hungary",
-                    "tag": "UEFA Nations League",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/62f7ecd76292bf9d18a1d8ed57910aea-thumbnail.jpg",
-                    "blurhash": "LQIpbB?+tLj[jcWXa{oJ0MRVR.Rk",
-                    "colors": [
-                        "#fddc01",
-                        "#ce2029"
-                    ],
-                    "uri_name": "uefa-nations-league\/2026-10-05\/ukr-hun",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-05\/ukr-hun",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30041,
-                    "name": "Liechtenstein vs. Gibraltar",
-                    "tag": "Men's International Friendly",
-                    "source_tag": "DAZN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bb7388472d18c4b6362417bb0f918460-thumbnail.jpg",
-                    "blurhash": "LGDtDL0[#s%MbvWBjtof0c=^SwR4",
-                    "colors": [
-                        "#0000cc",
-                        "#de2a19"
-                    ],
-                    "uri_name": "mens-international-friendly\/2026-10-05\/lie-gib",
-                    "starts_at": 1791225900,
-                    "ends_at": 1791234900,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/embedindia.st\/embed\/mens-international-friendly\/2026-10-05\/lie-gib",
+                    "iframe": "https:\/\/embedindia.st\/embed\/uefa-nations-league\/2026-10-06\/sui-mkd",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -1471,7 +1492,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/mens-international-friendly\/2026-10-06\/arg-ben",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "14"
                 },
                 {
                     "id": 29921,
@@ -1681,7 +1702,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/embedindia.st\/embed\/pl\/2026-10-10\/ars-lee",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 30045,
@@ -3669,89 +3690,194 @@
                     "category_name": "Ice Hockey",
                     "iframe": "https:\/\/embedindia.st\/embed\/nhl-network-29780",
                     "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30047,
+                    "name": "Carolina Hurricanes vs. Montreal Canadiens",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/6fc004a7df4ddb50e198717ed4cec741-thumbnail.jpg",
+                    "blurhash": "L8Hkej{|iwShsojZjZjZ00J-kqf5",
+                    "colors": [
+                        "#e30426",
+                        "#c41230"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/car-mtl",
+                    "starts_at": 1791327600,
+                    "ends_at": 1791338400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/car-mtl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30048,
+                    "name": "Nashville Predators vs. Toronto Maple Leafs",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e59c8803122957f3b0c4fd427e4590bc-thumbnail.jpg",
+                    "blurhash": "LaF5T%}%w]ogfQj[fQay4:NgW=Rj",
+                    "colors": [
+                        "#fdba31",
+                        "#003e7e"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/nsh-tor",
+                    "starts_at": 1791327600,
+                    "ends_at": 1791338400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/nsh-tor",
+                    "substreams": [],
                     "viewers": "1"
                 },
                 {
-                    "id": 29820,
-                    "name": "Philadelphia Flyers vs. Tampa Bay Lightning",
+                    "id": 30049,
+                    "name": "Ottawa Senators vs. Detroit Red Wings",
                     "tag": "NHL",
-                    "source_tag": "The Spot - MTN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9115a0117d4c5de41fbb94f0575245cd-thumbnail.jpg",
-                    "blurhash": "LYET}H{_wKozj[fPj[f69ZOYX8Na",
-                    "colors": [
-                        "#fe5823",
-                        "#003e7e"
-                    ],
-                    "uri_name": "nhl\/2026-10-05\/phi-tb",
-                    "starts_at": 1791241200,
-                    "ends_at": 1791252000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/phi-tb",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 29822,
-                    "name": "Ottawa Senators vs. Boston Bruins",
-                    "tag": "NHL",
-                    "source_tag": "NESN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/df214005eef18b6f1874bbf867ef5ed2-thumbnail.jpg",
-                    "blurhash": "LKETk}{Nv~%KoLjafQfk0fXlXSIp",
+                    "source_tag": "DSN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/cc1ead99043e6e69ade45e97964ac7f4-thumbnail.jpg",
+                    "blurhash": "L3IdOd1ZzC^8w|jFfkW:00^7LL5i",
                     "colors": [
                         "#dd1a32",
-                        "#231f20"
+                        "#e30526"
                     ],
-                    "uri_name": "nhl\/2026-10-05\/ott-bos",
-                    "starts_at": 1791243000,
-                    "ends_at": 1791253800,
+                    "uri_name": "nhl\/2026-10-06\/ott-det",
+                    "starts_at": 1791327600,
+                    "ends_at": 1791338400,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/ott-bos",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/ott-det",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29825,
-                    "name": "Winnipeg Jets vs. Pittsburgh Penguins",
+                    "id": 30050,
+                    "name": "Utah Mammoth vs. New Jersey Devils",
                     "tag": "NHL",
-                    "source_tag": "ESPN+",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b0e832091abe9e5fc41a672a98d492b9-thumbnail.jpg",
-                    "blurhash": "L77UMCtpIWV=t7afazj[00RN%LkX",
+                    "source_tag": "MSGSN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0764e0dfd0e4c2f7ee5a6bd16a243964-thumbnail.jpg",
+                    "blurhash": "LBDQZc1a+b,?ofayjtj[0K}ETJWX",
                     "colors": [
-                        "#002d62",
-                        "#000000"
+                        "#000000",
+                        "#e30b2b"
                     ],
-                    "uri_name": "nhl\/2026-10-05\/wpg-pit",
-                    "starts_at": 1791243000,
-                    "ends_at": 1791253800,
+                    "uri_name": "nhl\/2026-10-06\/uta-nj",
+                    "starts_at": 1791327600,
+                    "ends_at": 1791338400,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/wpg-pit",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/uta-nj",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 29827,
-                    "name": "San Jose Sharks vs. Dallas Stars",
+                    "id": 30051,
+                    "name": "Minnesota Wild vs. Buffalo Sabres",
                     "tag": "NHL",
-                    "source_tag": "Prime Video (Local)",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0659a9bc8946e966eed89a6ec51ad7cf-thumbnail.jpg",
-                    "blurhash": "L64q5rMsIot5bHa#ayfi4TtJ%2V@",
+                    "source_tag": "MSGB",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0aa521648fc56dc88f4a47c0d6244dbf-thumbnail.jpg",
+                    "blurhash": "L56IKqDzD+-?xuRjayt700%j-pIA",
                     "colors": [
-                        "#00788a",
-                        "#20864c"
+                        "#124734",
+                        "#00468b"
                     ],
-                    "uri_name": "nhl\/2026-10-05\/sj-dal",
-                    "starts_at": 1791244800,
-                    "ends_at": 1791255600,
+                    "uri_name": "nhl\/2026-10-06\/min-buf",
+                    "starts_at": 1791327600,
+                    "ends_at": 1791338400,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-05\/sj-dal",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/min-buf",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30052,
+                    "name": "New York Islanders vs. New York Rangers",
+                    "tag": "NHL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8c600bd85fd275b2a2af480dbe4f940c-thumbnail.jpg",
+                    "blurhash": "L28qw5[78|LNo~tRofM{007P?tzo",
+                    "colors": [
+                        "#00529b",
+                        "#0056ae"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/nyi-nyr",
+                    "starts_at": 1791329400,
+                    "ends_at": 1791340200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/nyi-nyr",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30053,
+                    "name": "St. Louis Blues vs. Chicago Blackhawks",
+                    "tag": "NHL",
+                    "source_tag": "CHSN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/fab56bd91a52901cda32e180e6af0213-thumbnail.jpg",
+                    "blurhash": "LKC#fc3Z#qs7j[j[fQaz55+@X7n,",
+                    "colors": [
+                        "#0070b9",
+                        "#e31937"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/stl-chi",
+                    "starts_at": 1791331200,
+                    "ends_at": 1791342000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/stl-chi",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30054,
+                    "name": "Vegas Golden Knights vs. Seattle Kraken",
+                    "tag": "NHL",
+                    "source_tag": "KONG",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/da3c89f3643247ea48d920feca0fb10c-thumbnail.jpg",
+                    "blurhash": "L35rGO}+D$Bqt6oeayWX00Ad-;+t",
+                    "colors": [
+                        "#344043",
+                        "#000d33"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/vgk-sea",
+                    "starts_at": 1791334800,
+                    "ends_at": 1791345600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/vgk-sea",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30055,
+                    "name": "Florida Panthers vs. Los Angeles Kings",
+                    "tag": "NHL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/56e757851228402b35711acbdfd5667d-thumbnail.jpg",
+                    "blurhash": "LVD7XL|xwJWXj[jtfQfQ9tJTX8W.",
+                    "colors": [
+                        "#e51937",
+                        "#121212"
+                    ],
+                    "uri_name": "nhl\/2026-10-06\/fla-la",
+                    "starts_at": 1791338400,
+                    "ends_at": 1791349200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/embedindia.st\/embed\/nhl\/2026-10-06\/fla-la",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -4398,7 +4524,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-south-park",
                     "substreams": [],
-                    "viewers": "15"
+                    "viewers": "12"
                 },
                 {
                     "id": 3663,
@@ -4440,7 +4566,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-family-guy",
                     "substreams": [],
-                    "viewers": "17"
+                    "viewers": "7"
                 },
                 {
                     "id": 5191,
@@ -4461,7 +4587,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-the-simpsons",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 16623,
@@ -4482,7 +4608,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/247-spongebob-squarepants",
                     "substreams": [],
-                    "viewers": "6"
+                    "viewers": "4"
                 },
                 {
                     "id": 17270,
@@ -4503,7 +4629,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/embedindia.st\/embed\/rally-tv",
                     "substreams": [],
-                    "viewers": "2"
+                    "viewers": "1"
                 }
             ]
         }
