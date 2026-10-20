@@ -1,8 +1,8 @@
 {
     "success": true,
-    "timestamp": 1792422290,
+    "timestamp": 1792513760,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.06998991966247559,
+    "performance": 0.07319283485412598,
     "streams": [
         {
             "category": "American Football",
@@ -29,27 +29,6 @@
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/nfl-network",
                     "substreams": [],
                     "viewers": "6"
-                },
-                {
-                    "id": 30244,
-                    "name": "Washington Commanders at San Francisco 49ers",
-                    "tag": "NFL",
-                    "source_tag": "ESPN",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7b6910fc8f96bc176e6dd35f2adf06c8-thumbnail.jpg",
-                    "blurhash": "L2Cgx?1DDO%PxFj?j[bH00}w?vvd",
-                    "colors": [
-                        "#5a1414",
-                        "#aa0000"
-                    ],
-                    "uri_name": "nfl\/2026-10-19\/wsh-sf",
-                    "starts_at": 1792455300,
-                    "ends_at": 1792469700,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "American Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nfl\/2026-10-19\/wsh-sf",
-                    "substreams": [],
-                    "viewers": "0"
                 },
                 {
                     "id": 30555,
@@ -872,34 +851,6 @@
                     "category_name": "Australian Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-fox-footy",
                     "substreams": [],
-                    "viewers": "1"
-                }
-            ]
-        },
-        {
-            "category": "Baseball",
-            "id": 36,
-            "always_live": false,
-            "streams": [
-                {
-                    "id": 30577,
-                    "name": "Cleveland Guardians vs. Tampa Bay Rays",
-                    "tag": "MLB",
-                    "source_tag": "TBS",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b023213efdbd425b5252f3135f468bf5-thumbnail.jpg",
-                    "blurhash": "LOD7~{{ersS~j[jtayj[0xKPg2en",
-                    "colors": [
-                        "#c41e3a",
-                        "#1a3e6e"
-                    ],
-                    "uri_name": "mlb\/2026-10-19\/cle-tb",
-                    "starts_at": 1792454400,
-                    "ends_at": 1792467000,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Baseball",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/mlb\/2026-10-19\/cle-tb",
-                    "substreams": [],
                     "viewers": "0"
                 }
             ]
@@ -909,27 +860,6 @@
             "id": 37,
             "always_live": false,
             "streams": [
-                {
-                    "id": 30573,
-                    "name": "Atlanta Dream vs. Golden State Valkyries",
-                    "tag": "WNBA",
-                    "source_tag": "USA Net",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/4c867abc8cf042fc5f7df8f9e1fd2fbc-thumbnail.jpg",
-                    "blurhash": "LDGj5j_}XAR6kCoffQWB00I^oHk=",
-                    "colors": [
-                        "#e31837",
-                        "#b38fcf"
-                    ],
-                    "uri_name": "wnba\/2026-10-19\/atl-gs",
-                    "starts_at": 1792454400,
-                    "ends_at": 1792465200,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Basketball",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/wnba\/2026-10-19\/atl-gs",
-                    "substreams": [],
-                    "viewers": "0"
-                },
                 {
                     "id": 30566,
                     "name": "Boston Celtics vs. Detroit Pistons",
@@ -949,7 +879,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-20\/bos-det",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "2"
                 },
                 {
                     "id": 30568,
@@ -970,7 +900,7 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-20\/phi-ny",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "3"
                 },
                 {
                     "id": 30571,
@@ -991,6 +921,348 @@
                     "category_name": "Basketball",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-20\/okc-sa",
                     "substreams": [],
+                    "viewers": "2"
+                },
+                {
+                    "id": 30796,
+                    "name": "Tasmania JackJumpers vs. Brisbane Bullets",
+                    "tag": "NBL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/a00c4101973e994d06ae26a11b9f9381-thumbnail.jpg",
+                    "blurhash": "L56SjAHEE*%5t8f6WXj?00,#-AIU",
+                    "colors": [
+                        "#008b45",
+                        "#1f4fa2"
+                    ],
+                    "uri_name": "nbl\/2026-10-21\/tas-bri",
+                    "starts_at": 1792571400,
+                    "ends_at": 1792582200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nbl\/2026-10-21\/tas-bri",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30776,
+                    "name": "Atlanta Hawks vs. Orlando Magic",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8b2b07533a467425db9121211f8bfe64-thumbnail.jpg",
+                    "blurhash": "LXDkl;}7xHI:j[j[fQa|4-EhWUxa",
+                    "colors": [
+                        "#c8102e",
+                        "#0150b5"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/atl-orl",
+                    "starts_at": 1792623600,
+                    "ends_at": 1792634400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/atl-orl",
+                    "substreams": [
+                        {
+                            "id": 30777,
+                            "name": "Atlanta Hawks vs. Orlando Magic",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/atl-orl\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/atl-orl\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30778,
+                    "name": "Milwaukee Bucks vs. Washington Wizards",
+                    "tag": "NBA",
+                    "source_tag": "MNMT",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5749942790c20b82639fc89cc2b7eef1-thumbnail.jpg",
+                    "blurhash": "L7C#ra0][C%ixGS2j[so00}vO?z:",
+                    "colors": [
+                        "#00471b",
+                        "#e31837"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/mil-wsh",
+                    "starts_at": 1792623600,
+                    "ends_at": 1792634400,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/mil-wsh",
+                    "substreams": [
+                        {
+                            "id": 30779,
+                            "name": "Milwaukee Bucks vs. Washington Wizards",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/mil-wsh\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/mil-wsh\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30780,
+                    "name": "Minnesota Timberwolves vs. Miami Heat",
+                    "tag": "NBA",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b4f54d56425064c99d88b92c3890261f-thumbnail.jpg",
+                    "blurhash": "LFB35ACmjGR5ofayj@fk0Jm+ofxu",
+                    "colors": [
+                        "#266092",
+                        "#98002e"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/min-mia",
+                    "starts_at": 1792625400,
+                    "ends_at": 1792636200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/min-mia",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30781,
+                    "name": "Charlotte Hornets vs. Brooklyn Nets",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg",
+                    "blurhash": "L88hg|3ZK6~pt7j[j[ay00^ixZ4n",
+                    "colors": [
+                        "#008ca8",
+                        "#000000"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/cha-bkn",
+                    "starts_at": 1792625400,
+                    "ends_at": 1792636200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/cha-bkn",
+                    "substreams": [
+                        {
+                            "id": 30782,
+                            "name": "Charlotte Hornets vs. Brooklyn Nets",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/cha-bkn\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/cha-bkn\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30783,
+                    "name": "Chicago Bulls vs. Toronto Raptors",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0a2657ec0741f9f93bb63adb50de71f2-thumbnail.jpg",
+                    "blurhash": "L7ILTB4TjF.mt7bHfkj[00.mf+Hr",
+                    "colors": [
+                        "#ce1141",
+                        "#d91244"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/chi-tor",
+                    "starts_at": 1792625400,
+                    "ends_at": 1792636200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/chi-tor",
+                    "substreams": [
+                        {
+                            "id": 30784,
+                            "name": "Chicago Bulls vs. Toronto Raptors",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/chi-tor\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/chi-tor\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30785,
+                    "name": "Utah Jazz vs. Memphis Grizzlies",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/550cff2a9e25a0fb0bdd126b50c9da2e-thumbnail.jpg",
+                    "blurhash": "L38q8m_tJz4.xuofRQM{000dxv^+",
+                    "colors": [
+                        "#4e008e",
+                        "#5d76a9"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/utah-mem",
+                    "starts_at": 1792627200,
+                    "ends_at": 1792638000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/utah-mem",
+                    "substreams": [
+                        {
+                            "id": 30786,
+                            "name": "Utah Jazz vs. Memphis Grizzlies",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/utah-mem\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/utah-mem\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30787,
+                    "name": "Indiana Pacers vs. New Orleans Pelicans",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/1ad5fb8e106d9c5fa99249cfc218f0a8-thumbnail.jpg",
+                    "blurhash": "L35}pz~69H0U%0t3WDNK004_?G~2",
+                    "colors": [
+                        "#0c2340",
+                        "#0a2240"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/ind-no",
+                    "starts_at": 1792627200,
+                    "ends_at": 1792638000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/ind-no",
+                    "substreams": [
+                        {
+                            "id": 30788,
+                            "name": "Indiana Pacers vs. New Orleans Pelicans",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/ind-no\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/ind-no\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30789,
+                    "name": "Dallas Mavericks vs. Houston Rockets",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg",
+                    "blurhash": "LJCXz93s$kv~jba}jtjt0x#7SLbb",
+                    "colors": [
+                        "#0064b1",
+                        "#ce0e2d"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/dal-hou",
+                    "starts_at": 1792629000,
+                    "ends_at": 1792639800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/dal-hou",
+                    "substreams": [
+                        {
+                            "id": 30790,
+                            "name": "Dallas Mavericks vs. Houston Rockets",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/dal-hou\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/dal-hou\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30791,
+                    "name": "Golden State Warriors vs. Los Angeles Lakers",
+                    "tag": "NBA",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/597ca4ae9aa57cafe63040c1967d6714-thumbnail.jpg",
+                    "blurhash": "LPF4.g~0xW$ya#a#j@j?0fWZWXIu",
+                    "colors": [
+                        "#fdb927",
+                        "#552583"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/gs-lal",
+                    "starts_at": 1792634400,
+                    "ends_at": 1792645200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/gs-lal",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30792,
+                    "name": "Phoenix Suns vs. Portland Trail Blazers",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c56803a4356b61ce6f3d2b3acbcb18af-thumbnail.jpg",
+                    "blurhash": "L6D@B}0=+zBWrrf,W=V[00-VkU|q",
+                    "colors": [
+                        "#29127a",
+                        "#e03a3e"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/phx-por",
+                    "starts_at": 1792634400,
+                    "ends_at": 1792645200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/phx-por",
+                    "substreams": [
+                        {
+                            "id": 30793,
+                            "name": "Phoenix Suns vs. Portland Trail Blazers",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/phx-por\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/phx-por\/away"
+                        }
+                    ],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30794,
+                    "name": "Sacramento Kings vs. LA Clippers",
+                    "tag": "NBA",
+                    "source_tag": "NBA League Pass",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/7c457dd0b6e8157b830483d3ac51f1a9-thumbnail.jpg",
+                    "blurhash": "L5ATNW+oVvo{n-ahfQkA00kjt7Rj",
+                    "colors": [
+                        "#5a2d81",
+                        "#12173f"
+                    ],
+                    "uri_name": "nba\/2026-10-21\/sac-lac",
+                    "starts_at": 1792636200,
+                    "ends_at": 1792647000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Basketball",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/sac-lac",
+                    "substreams": [
+                        {
+                            "id": 30795,
+                            "name": "Sacramento Kings vs. LA Clippers",
+                            "tag": "NBA",
+                            "uri_name": "nba\/2026-10-21\/sac-lac\/away",
+                            "source_tag": "NBA League Pass",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/nba\/2026-10-21\/sac-lac\/away"
+                        }
+                    ],
                     "viewers": "0"
                 }
             ]
@@ -1038,7 +1310,7 @@
                             "iframe": "https:\/\/taifood-blog.asia\/embed\/247-willow-sports"
                         }
                     ],
-                    "viewers": "16"
+                    "viewers": "15"
                 },
                 {
                     "id": 27496,
@@ -1059,7 +1331,7 @@
                     "category_name": "Cricket",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-fox-cricket",
                     "substreams": [],
-                    "viewers": "66"
+                    "viewers": "18"
                 }
             ]
         },
@@ -1069,115 +1341,10 @@
             "always_live": false,
             "streams": [
                 {
-                    "id": 30310,
-                    "name": "Monza vs. Cagliari",
-                    "tag": "Serie A",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c9ea95e3aca9279c294b1dae607379f6-thumbnail.jpg",
-                    "blurhash": "LWEmqg{zrXX8offQf6jt0xK4o}WB",
-                    "colors": [
-                        "#e4002b",
-                        "#002350"
-                    ],
-                    "uri_name": "seriea\/2026-10-19\/mon-cag",
-                    "starts_at": 1792427400,
-                    "ends_at": 1792436400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/seriea\/2026-10-19\/mon-cag",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30430,
-                    "name": "Degerfors IF vs. Kalmar FF",
-                    "tag": "Allsvenskan",
-                    "source_tag": "TV4 Fotboll",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/201c25c939ce9448f2bbcbb84ddbd6f3-thumbnail.jpg",
-                    "blurhash": "L2JXk24ohfPS_2tkaeVZ00uMdBv5",
-                    "colors": [
-                        "#d6001c",
-                        "#e4002b"
-                    ],
-                    "uri_name": "allsvenskan\/2026-10-19\/deg-kff",
-                    "starts_at": 1792429200,
-                    "ends_at": 1792438200,
-                    "always_live": 0,
-                    "locale": "sv",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/allsvenskan\/2026-10-19\/deg-kff",
-                    "substreams": [],
-                    "viewers": "1"
-                },
-                {
-                    "id": 30311,
-                    "name": "Parma vs. Torino",
-                    "tag": "Serie A",
-                    "source_tag": "Paramount+",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/1821d2e2694c899ddabcb06e9339ef4b-thumbnail.jpg",
-                    "blurhash": "LCA9{fGKIBjJt6WBf6kC00nM%goa",
-                    "colors": [
-                        "#0033a0",
-                        "#670e36"
-                    ],
-                    "uri_name": "seriea\/2026-10-19\/par-tor",
-                    "starts_at": 1792435500,
-                    "ends_at": 1792444500,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/seriea\/2026-10-19\/par-tor",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30282,
-                    "name": "Getafe vs. Rayo Vallecano",
-                    "tag": "LaLiga",
-                    "source_tag": "ESPN+",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/033d192e08de47c1679e2cb4cd411937-thumbnail.jpg",
-                    "blurhash": "LIC=1G1Bw5%2ofWCazj[0J=rbtRO",
-                    "colors": [
-                        "#0000cc",
-                        "#c8102e"
-                    ],
-                    "uri_name": "laliga\/2026-10-19\/get-ray",
-                    "starts_at": 1792436400,
-                    "ends_at": 1792445400,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/laliga\/2026-10-19\/get-ray",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30301,
-                    "name": "Tottenham Hotspur vs. Coventry City",
-                    "tag": "Premier League",
-                    "source_tag": "Sky Sports Premier League",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/31fc2b37d1dda2e026502ae7977dcbed-thumbnail.jpg",
-                    "blurhash": "L598Jc00TK?Eo3bFazjG00?^xFK8",
-                    "colors": [
-                        "#132257",
-                        "#6bb1e0"
-                    ],
-                    "uri_name": "pl\/2026-10-19\/tot-cov",
-                    "starts_at": 1792436400,
-                    "ends_at": 1792445400,
-                    "always_live": 0,
-                    "locale": "en-gb",
-                    "category_name": "Football",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/pl\/2026-10-19\/tot-cov",
-                    "substreams": [],
-                    "viewers": "3"
-                },
-                {
                     "id": 30670,
                     "name": "Fenerbahce vs. Slavia Prague",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 3",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5455c39f5312a7a63351701e7eb89949-thumbnail.jpg",
                     "blurhash": "LgJP*F*DklnOj@fjfQfQ0#VaahWZ",
                     "colors": [
@@ -1188,17 +1355,17 @@
                     "starts_at": 1792514700,
                     "ends_at": 1792523700,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-20\/fen-slp",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "37"
                 },
                 {
                     "id": 30671,
                     "name": "Sabah FK vs. Borussia Dortmund",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 2",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/43b8bc3595efec515f21e0c399d4e168-thumbnail.jpg",
                     "blurhash": "L9Jr=x4gpT%Ds:jcfjay04*7V|OF",
                     "colors": [
@@ -1209,17 +1376,101 @@
                     "starts_at": 1792514700,
                     "ends_at": 1792523700,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-20\/sab-dor",
                     "substreams": [],
+                    "viewers": "89"
+                },
+                {
+                    "id": 30801,
+                    "name": "The Golazo Show",
+                    "tag": "Champions League",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+                    "blurhash": "L83cDOj]Dgaya$fQayfQI7ay%Qj@",
+                    "colors": [
+                        "#001a66",
+                        "#001a66"
+                    ],
+                    "uri_name": "the-golazo-show-30801",
+                    "starts_at": 1792519200,
+                    "ends_at": 1792537200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/the-golazo-show-30801",
+                    "substreams": [],
+                    "viewers": "7"
+                },
+                {
+                    "id": 30798,
+                    "name": "Walsall vs. Oldham Athletic",
+                    "tag": "EFL League Two",
+                    "source_tag": "Sky Sports+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg",
+                    "blurhash": "LPC;rf{@nBSzj[jua|a{0wK7ovjK",
+                    "colors": [
+                        "#c8142f",
+                        "#0e00f6"
+                    ],
+                    "uri_name": "efl-league-two\/2026-10-20\/wal-old",
+                    "starts_at": 1792521900,
+                    "ends_at": 1792530900,
+                    "always_live": 0,
+                    "locale": "en-gb",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/efl-league-two\/2026-10-20\/wal-old",
+                    "substreams": [],
                     "viewers": "0"
+                },
+                {
+                    "id": 30799,
+                    "name": "Rochdale vs. Grimsby Town",
+                    "tag": "EFL League Two",
+                    "source_tag": "Sky Sports+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg",
+                    "blurhash": "LH9%*n%jIpMxj[j[a|ay00Mw%2tR",
+                    "colors": [
+                        "#0f1086",
+                        "#1a1a1a"
+                    ],
+                    "uri_name": "efl-league-two\/2026-10-20\/rch-gri",
+                    "starts_at": 1792521900,
+                    "ends_at": 1792530900,
+                    "always_live": 0,
+                    "locale": "en-gb",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/efl-league-two\/2026-10-20\/rch-gri",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30800,
+                    "name": "Wolverhampton Wanderers vs. Portsmouth",
+                    "tag": "EFL Championship",
+                    "source_tag": "Sky Sports+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg",
+                    "blurhash": "LaE.0M}yw}ogj[jsfQjt4.NhkARn",
+                    "colors": [
+                        "#fcb913",
+                        "#0000f8"
+                    ],
+                    "uri_name": "efl-championship\/2026-10-20\/wol-por",
+                    "starts_at": 1792521900,
+                    "ends_at": 1792530900,
+                    "always_live": 0,
+                    "locale": "en-gb",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/efl-championship\/2026-10-20\/wol-por",
+                    "substreams": [],
+                    "viewers": "1"
                 },
                 {
                     "id": 30672,
                     "name": "AS Roma vs. Slovan Bratislava",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b7166edeea2daaa0957bd0e81aa6f243-thumbnail.jpg",
                     "blurhash": "L6GPH_0JrXu6xDbafQaf00?cXmvK",
                     "colors": [
@@ -1240,7 +1491,7 @@
                     "id": 30673,
                     "name": "FC Porto vs. PSV Eindhoven",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/07f5445e9061093dfd55fd79a970fc98-thumbnail.jpg",
                     "blurhash": "LQE0]u1n#sxFjZj[jtay0w-4Swad",
                     "colors": [
@@ -1261,7 +1512,7 @@
                     "id": 30674,
                     "name": "Liverpool vs. Villarreal",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Prime Video",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/160186f2c1ebd3474d208541deba999c-thumbnail.jpg",
                     "blurhash": "L4IMM+0FuCORxWWFf6j=00*6RX--",
                     "colors": [
@@ -1275,14 +1526,24 @@
                     "locale": "en",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-20\/liv-vil",
-                    "substreams": [],
-                    "viewers": "0"
+                    "substreams": [
+                        {
+                            "id": 30797,
+                            "name": "Liverpool vs. Villarreal",
+                            "tag": "Champions League",
+                            "uri_name": "liverpool-vs-villarreal-30797",
+                            "source_tag": "Prime Vision",
+                            "locale": "en",
+                            "iframe": "https:\/\/taifood-blog.asia\/embed\/liverpool-vs-villarreal-30797"
+                        }
+                    ],
+                    "viewers": "2"
                 },
                 {
                     "id": 30675,
                     "name": "Manchester City vs. AEK Athens",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 1",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b54f1ec3acd9ad493ae1e0c44ad9e11b-thumbnail.jpg",
                     "blurhash": "LWGvIA0us=adkCayfQfk02xSWUt5",
                     "colors": [
@@ -1293,7 +1554,7 @@
                     "starts_at": 1792522800,
                     "ends_at": 1792531800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-20\/mci-aek",
                     "substreams": [],
@@ -1303,7 +1564,7 @@
                     "id": 30676,
                     "name": "Napoli vs. Bodo\/Glimt",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9c88bca176f065b6678bdf8e506dfe60-thumbnail.jpg",
                     "blurhash": "LZD]|.1UwijEj[fRfQfQ9Gw?W-s:",
                     "colors": [
@@ -1324,7 +1585,7 @@
                     "id": 30677,
                     "name": "Paris Saint-Germain vs. Barcelona",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "TNT Sports 2",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9333dbc9e680be642246efb8995170ea-thumbnail.jpg",
                     "blurhash": "LEA+Xi2|wMwts:WXfPoK0c#$bbWZ",
                     "colors": [
@@ -1335,17 +1596,17 @@
                     "starts_at": 1792522800,
                     "ends_at": 1792531800,
                     "always_live": 0,
-                    "locale": "en",
+                    "locale": "en-gb",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-20\/psg-bar",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "50"
                 },
                 {
                     "id": 30678,
                     "name": "VfB Stuttgart vs. Atl\u00e9tico Madrid",
                     "tag": "Champions League",
-                    "source_tag": "Champions League",
+                    "source_tag": "Paramount+",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/51c5ede2ec4563c85a7eac9c63038c6f-thumbnail.jpg",
                     "blurhash": "L8IL4I|^rrItt8s;jtR*00I=S~xW",
                     "colors": [
@@ -1366,7 +1627,7 @@
                     "id": 30724,
                     "name": "Guadalajara vs. Necaxa",
                     "tag": "Liga MX",
-                    "source_tag": "Liga MX",
+                    "source_tag": "UNIVERSO",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ddb58ac619340ee882071e2c9cffed77-thumbnail.jpg",
                     "blurhash": "L5IBTK1]L#]or=oKf6WV00|{y?AC",
                     "colors": [
@@ -1387,7 +1648,7 @@
                     "id": 30725,
                     "name": "Atl\u00e9tico de San Luis vs. Quer\u00e9taro",
                     "tag": "Liga MX",
-                    "source_tag": "Liga MX",
+                    "source_tag": "ViX Premium Deportes 4",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/32d23b290c5f99fbbaf47cb709cc9608-thumbnail.jpg",
                     "blurhash": "LKDuPz{|ict7jZf6f6j[00OXx]Na",
                     "colors": [
@@ -1408,7 +1669,7 @@
                     "id": 30726,
                     "name": "FC Ju\u00e1rez vs. Atlante",
                     "tag": "Liga MX",
-                    "source_tag": "Liga MX",
+                    "source_tag": "SportsGrid",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ad0bdc49b7ff1fd162ac1299074aa8b8-thumbnail.jpg",
                     "blurhash": "L56ImVYl0Kxvt7WBayof00r$~WMz",
                     "colors": [
@@ -1429,7 +1690,7 @@
                     "id": 30727,
                     "name": "Tigres UANL vs. Le\u00f3n",
                     "tag": "Liga MX",
-                    "source_tag": "Liga MX",
+                    "source_tag": "SportsGrid",
                     "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c753c71006d2200d5ba1ad66f7346b24-thumbnail.jpg",
                     "blurhash": "LdEy3B}TwIbFjsj@fQaz9HJAkWR-",
                     "colors": [
@@ -1506,6 +1767,27 @@
                     "locale": "en",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/laliga\/2026-10-21\/lev-ath",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30802,
+                    "name": "The Golazo Show",
+                    "tag": "Champions League",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+                    "blurhash": "L83cDOj]Dgaya$fQayfQI7ay%Qj@",
+                    "colors": [
+                        "#001a66",
+                        "#001a66"
+                    ],
+                    "uri_name": "the-golazo-show-30802",
+                    "starts_at": 1792605600,
+                    "ends_at": 1792623600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/the-golazo-show-30802",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -1633,7 +1915,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/ucl\/2026-10-21\/rma-rbl",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 30687,
@@ -1800,6 +2082,27 @@
                     "locale": "en",
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/uecl\/2026-10-22\/kai-pao",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30803,
+                    "name": "The Golazo Show",
+                    "tag": "Europa League",
+                    "source_tag": "Paramount+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/9abba790e6243b72b412914826da3049-thumbnail.jpg",
+                    "blurhash": "L8FVdRoL0fayn%fQW;fk0za|}sfk",
+                    "colors": [
+                        "#661a00",
+                        "#661a00"
+                    ],
+                    "uri_name": "the-golazo-show-30803",
+                    "starts_at": 1792684800,
+                    "ends_at": 1792710000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Football",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/the-golazo-show-30803",
                     "substreams": [],
                     "viewers": "0"
                 },
@@ -2263,7 +2566,7 @@
                     "category_name": "Football",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/uel\/2026-10-22\/lsk-rso",
                     "substreams": [],
-                    "viewers": "0"
+                    "viewers": "1"
                 },
                 {
                     "id": 30701,
@@ -4433,7 +4736,7 @@
                     "category_name": "Golf",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/sky-sports-golf-29059",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 }
             ]
         },
@@ -4461,89 +4764,236 @@
                     "category_name": "Ice Hockey",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl-network-29780",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "2"
                 },
                 {
-                    "id": 30556,
-                    "name": "Anaheim Ducks vs. New York Rangers",
-                    "tag": "NHL",
-                    "source_tag": "MSG",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/ede8a2abbb5832c2dee5a242cc4b43eb-thumbnail.jpg",
-                    "blurhash": "LZEw%%{]wNogfkj[jtay55OZX7R*",
-                    "colors": [
-                        "#fc4c02",
-                        "#0056ae"
-                    ],
-                    "uri_name": "nhl\/2026-10-19\/ana-nyr",
-                    "starts_at": 1792450800,
-                    "ends_at": 1792461600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-19\/ana-nyr",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30558,
-                    "name": "Colorado Avalanche vs. Philadelphia Flyers",
-                    "tag": "NHL",
-                    "source_tag": "NBC Sports Phil",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/0738d7157474bcb7ce13d2693f79b7a3-thumbnail.jpg",
-                    "blurhash": "L5GPK~0?+GITnie.ayX800[TPB}[",
-                    "colors": [
-                        "#860038",
-                        "#fe5823"
-                    ],
-                    "uri_name": "nhl\/2026-10-19\/col-phi",
-                    "starts_at": 1792450800,
-                    "ends_at": 1792461600,
-                    "always_live": 0,
-                    "locale": "en",
-                    "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-19\/col-phi",
-                    "substreams": [],
-                    "viewers": "0"
-                },
-                {
-                    "id": 30561,
-                    "name": "San Jose Sharks vs. Toronto Maple Leafs",
+                    "id": 30765,
+                    "name": "San Jose Sharks vs. Montreal Canadiens",
                     "tag": "NHL",
                     "source_tag": "ESPN+",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/df8c42756aca00f6a271c49ad372d36b-thumbnail.jpg",
-                    "blurhash": "L56v0;2QE1~XWDkBayay00^,%L4n",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/465be54d60e6065fbb8ab4a5dca71ed2-thumbnail.jpg",
+                    "blurhash": "L8Bogw3=#S-Cj[WWayj[00|IgNRO",
                     "colors": [
                         "#00788a",
-                        "#003e7e"
+                        "#c41230"
                     ],
-                    "uri_name": "nhl\/2026-10-19\/sj-tor",
-                    "starts_at": 1792452600,
-                    "ends_at": 1792463400,
+                    "uri_name": "nhl\/2026-10-20\/sj-mtl",
+                    "starts_at": 1792537200,
+                    "ends_at": 1792548000,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-19\/sj-tor",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/sj-mtl",
                     "substreams": [],
                     "viewers": "0"
                 },
                 {
-                    "id": 30563,
-                    "name": "Pittsburgh Penguins vs. Utah Mammoth",
+                    "id": 30766,
+                    "name": "Colorado Avalanche vs. New Jersey Devils",
                     "tag": "NHL",
-                    "source_tag": "Utah 16",
-                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/5f8ff61faa0c8597d43cdcf057049286-thumbnail.jpg",
-                    "blurhash": "L2688G~7Di4=xut7WBWB005C-=^i",
+                    "source_tag": "MSG",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e2b9cfadcff5825e9e69778f7dfee767-thumbnail.jpg",
+                    "blurhash": "L6F._82IrD+usAWBaykC00{{cEkX",
                     "colors": [
-                        "#000000",
-                        "#000000"
+                        "#860038",
+                        "#e30b2b"
                     ],
-                    "uri_name": "nhl\/2026-10-19\/pit-uta",
-                    "starts_at": 1792458000,
-                    "ends_at": 1792468800,
+                    "uri_name": "nhl\/2026-10-20\/col-nj",
+                    "starts_at": 1792537200,
+                    "ends_at": 1792548000,
                     "always_live": 0,
                     "locale": "en",
                     "category_name": "Ice Hockey",
-                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-19\/pit-uta",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/col-nj",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30767,
+                    "name": "Anaheim Ducks vs. New York Islanders",
+                    "tag": "NHL",
+                    "source_tag": "MSGSN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/e3f5f1f4466ccf7ad00801899ee07a75-thumbnail.jpg",
+                    "blurhash": "LXF4HE{^wMs:kCf6f7j[56OFX7Nw",
+                    "colors": [
+                        "#fc4c02",
+                        "#00529b"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/ana-nyi",
+                    "starts_at": 1792537200,
+                    "ends_at": 1792548000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/ana-nyi",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30768,
+                    "name": "Los Angeles Kings vs. Washington Capitals",
+                    "tag": "NHL",
+                    "source_tag": "MNMT",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/bf25a72c5baaf751b8d4fb7103246b51-thumbnail.jpg",
+                    "blurhash": "L8C;Fp2.+b+woLbHf6ay0K{#Xmbb",
+                    "colors": [
+                        "#121212",
+                        "#d71830"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/la-wsh",
+                    "starts_at": 1792537200,
+                    "ends_at": 1792548000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/la-wsh",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30769,
+                    "name": "Toronto Maple Leafs vs. Columbus Blue Jackets",
+                    "tag": "NHL",
+                    "source_tag": "CBJNHL",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/55890c3cc1f82000ff7bb8b056b51b18-thumbnail.jpg",
+                    "blurhash": "L87Ue_.TIoH?WWaffQj[00Di%2%g",
+                    "colors": [
+                        "#003e7e",
+                        "#002d62"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/tor-cbj",
+                    "starts_at": 1792537200,
+                    "ends_at": 1792548000,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/tor-cbj",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30770,
+                    "name": "Winnipeg Jets vs. St. Louis Blues",
+                    "tag": "NHL",
+                    "source_tag": "Blues App",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/b6ccccba852ffd09928707c78eb22724-thumbnail.jpg",
+                    "blurhash": "L46Is]_}E74=t6a#ayjs005b-n?b",
+                    "colors": [
+                        "#002d62",
+                        "#0070b9"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/wpg-stl",
+                    "starts_at": 1792540800,
+                    "ends_at": 1792551600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/wpg-stl",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30771,
+                    "name": "Boston Bruins vs. Dallas Stars",
+                    "tag": "NHL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/3a101d8825d08577f828982c2a5a217a-thumbnail.jpg",
+                    "blurhash": "L98hN}{9NY58j[jua{ay005kxb?F",
+                    "colors": [
+                        "#231f20",
+                        "#20864c"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/bos-dal",
+                    "starts_at": 1792540800,
+                    "ends_at": 1792551600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/bos-dal",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30772,
+                    "name": "Minnesota Wild vs. Edmonton Oilers",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/cca255b10d56bbfa28342f8a8b048226-thumbnail.jpg",
+                    "blurhash": "L46uIw53D%_4%2Rjayt700?d-;9E",
+                    "colors": [
+                        "#124734",
+                        "#00205b"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/min-edm",
+                    "starts_at": 1792544400,
+                    "ends_at": 1792555200,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/min-edm",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30773,
+                    "name": "Detroit Red Wings vs. Seattle Kraken",
+                    "tag": "NHL",
+                    "source_tag": "KONG",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/a22f8123ec2640b28e0d554d272937af-thumbnail.jpg",
+                    "blurhash": "LaDG$k|bwJODj[jtf6fQ9@JSX8n%",
+                    "colors": [
+                        "#e30526",
+                        "#000d33"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/det-sea",
+                    "starts_at": 1792546800,
+                    "ends_at": 1792557600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/det-sea",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30774,
+                    "name": "Carolina Hurricanes vs. Vancouver Canucks",
+                    "tag": "NHL",
+                    "source_tag": "ESPN+",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/94dcc24927bc2827c2d6c4489d3d55cc-thumbnail.jpg",
+                    "blurhash": "LVDaQG{xwJX8afoLf6ay5PJ-bbWW",
+                    "colors": [
+                        "#e30426",
+                        "#003e7e"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/car-van",
+                    "starts_at": 1792548000,
+                    "ends_at": 1792558800,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/car-van",
+                    "substreams": [],
+                    "viewers": "0"
+                },
+                {
+                    "id": 30775,
+                    "name": "Tampa Bay Lightning vs. Vegas Golden Knights",
+                    "tag": "NHL",
+                    "source_tag": "ESPN",
+                    "poster": "https:\/\/static.ppvservices.st\/assets\/thumb\/c2f3a1860b56fa4d1de348af10483cb2-thumbnail.jpg",
+                    "blurhash": "LA7Ue,pMM|Mwofayayay00Mwxux]",
+                    "colors": [
+                        "#003e7e",
+                        "#344043"
+                    ],
+                    "uri_name": "nhl\/2026-10-20\/tb-vgk",
+                    "starts_at": 1792549800,
+                    "ends_at": 1792560600,
+                    "always_live": 0,
+                    "locale": "en",
+                    "category_name": "Ice Hockey",
+                    "iframe": "https:\/\/taifood-blog.asia\/embed\/nhl\/2026-10-20\/tb-vgk",
                     "substreams": [],
                     "viewers": "0"
                 }
@@ -4734,7 +5184,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-cows",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 8008,
@@ -4755,7 +5205,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-family-guy",
                     "substreams": [],
-                    "viewers": "11"
+                    "viewers": "8"
                 },
                 {
                     "id": 5191,
@@ -4776,7 +5226,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-the-simpsons",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 },
                 {
                     "id": 16623,
@@ -4797,7 +5247,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/247-spongebob-squarepants",
                     "substreams": [],
-                    "viewers": "4"
+                    "viewers": "1"
                 },
                 {
                     "id": 17270,
@@ -4839,7 +5289,7 @@
                     "category_name": "24\/7 Streams",
                     "iframe": "https:\/\/taifood-blog.asia\/embed\/sky-sports-racing",
                     "substreams": [],
-                    "viewers": "1"
+                    "viewers": "0"
                 }
             ]
         }
